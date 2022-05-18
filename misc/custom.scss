@@ -358,3 +358,16 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
   padding: 6rem 1.5rem !important;
 }
+
+.text-center {
+  text-align: center;
+  
+}
+
+.red-text {
+  color: $primary !important;
+}
+
+.blue-text {
+  color: #00AEEF !important;
+}

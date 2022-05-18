@@ -42,6 +42,7 @@ permalink: /about/what-to-expect
 & ceremony segment, as well as a refreshed
 Total Defence display segment. 
 <br>
+
 National Education (NE) shows for primary 5
 students makes a comeback and will be held
 in July 2022. 
