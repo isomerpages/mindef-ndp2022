@@ -19,6 +19,8 @@ permalink: /about/what-to-expect
                     Sign up for #DoingGood activities in
                     preparation for 22 Days of Doing Good.
                     </p>
+
+                    <p class="text-center"><a href="" class="btn">Find out more</a></p>
             </td>
             <td>
                 <img src="/images/NDP22 Website 17May20223.jpg" alt="">
@@ -33,6 +35,7 @@ permalink: /about/what-to-expect
                     displays, fighter jets and state flag fly past. 
 
                 </p>
+                <p class="text-center"><a href="" class="btn">Find out more</a></p>
             </td>
             <td>
                 <img src="/images/NDP22 Website 17May20224.jpg" alt="">
@@ -51,6 +54,7 @@ previews and actual day.
 
 
                 </p>
+                <p class="text-center"><a href="" class="btn">Find out more</a></p>
             </td>
         </tr>
     </tbody>

@@ -380,3 +380,10 @@ $desktop: 960px + (2 * $gap) !default;
 table a  {
   color: $primary !important;
 }
+
+.btn {
+  border-radius: 6px !important;
+  background-color: $primary !important;
+  color: white !important;
+  padding: 7px 47px !important;
+}
