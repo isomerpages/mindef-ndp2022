@@ -8,7 +8,7 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: About
-    collection: about-collection
+    collection: about
   - title: Example Page
     url: /example-page/
   - title: Example Collection

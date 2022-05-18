@@ -1,5 +1,5 @@
 collections:
-  about-collection:
+  about:
     output: true
     order:
       - theme-and-logo.md
