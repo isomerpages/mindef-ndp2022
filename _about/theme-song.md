@@ -7,9 +7,9 @@ permalink: /about/theme-song
 <i class="blue-text">Introduction write-up on theme song & MV – whats the inspiration behind the song & what’s so
 special about this year’s MV? </i>
 
-<b class="red-text">“Stronger Together”</b>
+<p class="text-center"><b class="red-text">“Stronger Together”</b></p>
 
-<b class="text-center">Verse 1A</b>
+<p class="text-center"><b class="text-center">Verse 1A</b></p>
 
 <p class="text-center">
     Relight Our Fire, we’ll find our way
@@ -20,7 +20,7 @@ Lift the spirits broken, hear the words unspoken
 Still more stories yet untold
 </p>
 
-<b class="text-center">Verse 1B</b>
+<p class="text-center"><b class="text-center">Verse 1B</b></p>
 
 <p class="text-center">
     And I’m grateful still for the sun that shines
@@ -30,7 +30,7 @@ To be bigger than my fears
 And with every breath I take, I believe
 </p>
 
-<b class="text-center">Chorus</b>
+<p class="text-center"><b class="text-center">Chorus</b></p>
 
 <p class="text-center">
     We are Fire through the night
@@ -41,9 +41,9 @@ We will Rise, Rise, we will Rise
 Stronger Together
 </p>
 
-<b class="text-center">
+<p class="text-center"><b class="text-center">
     Verse 2
-</b>
+</b></p>
 
 <p class="text-center">
     Grateful, Faithful, Ignite a spark
@@ -55,7 +55,7 @@ We will leave no one behind
 It’s in times like these we learn to live
 </p>
 
-<b class="text-center">Bridge</b>
+<p class="text-center"><b class="text-center">Bridge</b></p>
 
 <p class="text-center">
     Like a Phoenix from the flames we will Rise up x 3
