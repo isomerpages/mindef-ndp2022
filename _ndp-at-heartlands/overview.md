@@ -6,11 +6,11 @@ permalink: /ndp-at-heartlands/overview
 
 <i class="blue-text">
     Introduction write up [take reference from ME1]
-Highlights [take reference from ME1]
+Highlights [take reference from ME1]</i>
 - Return of Parade & Ceremony segment
 - Refreshed Total Defence Display segment
 - Something about show
 Calendar of Events
-</i>
 
-**Watch this space and follow us @ndpeeps for updates.**
+
+<b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>

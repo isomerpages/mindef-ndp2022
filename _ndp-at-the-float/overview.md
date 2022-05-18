@@ -6,7 +6,8 @@ permalink: /ndp-at-the-float/overview
 
 <i class="blue-text">
     Introduction write up [take reference from ME1]
-Highlights [take reference from ME1]
+Highlights [take reference from ME1]</i>
+
 - Return of Parade & Ceremony segment
 - Refreshed Total Defence Display segment
 - Something about show
@@ -15,6 +16,5 @@ Ticketing Information
 - Tickets available for Previews and Actual Day
 - Details for balloting will be out soon 
 
-</i>
 
 <b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>
