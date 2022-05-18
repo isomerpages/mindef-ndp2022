@@ -1,5 +1,4 @@
 ---
-title: About
-permalink: /about/going-green/
-third_nav_title: Going Green
+title: Going Green
+permalink: /about/going-green
 ---

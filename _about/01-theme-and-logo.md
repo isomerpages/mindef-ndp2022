@@ -1,5 +1,4 @@
 ---
-title: About
-permalink: /about/theme-and-logo/
-third_nav_title: Theme & Logo
+title: Theme & Logo
+permalink: /about/theme-and-logo
 ---

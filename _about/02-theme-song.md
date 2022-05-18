@@ -1,5 +1,4 @@
 ---
-title: About
-permalink: /about/theme-song/
-third_nav_title: Theme Song
+title: Theme Song
+permalink: /about/theme-song
 ---
