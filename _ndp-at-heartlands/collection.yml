@@ -1,0 +1,11 @@
+collections:
+  ndp-at-heartlands:
+    output: true
+    order:
+      - overview.md
+      - general-advisory.md
+      - buona-vista.md
+      - woodlands.md
+      - punggol.md
+      - geylang-serai.md
+      - bishan.md
