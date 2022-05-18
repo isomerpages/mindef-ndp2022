@@ -15,7 +15,11 @@ links:
     collection: ndp-at-the-float
   - title: NDP @ Heartlands
     collection: ndp-at-heartlands
-  - title: Example Collection
-    collection: example-collection
+  - title: Stories
+    collection: stories
+  - title: Sponsors
+    collection: sponsors
+  - title: Activities
+    collection: activities
   - title: Resources
     resource_room: true

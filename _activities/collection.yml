@@ -1,0 +1,10 @@
+collections:
+  activities:
+    output: true
+    order:
+      - dance-of-the-nation.md
+      - voice-of-the-nation.md
+      - heritage-hunter.md
+      - game-on-nila.md
+      - ndp-at-the-metaverse.md
+      - activities-at-home.md
