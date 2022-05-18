@@ -4,7 +4,7 @@ permalink: /about/theme-and-logo
 ---
 ![Theme and Logo](/images/NDP22%20Website%2017May20225.jpg)
 
-*‘Stronger Together, Majulah!’ – explanation is currently being proofread.*
+<i class="blue-text">‘Stronger Together, Majulah!’ – explanation is currently being proofread.</i>
 
 The logo portrays a Singapore that is stronger when love and compassion bring everyone
 together, and our national ideals continue to spur us on. The two figures holding hands and
