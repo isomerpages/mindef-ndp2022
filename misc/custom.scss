@@ -341,8 +341,12 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-button.search-button {
-  border-radius: 3px !important;
+  border-radius: 6px !important;
   background-color: white !important;
   color: #EE3E35 !important;
   padding: 7px 47px !important;
+}
+
+#key-highlights .col {
+  border-left: 1px solid white !important;
 }
