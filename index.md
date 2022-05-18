@@ -2,7 +2,7 @@
 layout: homepage
 title: NDP2022
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/NDP22 Website 17May20225.jpg
 permalink: /
 sections:
     - hero:
