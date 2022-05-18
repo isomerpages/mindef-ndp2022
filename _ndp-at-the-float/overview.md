@@ -17,4 +17,4 @@ Ticketing Information
 
 </i>
 
-**Watch this space and follow us @ndpeeps for updates.**
+<b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>
