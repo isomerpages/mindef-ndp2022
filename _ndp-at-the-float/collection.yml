@@ -1,0 +1,12 @@
+collections:
+  ndp-at-the-float:
+    output: true
+    order:
+      - overview.md
+      - fireworks.md
+      - watch-broadcast.md
+      - parade-guide.md
+      - getting-there.md
+      - things-to-bring.md
+      - traffic-advisory.md
+      - fly-past-advisory.md
