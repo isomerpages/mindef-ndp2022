@@ -2,8 +2,7 @@
 title: What to Expect
 permalink: /about/what-to-expect
 ---
-
-
+![](/images/NDP22%20Website%2017May2022.jpg)
 
 <table>
     <tbody>
