@@ -1,0 +1,7 @@
+collections:
+  about-collection:
+    output: true
+    order:
+      - theme-and-logo.md
+      - theme-song.md
+      - going-green.md
