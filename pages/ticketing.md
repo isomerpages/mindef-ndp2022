@@ -4,6 +4,8 @@ permalink: /ticketing/
 ---
 ![](/images/NDP22%20Website%2017May202217.jpg)
 
-Introduction line [reference ME1]
+<i class="blue-text">
+    Introduction line [reference ME1]
+</i>
 
-Watch this space and follow us @ndpeeps for updates.
+<b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>

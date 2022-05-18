@@ -4,6 +4,6 @@ permalink: /activities/overview
 ---
 ![](/images/NDP22%20Website%2017May202216.jpg)
 
-**Watch this space for activities for both young & old!**
+<b>Watch this space for activities for both young & old!</b>
 
-**Follow us @ndpeeps for updates.**
+<b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>

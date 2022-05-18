@@ -4,4 +4,6 @@ permalink: /faq/
 ---
 ![](/images/NDP22%20Website%2017May202219.jpg)
 
-FAQ
+<i class="blue-text">
+    FAQ
+</i>

@@ -369,6 +369,14 @@ $desktop: 960px + (2 * $gap) !default;
   display: block !important;
 }
 
+.red-textt {
+  color: $primary !important;
+}
+
 .blue-text {
   color: #00AEEF !important;
+}
+
+a  {
+  color: $primary !important;
 }
