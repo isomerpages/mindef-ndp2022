@@ -354,3 +354,7 @@ $desktop: 960px + (2 * $gap) !default;
 #key-highlights .col:first-child {
   border-left: none !important;
 }
+
+.bp-hero-body {
+  padding: 6rem 1.5rem !important;
+}
