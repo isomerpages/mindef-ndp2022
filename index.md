@@ -7,21 +7,21 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
+        title: Stronger Together, Majulah!
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+        background: /images/NDP22 Website 17May2022.jpg
+        button: What's On?
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Theme & Logo
+              description: About NDP 2022's theme & logo
+              url: /about/theme-and-logo
+            - title: Theme Song
+              description: Watch and sing along to "Stronger Together"
+              url: /about/theme-song
+            - title: Stories
+              description: Featured Stories in the music video
+              url: /stories/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
