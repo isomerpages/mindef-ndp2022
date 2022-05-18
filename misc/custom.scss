@@ -366,6 +366,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .red-text {
   color: $primary !important;
+  display: block !important;
 }
 
 .blue-text {
