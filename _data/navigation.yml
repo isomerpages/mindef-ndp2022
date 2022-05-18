@@ -21,7 +21,9 @@ links:
     url: /sponsors/
   - title: Activities
     collection: activities
-  - title: E-Vouchers
-    url: /e-vouchers/
   - title: Ticketing
     url: /ticketing/
+  - title: E-Vouchers
+    url: /e-vouchers/
+  - title: FAQ
+    url: /faq/
