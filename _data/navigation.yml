@@ -16,10 +16,12 @@ links:
   - title: NDP @ Heartlands
     collection: ndp-at-heartlands
   - title: Stories
-    collection: stories
+    url: /stories/
   - title: Sponsors
-    collection: sponsors
+    url: /sponsors/
   - title: Activities
     collection: activities
-  - title: Resources
-    resource_room: true
+  - title: E-Vouchers
+    url: /e-vouchers/
+  - title: Ticketing
+    url: /ticketing/
