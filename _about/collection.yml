@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - what-to-expect
       - theme-and-logo.md
       - theme-song.md
       - going-green.md
