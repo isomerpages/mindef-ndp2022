@@ -13,4 +13,4 @@ links:
   - title: Activities
     collection: activities
   - title: FAQ
-    url: /faq/
+    collection: faq
