@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Brand Guide.md
       - Newsroom.md
       - stories.md
       - what-to-expect.md
