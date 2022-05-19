@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - Ticket Application.md
       - Ticketing Modality.md
       - Brand Guidelines.md
       - theme-and-logo.md
