@@ -4,5 +4,4 @@ collections:
     order:
       - stories.md
       - what-to-expect.md
-      - theme-and-logo.md
       - theme-song.md
