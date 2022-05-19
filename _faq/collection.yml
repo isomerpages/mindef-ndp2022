@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - Show Day.md
       - Ticket Purchase.md
       - Ticket Notification.md
       - Ticket Balloting.md
