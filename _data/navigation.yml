@@ -1,20 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: About
     collection: about
   - title: PledgeSG and Doing Good
     url: /pledgesg-and-doing-good/
-  - title: NDP @ the Float
-    collection: ndp-at-the-float
   - title: NDP @ Heartlands
     collection: ndp-at-heartlands
+  - title: NDP @ the Float
+    collection: ndp-at-the-float
   - title: Stories
     url: /stories/
   - title: Sponsors
