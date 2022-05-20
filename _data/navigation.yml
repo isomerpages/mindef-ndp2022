@@ -16,3 +16,5 @@ links:
     url: /ticketing
   - title: FAQ
     url: /faq
+  - title: FAQ
+    collection: faq
