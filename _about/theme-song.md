@@ -2,62 +2,87 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-![Youtube](/images/placeholder.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<i class="blue-text">Introduction write-up on theme song & MV – whats the inspiration behind the song & what’s so
-special about this year’s MV? </i>
+# STRONGER TOGETHER
+#### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
-<p class="text-center"><b class="red-text">“Stronger Together”</b></p>
+Relight Our Fire<br> 
+We’ll find our way<br> 
+And time heals all things<br> 
+A little day by day<br> 
 
-<p class="text-center"><b class="text-center">Verse 1A</b></p>
+Everywhere that I go<br> 
+See the people I know<br> 
+All the faces young and old<br> 
 
-<p class="text-center">
-    Relight Our Fire, we’ll find our way
-And time heals all things, a little day by day
-Everywhere that I go, see the people I know
-All the faces young and old
-Lift the spirits broken, hear the words unspoken
-Still more stories yet untold
-</p>
+Lift the spirits broken<br>
+Hear the words unspoken<br>
+Still more stories yet untold<br>
 
-<p class="text-center"><b class="text-center">Verse 1B</b></p>
+And I’m grateful still for the sun that shines<br>
+Spirit, Heart and Mind so clear<br>
+And I’m finding ways doing all I can<br>
+To be bigger than my fears<br>
 
-<p class="text-center">
-    And I’m grateful still for the sun that shines
-Spirit, Heart and Mind so clear
-And I’m finding ways to be a better man
-To be bigger than my fears
-And with every breath I take, I believe
-</p>
+And with every breath I take I believe<br>
 
-<p class="text-center"><b class="text-center">Chorus</b></p>
+**We are fire<br>
+Through the night<br>
+We’re the light into the morning after<br>**
 
-<p class="text-center">
-    We are Fire through the night
-We’re the light into the morning after  
-Through the wire in this fight
-From the flames we will soar forever
-We will Rise, Rise, we will Rise
-Stronger Together
-</p>
+**Through the wire <br>
+In this fight<br>
+And from the flames we will soar forever<br>**
 
-<p class="text-center"><b class="text-center">
-    Verse 2
-</b></p>
+**We will Rise<br>
+Rise<br>
+We Rise Stronger Together<br>**
 
-<p class="text-center">
-    Grateful, Faithful, Ignite a spark
-May our deeds define us
-And our words remind us
-All for one and one for all
-Now the road ahead may have just begun
-We will leave no one behind
-It’s in times like these we learn to live
-</p>
+Grateful<br>
+Faithful<br>
+Ignite a spark<br>
 
-<p class="text-center"><b class="text-center">Bridge</b></p>
+May our deeds define us<br>
+And our words remind us<br>
+All for one and one for all<br>
 
-<p class="text-center">
-    Like a Phoenix from the flames we will Rise up x 3
-Like a Phoenix from the flames
-</p>
+Now the road ahead may have just begun<br>
+We will leave no one behind<br>
+
+It’s in times like these we learn to live<br>
+
+**We are fire<br>
+Through the night<br>
+We’re the Light into the Morning After<br>**
+
+**Through the wire <br>
+In this fight<br>
+And from the flames we will soar forever<br>**
+
+**We will Rise<br>
+Rise<br>
+We Rise Stronger Together<br>**
+
+Like a Phoenix from the Flames<br>
+We will Rise Up<br>
+Like a Phoenix from the Flames<br>
+We will Rise Up<br>
+Like a Phoenix from the Flames<br>
+We will Rise Up<br>
+Like a Phoenix from the Flames<br>
+We will Rise…<br>
+
+**We are fire<br>
+Through the night<br>
+We’re the Light into the Morning After<br>**
+
+**Through the wire <br>
+In this fight<br>
+And from the flames we will soar forever<br>**
+
+**We will Rise<br>
+Rise<br>
+We Rise Stronger Together<br>**
+
+**We’re Stronger Together**
