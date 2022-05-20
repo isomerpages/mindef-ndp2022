@@ -7,7 +7,7 @@ Get to know these inspiring people who were featured in this year’s “Stronge
 <table>
     <tbody>
         <tr>
-            <td style="max-width: 240px"><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
+            <td style="width: 240px"><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
             <td>
                 <b>POTTER WITH A MISSION</b><br><b>Kim Whye Kee of Qi Pottery</b>
                 <p>Having spent a decade in prison in his youth, Whye Kee is 
@@ -18,7 +18,7 @@ Academy to help at-risk youths and underprivileged kids.</p>
             </td>
         </tr>
         <tr>
-            <td style="max-width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
+            <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
             <td>
                 <b>SERVING WITH A HEART</b><br><b>SIA Cabin Crew</b>
                 <p>When the pandemic hit, Singapore Airlines sent 300 stewardesses 
@@ -30,7 +30,7 @@ relevant competencies.</p>
         </tr>
 
         <tr>
-            <td style="max-width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am3.jpg" alt="image"></td>
+            <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am3.jpg" alt="image"></td>
             <td>
                 <b>A PASSION THAT IS IN SYNC</b><br><b>Singapore Synchronised Swimming Team</b>
                 <p>While the spectators see grace and synchroneity above the 
@@ -41,7 +41,7 @@ competitions to emerge as Gold medalists in 2015 & 2017. </p>
             </td>
         </tr>
 			        <tr>
-            <td style="max-width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
+            <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
             <td>
                 <b>REDEFINING DANCE</b><br><b>Redeafination - Deaf Dance Crew</b>
                 <p>Redeafinition is a hip hop dance crew for the deaf. Grooving to 
@@ -53,7 +53,7 @@ performing arts talents within the deaf community.</p>
         </tr>
 			
         <tr>
-            <td style="max-width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
+            <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
             <td>
                <b>A BROAD SPECTRUM OF TALENTS</b><br><b>Dance Spectrum</b>
                 <p>A dance school that aims to bring out the best with instructors 
