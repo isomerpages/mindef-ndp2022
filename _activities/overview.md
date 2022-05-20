@@ -13,7 +13,7 @@ Fun and rewarding activities for both young and young at heart!
     in Singapore with this fun and educational app. Click here to 
     download the app</p>
     </td>
-    <tr>
+</tr>
     <tr>
         <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm2.jpg" alt="Image"></td>
         <td>
