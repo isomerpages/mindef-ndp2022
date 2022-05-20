@@ -42,4 +42,4 @@ Fun and rewarding activities for both young and young at heart!
     </tbody>
 </table>
 
-**Watch this space and follow us @ndpeeps on Facebook, Youtube, Instagram and Tiktok**
+**Watch this space and follow us @ndpeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
