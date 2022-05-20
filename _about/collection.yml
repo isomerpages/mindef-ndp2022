@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - sponsors.md
       - Theme & Logo.md
       - Brand Guide.md
       - Newsroom.md
