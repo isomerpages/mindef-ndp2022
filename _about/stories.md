@@ -9,7 +9,7 @@ Get to know these inspiring people who were featured in this year’s “Stronge
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
             <td>
-                <b class="red-text">POTTER WITH A MISSION</b><br><b>Kim Whye Kee of Qi Pottery</b>
+                <b class="red-text">POTTER WITH A MISSION</b><b class="red-text">Kim Whye Kee of Qi Pottery</b>
                 <p style="margin-top: 0px">Having spent a decade in prison in his youth, Whye Kee is 
 committed to harnessing the transformative power of pottery to 
 push inmates and youths to think deeply about their lives. He 
@@ -20,7 +20,7 @@ Academy to help at-risk youths and underprivileged kids.</p>
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
             <td>
-                <b>SERVING WITH A HEART</b><br><b>SIA Cabin Crew</b>
+                <b class="red-text">SERVING WITH A HEART</b><br><b class="red-text">SIA Cabin Crew</b>
                 <p style="margin-top: 0px">When the pandemic hit, Singapore Airlines sent 300 stewardesses 
 and stewards for training to take on the role of care ambassadors 
 to help the medical fraternity in caring for patients. The Singapore 
