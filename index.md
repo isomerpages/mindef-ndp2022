@@ -10,7 +10,7 @@ sections:
       subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
         minim veniam
-      background: /images/NDP22 Website 17May2022.jpg
+      background: /images/NDP2022 website main visual.jpg
       button: What's On?
       url: /contact-us/
       key_highlights:
