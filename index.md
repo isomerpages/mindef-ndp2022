@@ -2,7 +2,7 @@
 layout: homepage
 title: NDP2022
 description: Brief site description here
-image: /images/logo.png
+image: /images/About - Theme and Logo Image 20May2022 12pm.jpg
 permalink: /
 sections:
   - hero:
@@ -53,3 +53,4 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
       alt: National Day  at The Float
 ---
+
