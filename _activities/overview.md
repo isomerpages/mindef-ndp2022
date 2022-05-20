@@ -6,7 +6,7 @@ Fun and rewarding activities for both young and young at heart!
 <table>
     <tbody>
     <tr>
-        <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm.jpg" alt="Image"></td>
+        <td style="width: 200px"><img src="/images/Activities Images 20May2022 2pm.jpg" alt="Image"></td>
         <td> 
                         <b>HERITAGE HUNTER</b>
                         <p>Explore Singapore and learn more about iconic heritage sites 
@@ -15,7 +15,7 @@ Fun and rewarding activities for both young and young at heart!
     </td>
 </tr>
     <tr>
-        <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm2.jpg" alt="Image"></td>
+        <td style="width: 200px"><img src="/images/Activities Images 20May2022 2pm2.jpg" alt="Image"></td>
         <td>
                         <b>GAME ON NILA</b>
                         <p>Keep fit and uncover hidden gems and attractive experiences 
@@ -24,7 +24,7 @@ Fun and rewarding activities for both young and young at heart!
                 </td>
     </tr>
     <tr>
-        <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm3.jpg" alt="Image"></td>
+        <td style="width: 200px"><img src="/images/Activities Images 20May2022 2pm3.jpg" alt="Image"></td>
         <td>
                         <b>KINDSVILLE MAGAZINE</b>
                         <p>Kindness is in everyone. We aspire to inspire graciousness one 
@@ -32,7 +32,7 @@ Fun and rewarding activities for both young and young at heart!
                 </td>
     </tr>
     <tr>
-        <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm4.jpg" alt="Image"></td>
+        <td style="width: 200px"><img src="/images/Activities Images 20May2022 2pm4.jpg" alt="Image"></td>
         <td>
                         <b>NDP 2022 COMIC BOOK</b>
                         <p>Read about August and his adventures around Singapore. 
