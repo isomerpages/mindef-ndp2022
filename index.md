@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: This year’s theme reinforces the values of strength in unity. The
+      subtitle: This year’s theme reinforces the value of strength in unity. The
         importance of family and community as we strive toward a stronger future
         together.
       background: /images/NDP2022 website main visual.jpg
