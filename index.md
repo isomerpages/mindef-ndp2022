@@ -9,8 +9,8 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: This year’s theme reinforces the value of strength in unity. The
-        importance of family and community as we strive toward a stronger future
+      subtitle: This year's theme reinforces values of strength in unity and the
+        importance of family & community as we strive toward a stronger future
         together.
       background: /images/NDP2022 website main visual.jpg
       button: What's On?
@@ -55,5 +55,3 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
       alt: National Day  at The Float
 ---
-
-
