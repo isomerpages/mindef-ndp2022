@@ -35,12 +35,21 @@ sections:
       button: Find out more
       url: /pledgesg-and-doing-good/
       alt: PledgeSG and Doing Good
+      image: /images/NDP22 Website Homepage Images 20May2022 11am.jpg
   - infopic:
       title: National Day at Heartlands
-      description: Heartland celebrations will be held at five locations
-        in  Singapore. Singaporeans and their families can look forward  to a
-        myriad of performances.
+      description: Heartland celebrations will be held at five locations in Singapore.
+        Look forward to a myriad of performances, activities and exhibitions.
       button: Find out more
       url: /ndp-at-heartlands/overview
       alt: National Day at Heartlands
+      image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
+  - infopic:
+      title: National Day  at The Float
+      description: Get ready for the much anticipated Total Defence Display, and air,
+        land and sea demonstrations by the Singapore Armed Forces.
+      button: Find out more
+      url: /ndp-at-the-float/overview
+      image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
+      alt: National Day  at The Float
 ---
