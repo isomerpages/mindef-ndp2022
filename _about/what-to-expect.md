@@ -2,60 +2,25 @@
 title: What to Expect
 permalink: /about/what-to-expect
 ---
-![](/images/NDP22%20Website%2017May2022.jpg)
+Here’s what you can look forward to as we gear up to celebrate our nation’s 57th birthday!
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <img src="/images/NDP22 Website 17May20222.jpg" alt="">
-                <p class="text-center">NDP 2022’s PledgeSg and Doing Good
-                    campaign will be from June to August of this
-                    year.
-                    <br><br>
-                    To participate and inspire others to do good,
-                    simply upload a photo or video of your
-                    pledge on social media and #pledgesg.
-                    Sign up for #DoingGood activities in
-                    preparation for 22 Days of Doing Good.
-                    </p>
+![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am.jpg)
 
-                    <p class="text-center"><a href="" class="btn">Find out more</a></p>
-            </td>
-            <td>
-                <img src="/images/NDP22 Website 17May20223.jpg" alt="">
-                <p class="text-center">
-                    Heartland Celebrations will in the week
-                    leading up to National Day, from 1 to 7
-                    August 2022 at Buona Vista, Woodlands,
-                    Punggol, Geylang Serai and Bishan.<br><br>
-                    Some key highlights are appearances by
-                    the Red Lions, fireworks, family carnival &
-                    performances, SAF & Home Team platform
-                    displays, fighter jets and state flag fly past. 
+NDP 2022’s PledgeSg and Doing Good campaign will be from June to August of this year. To 
+participate and inspire others to do good, simply upload a photo or video of your pledge on 
+social media and #pledgesg. Sign up for #DoingGood activities in preparation for 22 Days of 
+Doing Good. Click here to find out more.
 
-                </p>
-                <p class="text-center"><a href="" class="btn">Find out more</a></p>
-            </td>
-            <td>
-                <img src="/images/NDP22 Website 17May20224.jpg" alt="">
-                <p class="text-center">
-                    NDP 2022 marks the return of the parade
-& ceremony segment, as well as a refreshed
-Total Defence display segment. 
-<br><br>
+![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am2.jpg)
 
-National Education (NE) shows for primary 5
-students makes a comeback and will be held
-in July 2022. 
-<br><br>
-Ticket balloting will be available for both
-previews and actual day. 
+Celebrations at the Heartlands will be at five locations in Singapore from 6 and 7 August 2022. 
+Singaporeans and their families can look forward to performances, activities and exhibitions. 
+On 9 August 2022, there will be fireworks displays at these heartland locations as well. Click 
+here to find out more.
 
+![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am3.jpg)
 
-                </p>
-                <p class="text-center"><a href="" class="btn">Find out more</a></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+Celebrations at The Float @ Marina Bay will start with the return of National Education shows for 
+primary 5 students held on 9 and 16 July 2022. Followed by Preview shows on 23 and 30 July 
+2022. And finally, our actual day National Day Parade on 9 August 2022. Click here to find out 
+more.
