@@ -2,19 +2,15 @@ logo: /images/NDP 22 Logo.png
 links:
   - title: About
     collection: about
+  - title: Ticketing
+    url: /ticketing
   - title: Pledge & Do Good
     collection: pledge-and-do-good
   - title: NDP @ Heartlands
     collection: ndp-at-heartlands
   - title: NDP @ the Float
     collection: ndp-at-the-float
-  - title: Sponsors
-    url: /sponsors/
   - title: Activities
     collection: activities
-  - title: Ticketing
-    url: /ticketing
-  - title: FAQ
-    url: /faq
   - title: FAQ
     collection: faq
