@@ -12,7 +12,7 @@ sections:
       subtitle: This year's theme reinforces values of strength in unity and the
         importance of family & community as we strive toward a stronger future
         together.
-      background: /images/NDP2022 website main visual.jpg
+      background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: What's On?
       url: /contact-us/
       key_highlights:
