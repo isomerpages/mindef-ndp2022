@@ -9,7 +9,7 @@ Get to know these inspiring people who were featured in this year’s “Stronge
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
             <td>
-                <b>POTTER WITH A MISSION</b><br><b>Kim Whye Kee of Qi Pottery</b>
+                <b class="red-text">POTTER WITH A MISSION</b><br><b>Kim Whye Kee of Qi Pottery</b>
                 <p style="margin-top: 0px">Having spent a decade in prison in his youth, Whye Kee is 
 committed to harnessing the transformative power of pottery to 
 push inmates and youths to think deeply about their lives. He 
