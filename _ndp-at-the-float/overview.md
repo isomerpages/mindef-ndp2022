@@ -7,7 +7,7 @@ permalink: /ndp-at-the-float/overview
 <table>
     <tbody>
         <tr>
-            <td style="max-width: 250px"><img src="/imagesNDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
             <td>National Education shows for primary 5 students will make a 
 comeback on 9 and 16 July 2022. <br>
 Preview shows will be on 23 and 30 July 2022. <br>
