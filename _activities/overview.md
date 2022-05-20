@@ -23,7 +23,7 @@ attractions and art destinations. Click here to download the app.</p>
 					</td>
         </tr>
         <tr>
-            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm3.jpg" alt="Image"></td>
+            <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm3.jpg" alt="Image"></td>
             <td>
 							<b>KINDSVILLE MAGAZINE</b>
 							<p>Kindness is in everyone. We aspire to inspire graciousness one 
@@ -31,7 +31,7 @@ kind act at a time. Click here to download the magazine.</p>
 					</td>
         </tr>
         <tr>
-            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
+            <td style="max-width: 250px"><img src="/images/Activities Images 20May2022 2pm4.jpg" alt="Image"></td>
             <td>
 							<b>NDP 2022 COMIC BOOK</b>
 							<p>Read about August and his adventures around Singapore. 
