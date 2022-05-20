@@ -37,9 +37,7 @@ kind act at a time. Click here to download the magazine.</p>
 							<p>Read about August and his adventures around Singapore. 
 Click here to download the comic book.</p>
 					</td>
-        </tr>
-        
-			
+        </tr>	
     </tbody>
 </table>
 
