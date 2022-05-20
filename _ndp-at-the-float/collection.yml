@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - getting-there.md
       - things-to-bring.md
       - traffic-advisory.md
       - fly-past-advisory.md
