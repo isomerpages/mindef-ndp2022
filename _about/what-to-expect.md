@@ -21,6 +21,5 @@ On 9 August 2022, there will be fireworks displays at these heartland locations 
 ![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am3.jpg)
 
 Celebrations at The Float @ Marina Bay will start with the return of National Education shows for 
-primary 5 students held on 9 and 16 July 2022. Followed by Preview shows on 23 and 30 July 
-2022. And finally, our actual day National Day Parade on 9 August 2022. Click [here](/ndp-at-the-float/overview) to find out 
+primary 5 students held on 9 and 16 July 2022. Followed by Preview shows on 23 and 30 July 2022. And finally, our actual day National Day Parade on 9 August 2022. Click [here](/ndp-at-the-float/overview) to find out 
 more.
