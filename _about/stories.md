@@ -55,7 +55,7 @@ performing arts talents within the deaf community.</p>
         <tr>
             <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
             <td  style="padding-top: 2rem">
-               <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">A BROAD SPECTRUM OF TALENTS</b><b class="red-text" style="font-size: 1.25rem">Dance Spectrum</b>
+               <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">A DIVERSE SPECTRUM OF TALENTS</b><b class="red-text" style="font-size: 1.25rem">Dance Spectrum</b>
                 <p style="margin-top: 0px">A dance school that aims to bring out the best with instructors 
 who focus on facilitating the overcoming of personal challenges, 
 breaking personal barriers and venturing beyond social 
