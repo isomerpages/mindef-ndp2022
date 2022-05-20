@@ -20,7 +20,7 @@ Academy to help at-risk youths and underprivileged kids.</p>
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
             <td>
-                <b class="red-text">SERVING WITH A HEART</b><br><b class="red-text">SIA Cabin Crew</b>
+                <b class="red-text">SERVING WITH A HEART</b><b class="red-text">SIA Cabin Crew</b>
                 <p style="margin-top: 0px">When the pandemic hit, Singapore Airlines sent 300 stewardesses 
 and stewards for training to take on the role of care ambassadors 
 to help the medical fraternity in caring for patients. The Singapore 
