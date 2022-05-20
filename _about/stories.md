@@ -2,66 +2,65 @@
 title: Stories
 permalink: /stories/
 ---
+Get to know these inspiring people who were featured in this year’s “Stronger Together” music video.
+
 <table>
     <tbody>
         <tr>
             <td><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
             <td>
-                <b>Kim Whye Kee,</b>Qi Pottery
-                <p>Ario doloreh enector epeliqu aspero omniet ad quam in pra
-                    dellest ipicilit et molupid que etur sunte aut earum eum harum
-                    quiducid ma volectotas adigent porum eaque possin excest,
-                    officae molorpo repella tionsed eum et fuga. Caerrum veroreius
-                    atibus accupti onserit volentem rempore ptatem doluptae non. </p>
-                    <a href="">Watch his interview</a>
+                <b>POTTER WITH A MISSION</b><br><b>Kim Whye Kee of Qi Pottery</b>
+                <p>Having spent a decade in prison in his youth, Whye Kee is 
+committed to harnessing the transformative power of pottery to 
+push inmates and youths to think deeply about their lives. He 
+founded Beacon For Life to help ex-convicts, and Beacon Of Life 
+Academy to help at-risk youths and underprivileged kids.</p>
             </td>
         </tr>
         <tr>
             <td><img src="/images/NDP22 Website 17May20229.jpg" alt="image"></td>
             <td>
-                <b>Alief,</b>Qi Pottery
-                <p>Ario doloreh enector epeliqu aspero omniet ad quam in pra
-                    dellest ipicilit et molupid que etur sunte aut earum eum harum
-                    quiducid ma volectotas adigent porum eaque possin excest,
-                    officae molorpo repella tionsed eum et fuga. Caerrum veroreius
-                    atibus accupti onserit volentem rempore ptatem doluptae non. </p>
-                    <a href="">Watch his interview</a>
+                <b>SERVING WITH A HEART</b><br><b>SIA Cabin Crew</b>
+                <p>When the pandemic hit, Singapore Airlines sent 300 stewardesses 
+and stewards for training to take on the role of care ambassadors 
+to help the medical fraternity in caring for patients. The Singapore 
+Airlines crew had undergone 20 days of training to acquire the 
+relevant competencies.</p>
             </td>
         </tr>
-        <tr>
-            <td><img src="/images/NDP22 Website 17May202211.jpg" alt="image"></td>
-            <td>
-                <b>Kaylyn,</b>Qi Pottery
-                <p>Ario doloreh enector epeliqu aspero omniet ad quam in pra
-                    dellest ipicilit et molupid que etur sunte aut earum eum harum
-                    quiducid ma volectotas adigent porum eaque possin excest,
-                    officae molorpo repella tionsed eum et fuga. Caerrum veroreius
-                    atibus accupti onserit volentem rempore ptatem doluptae non. </p>
-                    <a href="">Watch his interview</a>
-            </td>
-        </tr>
+
         <tr>
             <td><img src="/images/NDP22 Website 17May202212.jpg" alt="image"></td>
             <td>
-                <b>Laura,</b>Qi Pottery
-                <p>Ario doloreh enector epeliqu aspero omniet ad quam in pra
-                    dellest ipicilit et molupid que etur sunte aut earum eum harum
-                    quiducid ma volectotas adigent porum eaque possin excest,
-                    officae molorpo repella tionsed eum et fuga. Caerrum veroreius
-                    atibus accupti onserit volentem rempore ptatem doluptae non. </p>
-                    <a href="">Watch his interview</a>
+                <b>A PASSION THAT IS IN SYNC</b><br><b>Singapore Synchronised Swimming Team</b>
+                <p>While the spectators see grace and synchroneity above the 
+surface, there is an immense amount of work under the surface. 
+Strength, artistry, movement control, breath control and team work 
+are required. The team has represented Singapore in numerous 
+competitions to emerge as Gold medalists in 2015 & 2017. </p>
             </td>
         </tr>
+			        <tr>
+            <td><img src="/images/NDP22 Website 17May202211.jpg" alt="image"></td>
+            <td>
+                <b>REDEFINING DANCE</b><br><b>Redeafination - Deaf Dance Crew</b>
+                <p>Redeafinition is a hip hop dance crew for the deaf. Grooving to 
+the beat by sensing vibrations from music played at high volume 
+is their modus operandi. Redeafinition aims to create a community 
+to support deaf members, promote deaf awareness, and develop 
+performing arts talents within the deaf community.</p>
+            </td>
+        </tr>
+			
         <tr>
             <td><img src="/images/NDP22 Website 17May202213.jpg" alt="image"></td>
             <td>
-                <b>Nathan,</b>Qi Pottery
-                <p>Ario doloreh enector epeliqu aspero omniet ad quam in pra
-                    dellest ipicilit et molupid que etur sunte aut earum eum harum
-                    quiducid ma volectotas adigent porum eaque possin excest,
-                    officae molorpo repella tionsed eum et fuga. Caerrum veroreius
-                    atibus accupti onserit volentem rempore ptatem doluptae non. </p>
-                    <a href="">Watch his interview</a>
+               <b>A BROAD SPECTRUM OF TALENTS</b><br><b>Dance Spectrum</b>
+                <p>A dance school that aims to bring out the best with instructors 
+who focus on facilitating the overcoming of personal challenges, 
+breaking personal barriers and venturing beyond social 
+conventions. The dance school celebrates diversity and often 
+feature differently-abled performers, as well as dancers with ASD.</p>
             </td>
         </tr>
       
