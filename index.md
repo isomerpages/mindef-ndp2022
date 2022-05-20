@@ -28,4 +28,19 @@ sections:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video
         player" frameborder="0" allow="autoplay " ></iframe>
+  - infopic:
+      title: PledgeSG and Doing Good
+      description: "Express your hopes and aspirations for  Singapore by making your
+        #PledgeSG and  bring your pledge to life by #DoingGood "
+      button: Find out more
+      url: /pledgesg-and-doing-good/
+      alt: Image alt text
+  - infopic:
+      title: National Day at Heartlands
+      description: Heartland celebrations will be held at five locations
+        in  Singapore. Singaporeans and their families can look forward  to a
+        myriad of performances.
+      button: Find out more
+      url: /ndp-at-heartlands/overview
+      alt: Image alt text
 ---
