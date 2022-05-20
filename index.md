@@ -25,7 +25,7 @@ sections:
           url: /stories/
   - infobar:
       title: “Stronger Together” Music Video
-      description: <iframe width="560" height="315"
+      description: <iframe width="100%" height="315"
         src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video
         player" frameborder="0" allow="autoplay " ></iframe>
   - infopic:
