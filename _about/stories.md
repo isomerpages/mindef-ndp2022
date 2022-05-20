@@ -18,7 +18,7 @@ Academy to help at-risk youths and underprivileged kids.</p>
             </td>
         </tr>
         <tr>
-            <td><img src="/imagesNDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
+            <td><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
             <td>
                 <b>SERVING WITH A HEART</b><br><b>SIA Cabin Crew</b>
                 <p>When the pandemic hit, Singapore Airlines sent 300 stewardesses 
