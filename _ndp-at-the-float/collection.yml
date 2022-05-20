@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - overview.md
-      - traffic-advisory.md
       - fly-past-advisory.md
