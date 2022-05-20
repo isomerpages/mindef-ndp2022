@@ -1,4 +1,5 @@
 collections:
   pledge-and-do-good:
     output: true
-    order: []
+    order:
+      - PLEDGESG.md
