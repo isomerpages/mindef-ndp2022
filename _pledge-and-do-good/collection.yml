@@ -2,5 +2,5 @@ collections:
   pledge-and-do-good:
     output: true
     order:
-      - Doing Good.md
       - PledgeSG.md
+      - Doing Good.md
