@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - punggol.md
       - geylang-serai.md
       - bishan.md
