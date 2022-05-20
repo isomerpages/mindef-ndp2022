@@ -5,14 +5,12 @@ permalink: /faq/
 ## Theme / Logo
 
 #### What is NDP22’s Theme?
-
 For detailed write-up on NDP22’s Theme, you may access it at www.ndp.gov.sg/brandguide.
 
 *If asked to share through the call:*<br>
 The tagline <b> 'Stronger Together, Majulah’ </b> was chosen to exemplify the Singaporean spirit of working together in times of adversity and emerging stronger. Showing that as a nation we are resilient - having the tenacity to endure hard times but also ready to move onward when the situation presents itself. 
 
 #### Where can I find information on NDP22’s Logo?
-
 For detailed write-up on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide.
 
 If asked to share through the call: 
@@ -22,45 +20,43 @@ The five shooting stars show that when we come together, Singapore will move for
 
 #### Are there design variations for NDP22’s Logo?
 
-A: For design variations on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
+For design variations on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
 
 #### What are some acceptable and unacceptable usage of NDP22 Logo?
 
-A: For the usage on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
+For the usage on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
 
 #### I am an authorized and approved NDP22 partner, can I use the NDP22 Logo for co-branding?
 
-A: Yes, you may use the NDP22 Logo as partners of NDP22. For the co-branding usage guidelines on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
+Yes, you may use the NDP22 Logo as partners of NDP22. For the co-branding usage guidelines on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide for more details.
 
 #### Are there sample applications and grid layouts of NDP22 Logos for partner stamps and grid layout?
 
-A: Yes, you may refer to www.ndp.gov.sg/brandguide for the sample applications and grid layouts.
+Yes, you may refer to www.ndp.gov.sg/brandguide for the sample applications and grid layouts.
 
 ## Brand Guidelines
 
 #### Where can I access the NDP22 Brand Guidelines?
 
-A: You may access the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide.
+You may access the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide.
 
 #### Where can I access the NDP22 Social Media Icons?
 
-A: You may access it via the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide.
+You may access it via the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide.
 
 #### Can I use NDPEEPS Mascot (August) for non-commercial uses?
 
-A: You may access the NDPEEPS Mascot Style Guide (August) via the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide. In there, you can find approved descriptors, poses, references in different angles for August the Mascot.
+You may access the NDPEEPS Mascot Style Guide (August) via the NDP22 Brand Guidelines at www.ndp.gov.sg/brandguide. In there, you can find approved descriptors, poses, references in different angles for August the Mascot.
 
 #### Can I provide feedback/inquiries for August?
 
-A: You can contact us via email at Ndpeeps@defence.gov.sg. Please also send us any pictures of mockups of your product that may feature August! For files bigger than 20mb, please send it through a google link.
+You can contact us via email at Ndpeeps@defence.gov.sg. Please also send us any pictures of mockups of your product that may feature August! For files bigger than 20mb, please send it through a google link.
 
 #### I am facing difficulties with incorporating August Mascot and/or NDP 22 Logo in my product. What should I do?
-
-A: You can contact us via email at Ndpeeps@defence.gov.sg for assistance on incorporating the NDP 22 branding on your product.
+You can contact us via email at Ndpeeps@defence.gov.sg for assistance on incorporating the NDP 22 branding on your product.
 
 #### Can I make changes to the NDP 22 Logo to suit my purpose?
-
-A: You can refer to the NDP 22 Brand Guidelines on the Dos and Don’t's when performing image manipulation on the NDP 22 Logo.
+You can refer to the NDP 22 Brand Guidelines on the Dos and Don’t's when performing image manipulation on the NDP 22 Logo.
 
 #### What are the fonts used for NDP 22 Branding?
 
