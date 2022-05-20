@@ -2,19 +2,18 @@
 title: FAQ
 permalink: /faq/
 ---
+## Theme / Logo
 
- 
-##Theme / Logo
+ ####  What is NDP22’s Theme?
 
-Q1:  What is NDP22’s Theme?
+For detailed write-up on NDP22’s Theme, you may access it at www.ndp.gov.sg/brandguide.
 
-A: For detailed write-up on NDP22’s Theme, you may access it at www.ndp.gov.sg/brandguide.
+*If asked to share through the call: *
+The tagline * 'Stronger Together, Majulah’'* was chosen to exemplify the Singaporean spirit of working together in times of adversity and emerging stronger. Showing that as a nation we are resilient - having the tenacity to endure hard times but also ready to move onward when the situation presents itself. 
 
-If asked to share through the call: 
-The tagline ‘Stronger Together, Majulah’ was chosen to exemplify the Singaporean spirit of working together in times of adversity and emerging stronger. Showing that as a nation we are resilient - having the tenacity to endure hard times but also ready to move onward when the situation presents itself. 
-Q2:  Where can I find information on NDP22’s Logo?
+#### Where can I find information on NDP22’s Logo?
 
-A: For detailed write-up on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide.
+For detailed write-up on NDP22’s Logo, you may access it at www.ndp.gov.sg/brandguide.
 
 If asked to share through the call: 
 The logo portrays a Singapore that is stronger when love and compassion bring everyone together, and our national ideals continue to spur us on. 
@@ -271,4 +270,3 @@ A: The theme of the artwork was “Stronger Together, Majullah”.  By engaging 
 Q12: When will the designs be released?
 
 A: This year’s NDP Pack will showcase 22 different artworks created by aspiring Artists with Disabilities. The designs will be released on a later date.
-
