@@ -8,8 +8,8 @@ permalink: /faq/
 
 For detailed write-up on NDP22’s Theme, you may access it at www.ndp.gov.sg/brandguide.
 
-*If asked to share through the call: *
-The tagline * 'Stronger Together, Majulah’'* was chosen to exemplify the Singaporean spirit of working together in times of adversity and emerging stronger. Showing that as a nation we are resilient - having the tenacity to endure hard times but also ready to move onward when the situation presents itself. 
+*If asked to share through the call:*<br>
+The tagline <b> 'Stronger Together, Majulah’ </b> was chosen to exemplify the Singaporean spirit of working together in times of adversity and emerging stronger. Showing that as a nation we are resilient - having the tenacity to endure hard times but also ready to move onward when the situation presents itself. 
 
 #### Where can I find information on NDP22’s Logo?
 
