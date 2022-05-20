@@ -153,61 +153,49 @@ Yes, they are transferable.
 Only minimal drinking will be allowed during the parade. When not doing so, all attendees are expected to have their masks on and adhere to prevailing SMM measures*.
 
 #### Is there a dress code? 
-
-A: It is recommended for show attendees to be dressed for the outdoors as the seats at the float is not sheltered. You are highly encouraged to dress in red and white too. 
+It is recommended for show attendees to be dressed for the outdoors as the seats at the float is not sheltered. You are highly encouraged to dress in red and white too. 
 
 #### What do I have to bring for the personnel checks before entry?
-
-A: Attendees are required to bring along their physical tickets for admission. Depending on the prevailing COVID-19 SMM for large events*, attendees will also be required (1) to bring along their TraceTogether (TT) tokens or TT app on their handphones for SafeEntry, and (2) to show proof of SA-ART results via Sync App. 
+Attendees are required to bring along their physical tickets for admission. Depending on the prevailing COVID-19 SMM for large events*, attendees will also be required (1) to bring along their TraceTogether (TT) tokens or TT app on their handphones for SafeEntry, and (2) to show proof of SA-ART results via Sync App. 
 
 Please be prepared to show your proof of vaccination as well as safe-entry*. You will also be required to go through a bag check. It is recommended for attendees to refrain from bringing large or bulky bags to facilitate the entry process. 
 
 *Subjected to prevailing national Safe Management Measures (SMM) guidelines
 
 #### What time will the gate be open for entry?
-
-A: The gate will be opened from 4:00pm onwards. All attendees are encouraged to come earlier as there are multiple checkpoints to be cleared. 
+The gate will be opened from 4:00pm onwards. All attendees are encouraged to come earlier as there are multiple checkpoints to be cleared. 
 
 #### Will I be able to enter the venue if I am late? 
-
-A: Late comers will only be allowed to enter The Float at specified intervals once the show has started. It is hence recommended that you come earlier to ensure that you may be seated on time. 
+Late comers will only be allowed to enter The Float at specified intervals once the show has started. It is hence recommended that you come earlier to ensure that you may be seated on time. 
 
 #### I have lost/damaged my ticket. What should I do?
-
-A: It is the responsibility of the successful applicants to take care of their tickets. No replacement will be made for lost or damaged tickets.
+It is the responsibility of the successful applicants to take care of their tickets. No replacement will be made for lost or damaged tickets.
 
 #### Do Singaporeans get priority for balloting?
-
-A: Yes, Singaporeans will be prioritised for the balloting process, to allow more Singaporeans a chance to attend NDP at least once in their lifetime. 
+Yes, Singaporeans will be prioritised for the balloting process, to allow more Singaporeans a chance to attend NDP at least once in their lifetime. 
 
 
 ## NDP22 Pack
 
 #### What are the key differences between this year’s NDP Pack and past years’? Are the items more or less? 
-
-A: The items within this year’s NDP Pack have been streamlined to include some commemorative items as we emerge from the pandemic and bring back more shows and spectators. The total number of items has been reduced from the average 20 in the past years, to feature primarily and carefully curated essential items. The items within the pack are kept to primarily essential items and will be distributed for both shows at The Float and to the heartlands.
+The items within this year’s NDP Pack have been streamlined to include some commemorative items as we emerge from the pandemic and bring back more shows and spectators. The total number of items has been reduced from the average 20 in the past years, to feature primarily and carefully curated essential items. The items within the pack are kept to primarily essential items and will be distributed for both shows at The Float and to the heartlands.
 
 #### What were some of the groups / stakeholders that the NDP EXCO consulted in this whole process?
-
-A: The organising committee hold sustainability as an integral consideration when planning for NDP. To achieve a balance between sustainability and practicality, we worked closely with the National Environment Agency (NEA) adopted environmentally options whenever possible. The committee also has an ongoing partnership with various green advocates and community groups to promote sustainable practices into this year’s NDP.
+The organising committee hold sustainability as an integral consideration when planning for NDP. To achieve a balance between sustainability and practicality, we worked closely with the National Environment Agency (NEA) adopted environmentally options whenever possible. The committee also has an ongoing partnership with various green advocates and community groups to promote sustainable practices into this year’s NDP.
 
 #### What were some of their feedback and how did the EXCO incorporate this in the conceptualisation of the NDP Pack?
-
-A: The NDP 2022 Pack and items are designed with sustainability and reusability in mind. The NDP 2022 Pack will take the form of a foldable, compact tote bag that can be re-used for grocery shopping to promote less single-use bags usage. 
+The NDP 2022 Pack and items are designed with sustainability and reusability in mind. The NDP 2022 Pack will take the form of a foldable, compact tote bag that can be re-used for grocery shopping to promote less single-use bags usage. 
 
 Based on consultations with various green advocate and community groups as well as recent feedback from Singaporeans, the EXCO has streamlined the list of to be reduced to essential items. Items that are not in this year’s pack include single-use water bottles, clappers, light sticks/bands and plastic bags. The physical discount booklet and souvenir booklet have also been replaced with electronic versions. 
 
 #### What items will be included in the NDP Pack? 
-
-A: This year’s NDP Pack will feature the staple items such as sustenance items like NEWater, bun and biscuits, relief items like fan, and interactive items like flag. A commemorative item will also be featured for 2022.
+This year’s NDP Pack will feature the staple items such as sustenance items like NEWater, bun and biscuits, relief items like fan, and interactive items like flag. A commemorative item will also be featured for 2022.
 
 #### Will NDP packs be distributed? How many and to who? 
-
-A: NDP packs will be distributed to spectators attending shows at The Float and visitors at the heartland celebrations. Each ticket holder for shows will be entitled for a NDP Pack. [Internal info:  NDP Packs for heartlands to be addresse by Heartland Committee – There are 20,000 NDP Packs at each celebration site for public collection. PA is likely to adopt a balloting system for residents in respective districts. (Extracted from FAQs for Heartlands)
+NDP packs will be distributed to spectators attending shows at The Float and visitors at the heartland celebrations. Each ticket holder for shows will be entitled for a NDP Pack. [Internal info:  NDP Packs for heartlands to be addresse by Heartland Committee – There are 20,000 NDP Packs at each celebration site for public collection. PA is likely to adopt a balloting system for residents in respective districts. (Extracted from FAQs for Heartlands)
 
 #### Can members of the public who do not attend the NDP Show receive/collect NDP packs?
-
-A: To ensure prudency and reduce wastage, members of the public who do not attend the NDP Shows can visit the heartlands celebrations at the selected heartland sites to collect the NDP Packs. More information will be issued on the mode of public collection at a later date. . [Internal info:  NDP Packs for heartlands to be addressed by Heartland Committee – There are 20,000 NDP Packs at each celebration site for public collection. PA is likely to adopt a balloting system for residents in respective districts. (Extracted from FAQs for Heartlands)
+To ensure prudency and reduce wastage, members of the public who do not attend the NDP Shows can visit the heartlands celebrations at the selected heartland sites to collect the NDP Packs. More information will be issued on the mode of public collection at a later date. . [Internal info:  NDP Packs for heartlands to be addressed by Heartland Committee – There are 20,000 NDP Packs at each celebration site for public collection. PA is likely to adopt a balloting system for residents in respective districts. (Extracted from FAQs for Heartlands)
 
 #### Are there options to not collect a particular item in the NDP Pack?
 
@@ -215,23 +203,18 @@ Members of the public who do not want the NDP 2022 Pack or some of the items may
 
 
 #### Why did NDP 2022 EXCO decide to collaborate with SG Enable?
-
-A: Our core beliefs were to encapsulate the idea of “helping one another in tough times” – as we show appreciation to the compassion and kindness of our fellow Singaporeans, we also want to cultivate a stronger culture of care and inclusivity. 
+Our core beliefs were to encapsulate the idea of “helping one another in tough times” – as we show appreciation to the compassion and kindness of our fellow Singaporeans, we also want to cultivate a stronger culture of care and inclusivity. 
 
 The collaboration to feature the Artworks was intended to raise awareness amongst Singaporeans about the experiences of PWDs and Primary School Students during this trying period. It also provides these aspiring artists an opportunity to express their hopes and aspirations for Singapore and inspire Singaporeans to contribute to a greater cause. 
 
 #### When did the collaboration start?
-
-A: The Organising committee had an ongoing partnership with SG Enable since November last year. This collaboration remained through the revision of the NDP concept and format.
+The Organising committee had an ongoing partnership with SG Enable since November last year. This collaboration remained through the revision of the NDP concept and format.
 
 #### How many different bag designs will there be?
-
-A: This year’s NDP Pack will showcase 22 different artworks done by aspiring Artists with Disabilities. These artworks are expressions of the artists’ aspirations and hope for Singapore as we emerge stronger after this trying period.
+This year’s NDP Pack will showcase 22 different artworks done by aspiring Artists with Disabilities. These artworks are expressions of the artists’ aspirations and hope for Singapore as we emerge stronger after this trying period.
 
 #### What is the theme of the artwork?
-
-A: The theme of the artwork was “Stronger Together, Majullah”.  By engaging these artists, we hope to reinforce the values of embracing diversity, and the importance of communities and familities to give us strength to overcome challenges. We hoped that the artists can share their experiences during this trying period, and express their aspirations and hope for Singapore as we emerge stronger towards a better and stronger future. [Internal info: MRC to amend accordingly to reflect the message for NDP Theme]
+The theme of the artwork was “Stronger Together, Majullah”.  By engaging these artists, we hope to reinforce the values of embracing diversity, and the importance of communities and familities to give us strength to overcome challenges. We hoped that the artists can share their experiences during this trying period, and express their aspirations and hope for Singapore as we emerge stronger towards a better and stronger future. [Internal info: MRC to amend accordingly to reflect the message for NDP Theme]
 
 #### When will the designs be released?
-
-A: This year’s NDP Pack will showcase 22 different artworks created by aspiring Artists with Disabilities. The designs will be released on a later date.
+This year’s NDP Pack will showcase 22 different artworks created by aspiring Artists with Disabilities. The designs will be released on a later date.
