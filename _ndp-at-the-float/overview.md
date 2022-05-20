@@ -2,19 +2,49 @@
 title: Overview
 permalink: /ndp-at-the-float/overview
 ---
-![Float](/images/NDP22%20Website%2017May20224.jpg)
+![](/images/NDP%20@%20The%20Float%20Images%2020May2022%202pm.jpg)
 
-<i class="blue-text">
-    Introduction write up [take reference from ME1]
-Highlights [take reference from ME1]</i>
+<table>
+    <tbody>
+        <tr>
+            <td style="max-width: 250px"><img src="/imagesNDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
+            <td>National Education shows for primary 5 students will make a 
+comeback on 9 and 16 July 2022. <br>
+Preview shows will be on 23 and 30 July 2022. <br>
+Actual day National Day celebrations will be on 9 August 2022. </td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm3.jpg" alt="Image"></td>
+            <td>National Day celebrations will be held at The Float @ Marina Bay.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
+            <td>Combined air, land and sea Total Defence Display by the 
+Singapore Armed Forces and the Home Team.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm5.jpg" alt="Image"></td>
+            <td>The Red Lions will perform exciting freefall jumps at The Float.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
+            <td>Return of Parade and Ceremony segment.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
+            <td>Republic of Singapore Air Force’s State Flag Flypast and 
+Salute to the Nation.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm8.jpg" alt="Image"></td>
+            <td>Lively performances complemented by multimedia displays.</td>
+        </tr>
+        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm9.jpg" alt="Image"></td>
+            <td>Look forward to dazzling fireworks display at The Float</td>
+        </tr>
+			
+    </tbody>
+</table>
 
-- Return of Parade & Ceremony segment
-- Refreshed Total Defence Display segment
-- Something about show
-Calendar of Rehearsals
-Ticketing Information
-- Tickets available for Previews and Actual Day
-- Details for balloting will be out soon 
-
-
-<b>Watch this space and follow us <span class="red-ttext">@ndpeeps</span> for updates.</b>
+**Watch this space and follow us @ndpeeps on Facebook, Youtube, Instagram and Tiktok**
