@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: NDP2022
-description: Brief site description here
+description: This year’s theme reinforces the value of strength in unity. The
+  importance of family and community as we strive toward a stronger future
+  together.
 image: /images/About - Theme and Logo Image 20May2022 12pm.jpg
 permalink: /
 sections:
@@ -53,4 +55,5 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
       alt: National Day  at The Float
 ---
+
 
