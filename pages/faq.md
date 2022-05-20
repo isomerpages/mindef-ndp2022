@@ -62,16 +62,14 @@ Please reach us at Ndpeeps@defence.gov.sg for more information!
 ## Ticketing Modality
 
 #### What was the consideration to go with physical tickets? Will it be seen to go against the move towards a smart-nation through digitalisation.
-
-A: E-Tickets only started gaining traction locally during the COVID-19 pandemic and have yet to be used on such a large scale at The Float for the National Day Parade. To ensure a smooth admission process for show attendees, the traditional use of physical tickets was hence adopted for NDP 2022 to mitigate any potential on-site technical challenges. 
+E-Tickets only started gaining traction locally during the COVID-19 pandemic and have yet to be used on such a large scale at The Float for the National Day Parade. To ensure a smooth admission process for show attendees, the traditional use of physical tickets was hence adopted for NDP 2022 to mitigate any potential on-site technical challenges. 
 
 In addition, based on existing COVID-19 SMM, show attendees will be required to perform a Self-Administered Antigen Rapid Test (SA-ART) 24-hours before the event. From an operational perspective, the distribution model was designed to facilitate the seamless collection of both NDP 2022 tickets and ART kits for the show attendees. 
 
 Pertaining to the smart-nation vision, certain processes of Ticketing this year, such as the application and notification have been digitalised. The committee will also be conducting trials and testing of E-Ticketing systems for future NDPs. 
 
 #### Is NDP considered sustainable if tickets are still printed? 
-
-A: The NDP tickets are printed with paper that have been endorsed by both the Programme for the Endorsement of Forest Certification (Asian Standard) (PEFC) and the Forest Stewardship Council. 
+The NDP tickets are printed with paper that have been endorsed by both the Programme for the Endorsement of Forest Certification (Asian Standard) (PEFC) and the Forest Stewardship Council. 
 
 Both PEFC and FSC are non-profit, non-governmental global organisations dedicated to promoting sustainable forest management. 
 
@@ -79,98 +77,80 @@ Both PEFC and FSC are non-profit, non-governmental global organisations dedicate
 ## Ticket Application
 
 #### How can I apply for tickets?
-
-A: You may do so through an online form that can be accessed via this link: https://www.NDP.gov.sg. 
+You may do so through an online form that can be accessed via this link: https://www.NDP.gov.sg. 
 
 #### How many tickets can I apply for?
-
-A: You can apply for sets of two, four, or six tickets.
+You can apply for sets of two, four, or six tickets.
 
 #### What shows can I apply for?
-
-A: There are three ticketed shows available for the general public to apply for. They are: 
+There are three ticketed shows available for the general public to apply for. They are: 
 
 •	NDP Preview 1: 23 July 2022
 •	NDP Preview 2: 30 July 2022
 •	NDP 2022: 09 August 2022 
 
 #### Is there a minimum age or requirements to be eligible for ticket application?
-
-A: Singaporeans and Permanent Residents of all ages are welcome to apply for tickets. 
+Singaporeans and Permanent Residents of all ages are welcome to apply for tickets. 
 
 #### Why did I not receive an email confirmation on application results?
-
-A: Only successful applicants will be notified through email provided during the application process. Please check your junk inbox. It is also advised for applicants to apply for tickets with their personal emails, as corporate emails with security features might reject the email notification. 
+Only successful applicants will be notified through email provided during the application process. Please check your junk inbox. It is also advised for applicants to apply for tickets with their personal emails, as corporate emails with security features might reject the email notification. 
 
 #### When will application be?
-
-A: The application period will be from 07 – 19 June 2022. Please note that only successful applicants will be notified, and the collection period for the tickets will be over two weekends (08 – 10 July 2022 and 15 – 17 July 2022). 
+The application period will be from 07 – 19 June 2022. Please note that only successful applicants will be notified, and the collection period for the tickets will be over two weekends (08 – 10 July 2022 and 15 – 17 July 2022). 
 
 #### Do infants need a ticket?
-
-A: Yes. All attendees will require a ticket for admission, regardless of age.
+Yes. All attendees will require a ticket for admission, regardless of age.
 
 ## Ticket Balloting
 
 #### How many tickets should I ballot for to stand a higher chance of successfully balloting for the tickets?
-
-A: There is no specific denomination that will guarantee a higher chance of winning. 
+There is no specific denomination that will guarantee a higher chance of winning. 
 
 #### How are the successful ballot applicants selected?
-
-A: The balloting process is carried out using an algorithm developed by GovTech, and is a process audited by KPMG to ensure fairness. 
+The balloting process is carried out using an algorithm developed by GovTech, and is a process audited by KPMG to ensure fairness. 
 
 #### Is balloting on a first-come-first-served basis?
-
-A: No, balloting chances are not on a first-come-first-served basis. All applicants stand an equal chance of getting the tickets as long as they apply for the tickets before the application deadline.
+No, balloting chances are not on a first-come-first-served basis. All applicants stand an equal chance of getting the tickets as long as they apply for the tickets before the application deadline.
 
 ## Ticket Notification
 
 #### When will the balloting results be announced?
-
-A: Ballot results will be released through email notification from 27 June 2022 onwards. Only successful applicants will be notified. Applicants should also check through their junk email in case the notification is redirected there. 
+Ballot results will be released through email notification from 27 June 2022 onwards. Only successful applicants will be notified. Applicants should also check through their junk email in case the notification is redirected there. 
 
 #### I did not receive any notification email or may have accidentally deleted it. Can I check if I had successfully balloted for the event?
-
-A: Only successful applicants will be notified. Please check through your junk email in case the notification was redirected there. 
+Only successful applicants will be notified. Please check through your junk email in case the notification was redirected there. 
 
 In the event that an email was not opened by the applicant, the ticket provider will also send out reminder emails a week later.
 
 #### Where is the ticket collection at? 
-
-A: The ticket distribution will be at Marina Square, Level 2, Central Atrium. The nearest MRT stations are City Hall (NS25 / EW13), Promenade (CC4 / DT15) and Esplanade (CC3). 
+The ticket distribution will be at Marina Square, Level 2, Central Atrium. The nearest MRT stations are City Hall (NS25 / EW13), Promenade (CC4 / DT15) and Esplanade (CC3). 
 
 You may collect the tickets between 10:30am – 8:30pm on any of the following dates:
 08 – 10 July 2022
 15 – 17 July 2022
 
 #### What if I cannot make it for either weekend to collect the tickets?
-
-A: You may forward your notification email to a trustable contact to make the collection on your behalf. Please note that the QR code within the email is tagged to your personal details, and any misuse of the tickets can be traced back to you. 
+You may forward your notification email to a trustable contact to make the collection on your behalf. Please note that the QR code within the email is tagged to your personal details, and any misuse of the tickets can be traced back to you. 
 
 Do also be reminded that the QR code is only valid for a one-time redemption. Hence successful ticket applicants are advised not to share the notification mail to multiple recipients.
 
 ## Ticket Purchase 
 
 #### Where can I buy the tickets?
-
-A: NDP tickets are only allotted based on balloting, and strictly NOT TO BE SOLD. 
+NDP tickets are only allotted based on balloting, and strictly NOT TO BE SOLD. 
 
 Any discovered attempts to do so will result in the voiding of the tickets. Actions will be taken against offenders. 
 
 #### I saw tickets to NDP 22 sold on an online auction site. Is it safe to purchase them?
-
-A: It is illegal to re-sell NDP tickets through any channels, including online auction websites. Please do not buy your tickets via those sites as you will be denied admission at the venue.
+ It is illegal to re-sell NDP tickets through any channels, including online auction websites. Please do not buy your tickets via those sites as you will be denied admission at the venue.
 
 ## Show Day 
 
 #### Are tickets transferable? 
-
-A: Yes, they are transferable. 
+Yes, they are transferable. 
 
 #### Am I allowed to eat during the parade? 
-
-A: Only minimal drinking will be allowed during the parade. When not doing so, all attendees are expected to have their masks on and adhere to prevailing SMM measures*.
+Only minimal drinking will be allowed during the parade. When not doing so, all attendees are expected to have their masks on and adhere to prevailing SMM measures*.
 
 #### Is there a dress code? 
 
