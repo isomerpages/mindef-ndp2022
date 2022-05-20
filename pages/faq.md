@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 ## Theme / Logo
 
- ####  What is NDP22’s Theme?
+ #### What is NDP22’s Theme?
 
 For detailed write-up on NDP22’s Theme, you may access it at www.ndp.gov.sg/brandguide.
 
