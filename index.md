@@ -34,7 +34,7 @@ sections:
         #PledgeSG and  bring your pledge to life by #DoingGood "
       button: Find out more
       url: /pledgesg-and-doing-good/
-      alt: Image alt text
+      alt: PledgeSG and Doing Good
   - infopic:
       title: National Day at Heartlands
       description: Heartland celebrations will be held at five locations
@@ -42,5 +42,5 @@ sections:
         myriad of performances.
       button: Find out more
       url: /ndp-at-heartlands/overview
-      alt: Image alt text
+      alt: National Day at Heartlands
 ---
