@@ -32,7 +32,7 @@ relevant competencies.</p>
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am3.jpg" alt="image"></td>
             <td>
-                <b>A PASSION THAT IS IN SYNC</b><br><b>Singapore Synchronised Swimming Team</b>
+                <b class="red-text">A PASSION THAT IS IN SYNC</b><b class="red-text">Singapore Synchronised Swimming Team</b>
                 <p style="margin-top: 0px">While the spectators see grace and synchroneity above the 
 surface, there is an immense amount of work under the surface. 
 Strength, artistry, movement control, breath control and team work 
@@ -43,7 +43,7 @@ competitions to emerge as Gold medalists in 2015 & 2017. </p>
 			        <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
             <td>
-                <b>REDEFINING DANCE</b><br><b>Redeafination - Deaf Dance Crew</b>
+                <b class="red-text">REDEFINING DANCE</b><b class="red-text">Redeafination - Deaf Dance Crew</b>
                 <p style="margin-top: 0px">Redeafinition is a hip hop dance crew for the deaf. Grooving to 
 the beat by sensing vibrations from music played at high volume 
 is their modus operandi. Redeafinition aims to create a community 
@@ -55,7 +55,7 @@ performing arts talents within the deaf community.</p>
         <tr>
             <td style="width: 240px"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
             <td>
-               <b>A BROAD SPECTRUM OF TALENTS</b><br><b>Dance Spectrum</b>
+               <b class="red-text">A BROAD SPECTRUM OF TALENTS</b><b class="red-text">Dance Spectrum</b>
                 <p style="margin-top: 0px">A dance school that aims to bring out the best with instructors 
 who focus on facilitating the overcoming of personal challenges, 
 breaking personal barriers and venturing beyond social 
