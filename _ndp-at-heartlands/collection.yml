@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - woodlands.md
       - punggol.md
       - geylang-serai.md
       - bishan.md
