@@ -12,7 +12,7 @@ sections:
       subtitle: NDP 2022 connects Singaporeans across the island through celebrations
         in the heartlands as well as The Float @ Marina Bay.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
-      button: What's On?
+      button: FIND OUT MORE
       url: /contact-us/
       key_highlights:
         - title: Theme & Logo
