@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
+      - what-to-expect.md
       - Theme & Logo.md
       - theme-song.md
-      - what-to-expect.md
       - stories.md
       - sponsors.md
       - Brand Guide.md
