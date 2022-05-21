@@ -9,9 +9,8 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: This year's theme reinforces values of strength in unity and the
-        importance of family & community as we strive toward a stronger future
-        together.
+      subtitle: NDP 2022 connects Singaporeans across the island through celebrations
+        in the heartlands as well as The Float @ Marina Bay.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: What's On?
       url: /contact-us/
