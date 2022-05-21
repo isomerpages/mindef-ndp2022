@@ -35,7 +35,7 @@ Get to know these inspiring people who were featured in this year's “Stronger 
 committed to harnessing the transformative power of pottery to 
 push inmates and youths to think deeply about their lives. He 
 founded Beacon For Life to help ex-convicts, and Beacon Of Life 
-Academy to help at-risk youths and underprivileged kids.</p>
+Academy to help at-risk youths and underprivileged kids. Click [here](https://www.youtube.com/watch?v=U64bLz4EWRI) to know more about Whye Kee.</p>
             </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ Academy to help at-risk youths and underprivileged kids.</p>
 and stewards for training to take on the role of care ambassadors 
 to help the medical fraternity in caring for patients. The Singapore 
 Airlines crew had undergone 20 days of training to acquire the 
-relevant competencies.</p>
+relevant competencies. Click [here](https://www.youtube.com/watch?v=hi5S-91bw1s) to know more about the SIA Cabin Crew.</p>
             </td>
         </tr>
 
@@ -58,7 +58,8 @@ relevant competencies.</p>
 surface, there is an immense amount of work under the surface. 
 Strength, artistry, movement control, breath control and team work 
 are required. The team has represented Singapore in numerous 
-competitions to emerge as Gold medalists in 2015 & 2017. </p>
+competitions to emerge as Gold medalists in 2015 & 2017.  Click [here](https://www.youtube.com/watch?v=7hssohRs6FQ) to know more about the Singapore Synchronised Swimming Team.
+</p>
             </td>
         </tr>
 			        <tr>
@@ -69,7 +70,7 @@ competitions to emerge as Gold medalists in 2015 & 2017. </p>
 the beat by sensing vibrations from music played at high volume 
 is their modus operandi. Redeafinition aims to create a community 
 to support deaf members, promote deaf awareness, and develop 
-performing arts talents within the deaf community.</p>
+performing arts talents within the deaf community. Click [here](https://www.youtube.com/watch?v=WGd7mDZe5Io) to know more about Redeafination.</p>
             </td>
         </tr>
 			
@@ -81,7 +82,7 @@ performing arts talents within the deaf community.</p>
 who focus on facilitating the overcoming of personal challenges, 
 breaking personal barriers and venturing beyond social 
 conventions. The dance school celebrates diversity and often 
-feature differently-abled performers, as well as dancers with ASD.</p>
+feature differently-abled performers, as well as dancers with ASD.  Click [here](https://www.youtube.com/watch?v=WE7VcR9XouQ) to watch a performance by Dance Spectrum. </p>
             </td>
         </tr>
       
