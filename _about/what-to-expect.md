@@ -14,7 +14,6 @@ Doing Good. Click [here](/pledgesg-and-doing-good/) to find out more.
 ![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am2.jpg)
 
 Celebrations at the Heartlands will be at five locations in Singapore on 6 and 7 August 2022.
-
 Singaporeans and their families can look forward to performances, activities and exhibitions. 
 On 9 August 2022, there will be fireworks displays at these heartland locations as well. Click 
 [here](/ndp-at-heartlands/overview) to find out more.
