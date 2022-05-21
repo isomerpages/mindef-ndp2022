@@ -2,6 +2,27 @@
 title: Stories
 permalink: /stories/
 ---
+<style>
+@media all and (max-width: 768px) {
+			tr {
+				width: 92vw !important;
+	     display: flex;
+		   flex-direction: column;
+	align-items: center;
+	  }
+	
+	td {
+			width: 78% !important;
+	   
+	}
+	
+	td p {
+		padding-right: 0px !important;
+	padding-left: 0px !important;
+	}
+	}
+	</style>
+
 Get to know these inspiring people who were featured in this year's “Stronger Together” music video.
 
 <table>
