@@ -3,7 +3,7 @@ title: Theme & Logo
 permalink: /about/theme-and-logo
 description: ""
 ---
-![](/images/About%20-%20Theme%20and%20Logo%20Image%2020May2022%2012pm.jpg)
+![](/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg)
 
 The theme “Stronger Together, Majulah!” is a call for Singaporeans to move forward as a united 
 and strong people towards a better future. “Stronger Together” reminds Singaporeans that unity 
