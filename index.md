@@ -30,7 +30,7 @@ sections:
         src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video
         player" frameborder="0" allow="autoplay " ></iframe>
   - infopic:
-      title: PledgeSG and Doing Good
+      title: Pledge & Do Good
       description: "Express your hopes and aspirations for  Singapore by making your
         #PledgeSG and  bring your pledge to life by #DoingGood "
       button: Find out more
@@ -47,8 +47,8 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
       title: National Day  at The Float
-      description: Get ready for the much anticipated Total Defence Display, and air,
-        land and sea demonstrations by the Singapore Armed Forces.
+      description: ook forward to the Red Lions, Fighters fly past, lively
+        performances, fireworks and more!
       button: Find out more
       url: /ndp-at-the-float/overview
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
