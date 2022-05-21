@@ -2,7 +2,4 @@
 title: Sponsors
 permalink: /sponsors/
 ---
-
-
-### **Sponsors**
-
+![](/images/Sponsors%20Sample2.png)
