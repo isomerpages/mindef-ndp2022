@@ -22,7 +22,7 @@ sections:
           description: Watch and sing along to "Stronger Together"
           url: /about/theme-song
         - title: Stories
-          description: Featured Stories in the music video
+          description: Featured stories in the music video
           url: /stories/
   - infobar:
       title: “Stronger Together” Music Video
