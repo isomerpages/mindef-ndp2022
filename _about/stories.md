@@ -12,7 +12,7 @@ permalink: /stories/
 	  }
 	
 	td {
-			width: 92% !important;
+			width: 87% !important;
 	   
 	}
 	
