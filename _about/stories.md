@@ -35,7 +35,7 @@ Get to know these inspiring people who were featured in this year's “Stronger 
 committed to harnessing the transformative power of pottery to 
 push inmates and youths to think deeply about their lives. He 
 founded Beacon For Life to help ex-convicts, and Beacon Of Life 
-Academy to help at-risk youths and underprivileged kids. Click <a href="">here</a>(https://www.youtube.com/watch?v=U64bLz4EWRI) to know more about Whye Kee.</p>
+Academy to help at-risk youths and underprivileged kids. Click <a href="https://www.youtube.com/watch?v=U64bLz4EWRI">here</a> to know more about Whye Kee.</p>
             </td>
         </tr>
         <tr>
