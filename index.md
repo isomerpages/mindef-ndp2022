@@ -47,7 +47,7 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
       title: National Day  at The Float
-      description: ook forward to the Red Lions, Fighters fly past, lively
+      description: Look forward to the Red Lions, Fighters fly past, lively
         performances, fireworks and more!
       button: Find out more
       url: /ndp-at-the-float/overview
