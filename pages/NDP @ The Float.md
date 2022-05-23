@@ -3,28 +3,36 @@ title: NDP @ The Float
 permalink: /ndp-at-the-float/
 description: ""
 ---
-
-
-
 ![](/images/NDP%20@%20The%20Float%20Images%2020May2022%202pm.jpg)
 
 <table>
-    <tbody>
-        <tr>
+	<tbody>
+		        <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
-            <td><br>National Education shows for primary 5 students will make a 
-comeback on 9 and 16 July 2022. <br>
-Preview shows will be on 23 and 30 July 2022. <br>
-Actual day National Day celebrations will be on 9 August 2022. </td>
+            <td><br>Three ticketed shows:<br>
+Preview 1 (23 July 2022)<br>
+Preview 2 (30 July 2022)<br>
+Actual (9 August 2022)<br>
+These shows will be open to public for balloting. <br>
+Details on balloting will be released soon.
+ </td>
         </tr>
-        <tr>
+		        <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm3.jpg" alt="Image"></td>
-            <td><br>National Day celebrations will be held at The Float @ Marina Bay.</td>
+            <td><br>Location - The Float @ Marina Bay</td>
         </tr>
+	</tbody>
+	</table>
+
+### Part 1: Strength of Our Nation
+<table>
+    <tbody>
+
+
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
-            <td><br>Combined air, land and sea Total Defence Display by the 
-Singapore Armed Forces and the Home Team.</td>
+            <td><br>The Red Lions will perform exciting freefall jumps at The Float.
+</td>
         </tr>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm5.jpg" alt="Image"></td>
