@@ -31,8 +31,9 @@ sections:
         player" frameborder="0" allow="autoplay " ></iframe>
   - infopic:
       title: National Day at Heartlands
-      description: Heartland celebrations will be held at five locations in Singapore.
-        Look forward to a myriad of performances, activities and exhibitions.
+      description: Exciting performances, SAF and Home Team static displays, Red
+        Lions, fireworks and more will be brought closer to you in the
+        heartlands on 6 & 7 August.
       button: Find out more
       url: /ndp-at-heartlands/overview
       alt: National Day at Heartlands
