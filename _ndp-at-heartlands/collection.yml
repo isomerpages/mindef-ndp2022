@@ -2,4 +2,4 @@ collections:
   ndp-at-heartlands:
     output: true
     order:
-      - overview.md
+      - Overview.md
