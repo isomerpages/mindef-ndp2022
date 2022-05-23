@@ -23,13 +23,15 @@ Details on balloting will be released soon.
         </tr>
 	</tbody>
 	</table>
+	
+	
+	
 
 ### Part 1: Strength of Our Nation
+
 <table>
-    <tbody>
-
-
-        <tr>
+	<tbody>
+	        <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
             <td><br>The Red Lions will perform exciting freefall jumps at The Float.
 </td>
@@ -40,23 +42,30 @@ Details on balloting will be released soon.
         </tr>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
-            <td><br>Return of Parade and Ceremony segment.</td>
+            <td><br>Parade and Ceremony.</td>
         </tr>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
-            <td><br>Republic of Singapore Air Force’s State Flag Flypast and 
-Salute to the Nation.</td>
-        </tr>
+            <td><br>Republic of Singapore Air Force’s State Flag Flypast and Salute to the Nation.</td>
+        </tr>	
+	</tbody>
+	</table>
+	
+	
+### Part 2: Show
+<table>
+    <tbody>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm8.jpg" alt="Image"></td>
-            <td>Lively performances complemented by multimedia displays.</td>
+            <td><br>Live performances and a Show film that celebrates the strength and unit of Singaporeans, and calls on us to rise together.</td>
         </tr>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm9.jpg" alt="Image"></td>
-            <td><br>Look forward to dazzling fireworks display at The Float</td>
+            <td><br> Dazzling simultaneous fireworks display at The Float and in the Heartlands.
+</td>
         </tr>
-			
     </tbody>
 </table>
 
+Stay tuned for more information!<br>
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
