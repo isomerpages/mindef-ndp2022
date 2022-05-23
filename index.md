@@ -13,7 +13,7 @@ sections:
         in the heartlands as well as at The Float @ Marina Bay.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: FIND OUT MORE
-      url: /contact-us/
+      url: /about/what-to-expect/
       key_highlights:
         - title: Theme & Logo
           description: About NDP 2022's theme & logo
