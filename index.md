@@ -9,8 +9,8 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: NDP 2022 connects Singaporeans across the island through celebrations
-        in the heartlands as well as The Float @ Marina Bay.
+      subtitle: NDP 2022 involves Singaporeans across the island through celebrations
+        in the heartlands as well as at The Float @ Marina Bay.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: FIND OUT MORE
       url: /contact-us/
