@@ -35,7 +35,7 @@ sections:
         Lions, fireworks and more will be brought closer to you in the
         heartlands on 6 & 7 August.
       button: Find out more
-      url: /ndp-at-heartlands/overview
+      url: /ndp-at-heartlands/
       alt: National Day at Heartlands
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
@@ -44,7 +44,7 @@ sections:
         performances, fireworks and more! We are back, bigger and better, at The
         Float @ Marina Bay.
       button: Find out more
-      url: /ndp-at-the-float/overview
+      url: /ndp-at-the-float/
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
       alt: National Day  at The Float
   - infopic:
@@ -52,7 +52,7 @@ sections:
       description: "Express your hopes and wishes for Singapore by making your
         #PledgeSG and bring your pledge to life by #DoingGood."
       button: Find out more
-      url: /pledgesg-and-doing-good/
+      url: /pledge-and-do-good
       alt: PledgeSG and Doing Good
       image: /images/NDP22 Website Homepage Images 20May2022 11am.jpg
 ---
