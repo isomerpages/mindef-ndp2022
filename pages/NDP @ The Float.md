@@ -24,21 +24,19 @@ Details on balloting will be released soon.
 	</tbody>
 	</table>
 	
-	
-	
 
 ### Part 1: Strength of Our Nation
 
 <table>
 	<tbody>
-	        <tr>
-            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
-            <td><br>The Red Lions will perform exciting freefall jumps at The Float.
-</td>
-        </tr>
-        <tr>
+		        <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm5.jpg" alt="Image"></td>
             <td><br>The Red Lions will perform exciting freefall jumps at The Float.</td>
+        </tr>
+	        <tr>
+            <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
+            <td><br>Combined air, land, sea Total Defence Display by the Singapore Armed Forces and the Home Team.
+</td>
         </tr>
         <tr>
             <td style="max-width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
