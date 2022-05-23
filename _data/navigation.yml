@@ -3,9 +3,9 @@ links:
   - title: About
     collection: about
   - title: NDP @ Heartlands
-    collection: ndp-at-heartlands
-  - title: NDP @ the Float
-    collection: ndp-at-the-float
+    url: /ndp-at-heartlands/
+  - title: NDP @ The Float
+    url: /ndp-at-the-float
   - title: Pledge & Do Good
     collection: pledge-and-do-good
   - title: Ticketing
