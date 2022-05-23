@@ -2,4 +2,4 @@ collections:
   ndp-at-the-float:
     output: true
     order:
-      - overview.md
+      - NDP @ The Float.md
