@@ -2,24 +2,56 @@
 title: What to Expect
 permalink: /about/what-to-expect
 ---
-Here’s what you can look forward to as we gear up to celebrate our nation’s 57th birthday!
+<style>
+@media all and (max-width: 768px) {
+			tr {
+				width: 92vw !important;
+	     display: flex;
+		   flex-direction: column;
+	align-items: center;
+	  }
+	
+	td {
+			width: 87% !important;
+	   
+	}
+	
+	td p {
+		padding-right: 0px !important;
+	padding-left: 0px !important;
+	}
+	}
+	</style>
 
-![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am.jpg)
+Get to know these inspiring people who were featured in this year's “Stronger Together” music video.
 
-NDP 2022’s PledgeSg and Doing Good campaign will be from June to August of this year. To 
-participate and inspire others to do good, simply upload a photo or video of your pledge on 
-social media and #pledgesg. Sign up for #DoingGood activities in preparation for 22 Days of 
-Doing Good. Click [here](/pledgesg-and-doing-good/) to find out more.
+<table>
+    <tbody>
+        <tr>
+            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Homepage Images 20May2022 11am2.jpg" alt="image"></td>
+            <td style="padding-top: 2rem">
+                <b>NDP @ Heartlands</b>
+                <p style="margin-top: 0px">Over the NDP weekend on 6 and 7 August, you and your families can look forward to celebrations in the Heartlands at five locations across the island. There will be engaging performances, exhibitions and activities. The Singapore Armed Forces and the Home Team will also be presenting a static display of platforms including the Leopard 2SG Main Battle Tank, the Rigid Hull Inflatable Boat and the RBS 70 ground-based air defence system. The Red Lions will also conduct freefall jumps over two heartland sites. Stay tuned for more information to come!</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Homepage Images 20May2022 11am3.jpg" alt="image"></td>
+            <td  style="padding-top: 2rem">
+              <b>NDP @ The Float</b>
+                <p style="margin-top: 0px">The celebrations at The Float @ Marina Bay will commence with a demonstration of the “Strength of the Nation”. Some of the key highlights in this segment include a Total Defence Display of capabilities presented by the Singapore Armed Forces and the Home Team, marching contingents from the uniformed services and other agencies, a virtual military tattoo for the first time in the history of NDP, and a virtual choir performance of the NDP 2022 theme song “Stronger Together”. This will be followed by the Show segment that will include live performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together.</p>
+            </td>
+        </tr>
 
-![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am2.jpg)
+        <tr>
+            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Homepage Images 20May2022 11am.jpg" alt="image"></td>
+            <td  style="padding-top: 2rem">
+               <b>Pledge & Do Good            </b>
+                <p style="margin-top: 0px">Join us in expressing your hopes and wishes for Singapore, and make them a reality through your actions. #PledgeSG is a digital campaign where we invite you to pledge your support for various causes and/or express your hopes and wishes for Singapore. <strong>#DoingGood</strong> is a campaign that aims to encourage Singaporeans to fulfil pledges for causes. You will be able to sign up for various <strong>#DoingGood</strong> activities that will be held over 22 days in July 2022. Stay tuned for more information to come!
+</p>
+            </td>
+        </tr>
 
-Celebrations at the Heartlands will be at five locations in Singapore on 6 and 7 August 2022.
-Singaporeans and their families can look forward to performances, activities and exhibitions. 
-On 9 August 2022, there will be fireworks displays at these heartland locations as well. Click 
-[here](/ndp-at-heartlands/overview) to find out more.
-
-![](/images/NDP22%20Website%20About-What%20to%20expect%2020May2022%2011am3.jpg)
-
-Celebrations at The Float @ Marina Bay will start with the return of National Education shows for 
-primary 5 students held on 9 and 16 July 2022. Followed by Preview shows on 23 and 30 July 2022. And finally, our actual day National Day Parade on 9 August 2022. Click [here](/ndp-at-the-float/overview) to find out 
-more.
+      
+        
+    </tbody>
+</table>
