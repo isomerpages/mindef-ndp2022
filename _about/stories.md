@@ -35,7 +35,7 @@ Get to know these inspiring people who were featured in this year's “Stronger 
 committed to harnessing the transformative power of pottery to 
 push inmates and youths to think deeply about their lives. He 
 founded Beacon For Life to help ex-convicts, and Beacon Of Life 
-Academy to help at-risk youths and underprivileged kids. Click <a href="https://www.youtube.com/watch?v=U64bLz4EWRI">here</a> to know more about Whye Kee.</p>
+Academy to help at-risk youths and underprivileged kids. Click <a href="https://www.youtube.com/watch?v=t8WpLo8NGaI">here</a> to know more about Whye Kee.</p>
             </td>
         </tr>
         <tr>
@@ -74,17 +74,7 @@ performing arts talents within the deaf community.  Click <a href="https://www.y
             </td>
         </tr>
 			
-        <tr>
-            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
-            <td  style="padding-top: 2rem">
-               <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">A DIVERSE SPECTRUM OF TALENTS</b><b class="red-text" style="font-size: 1.25rem">Dance Spectrum</b>
-                <p style="margin-top: 0px">A dance school that aims to bring out the best with instructors 
-who focus on facilitating the overcoming of personal challenges, 
-breaking personal barriers and venturing beyond social 
-conventions. The dance school celebrates diversity and often 
-feature differently-abled performers, as well as dancers with ASD.   Click <a href="https://www.youtube.com/watch?v=WE7VcR9XouQ">here</a> to watch a performance by Dance Spectrum. </p>
-            </td>
-        </tr>
+
       
         
     </tbody>
