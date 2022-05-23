@@ -30,14 +30,6 @@ sections:
         src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video
         player" frameborder="0" allow="autoplay " ></iframe>
   - infopic:
-      title: Pledge & Do Good
-      description: "Express your hopes and aspirations for  Singapore by making your
-        #PledgeSG and  bring your pledge to life by #DoingGood "
-      button: Find out more
-      url: /pledgesg-and-doing-good/
-      alt: PledgeSG and Doing Good
-      image: /images/NDP22 Website Homepage Images 20May2022 11am.jpg
-  - infopic:
       title: National Day at Heartlands
       description: Heartland celebrations will be held at five locations in Singapore.
         Look forward to a myriad of performances, activities and exhibitions.
@@ -47,10 +39,19 @@ sections:
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
       title: National Day  at The Float
-      description: Look forward to the Red Lions, Fighters fly past, lively
-        performances, fireworks and more!
+      description: Red Lions, aerial fly past, marching contingents, spectacular
+        performances, fireworks and more! We are back, bigger and better, at The
+        Float @ Marina Bay.
       button: Find out more
       url: /ndp-at-the-float/overview
       image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
       alt: National Day  at The Float
+  - infopic:
+      title: Pledge & Do Good
+      description: "Express your hopes and wishes for Singapore by making your
+        #PledgeSG and bring your pledge to life by #DoingGood."
+      button: Find out more
+      url: /pledgesg-and-doing-good/
+      alt: PledgeSG and Doing Good
+      image: /images/NDP22 Website Homepage Images 20May2022 11am.jpg
 ---
