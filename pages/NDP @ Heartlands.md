@@ -4,7 +4,18 @@ permalink: /ndp-at-heartlands/
 description: ""
 ---
 ![](/images/NDP22%20Website%2024May20223.jpg)
-
+<style>
+	 @media all and (max-width: 768px) {
+		tr > td:first-child {
+			width: 25% !important;
+	}
+	
+			tr > td:first-child img {
+			margin-top: 30px !important;
+	}
+	}
+	
+	</style>
 <table>
     <tbody>
         <tr>
