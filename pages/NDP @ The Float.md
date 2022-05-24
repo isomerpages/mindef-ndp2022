@@ -8,7 +8,7 @@ description: ""
 <table>
 	<tbody>
 		        <tr>
-            <td style="idth: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
+            <td style="width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
             <td><br>Three ticketed shows:<br>
 Preview 1 (23 July 2022)<br>
 Preview 2 (30 July 2022)<br>
