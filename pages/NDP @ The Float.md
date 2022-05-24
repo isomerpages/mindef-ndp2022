@@ -7,7 +7,7 @@ description: ""
 <style>
 	 @media all and (max-width: 768px) {
 		tr > td:firsy-child {
-			width: 30% !important;
+			width: 25% !important;
 	}
 	}
 	
