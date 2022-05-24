@@ -37,7 +37,7 @@ sections:
       button: Find out more
       url: /ndp-at-heartlands/
       alt: National Day at Heartlands
-      image: /images/NDP22 Website 24May20222.jpg
+      image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
       title: National Day  at The Float
       description: Red Lions, aerial fly past, marching contingents, spectacular
