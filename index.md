@@ -45,7 +45,7 @@ sections:
         Float @ Marina Bay.
       button: Find out more
       url: /ndp-at-the-float/
-      image: /images/NDP22 Website Homepage Images 20May2022 11am3.jpg
+      image: /images/NDP22 Website 24May20222.jpg
       alt: National Day  at The Float
   - infopic:
       title: Pledge & Do Good
