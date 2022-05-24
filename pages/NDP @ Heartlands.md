@@ -14,7 +14,6 @@ description: ""
 			margin-top: 30px !important;
 	}
 	}
-	
 	</style>
 <table>
     <tbody>
