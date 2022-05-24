@@ -10,7 +10,9 @@ description: ""
 			width: 25% !important;
 	}
 	
-
+			tr > td:first-child img {
+			margin-top: 30px !important;
+	}
 	}
 	
 	</style>
