@@ -6,7 +6,7 @@ description: ""
 ![](/images/NDP22%20Website%2024May2022.jpg)
 <style>
 	 @media all and (max-width: 768px) {
-		tr > td:firsy-child {
+		tr > td:first-child {
 			width: 25% !important;
 	}
 	}
