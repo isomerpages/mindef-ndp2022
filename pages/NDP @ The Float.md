@@ -3,7 +3,7 @@ title: NDP @ The Float
 permalink: /ndp-at-the-float/
 description: ""
 ---
-![](/images/NDP%20@%20The%20Float%20Images%2020May2022%202pm.jpg)
+![](/images/NDP22%20Website%2024May2022.jpg)
 
 <table>
 	<tbody>
