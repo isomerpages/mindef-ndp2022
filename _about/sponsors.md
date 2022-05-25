@@ -2,6 +2,13 @@
 title: Sponsors
 permalink: /sponsors/
 ---
+<style>
+tr img {
+		max-width: 200px !important;
+	}
+	
+</style>
+
 ### Principal Partners
 <table>
     <tbody>
@@ -14,7 +21,7 @@ permalink: /sponsors/
             <td><img src="/images/Cat & the Fiddle.png" alt="Image"></td>
         </tr>
         <tr>
-            <td><img src="/images/Esri" alt="Image"></td>
+            <td><img src="/images/Esri.png" alt="Image"></td>
             <td></td>
         </tr>
     </tbody>
