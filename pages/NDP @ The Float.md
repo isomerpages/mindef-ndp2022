@@ -20,12 +20,7 @@ description: ""
 	<tbody>
 		        <tr>
             <td style="width: 250px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
-            <td><br>Three ticketed shows:<br>
-Preview 1 (23 July 2022)<br>
-Preview 2 (30 July 2022)<br>
-Actual (9 August 2022)<br>
-These shows will be open to public for balloting. <br>
-Details on balloting will be released soon.
+            <td><br>Ticketed shows are back this year! Details on ticketing will be out soon.
  </td>
         </tr>
 		        <tr>
