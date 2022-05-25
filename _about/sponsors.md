@@ -7,7 +7,7 @@ permalink: /sponsors/
             max-width: 200px !important;
         }
     </style>
-    ### Principal Partners
+    ## Principal Partners
     <table>
         <tbody>
             <tr>
@@ -26,7 +26,7 @@ permalink: /sponsors/
     </table>
     
     
-    ### Major Partners
+    ## Major Partners
     <table>
         <tbody>
             <tr>
@@ -44,7 +44,7 @@ permalink: /sponsors/
         </tbody>
     </table>
     
-    ### Co-Partners
+    ## Co-Partners
     <table>
         <tbody>
             <tr>
