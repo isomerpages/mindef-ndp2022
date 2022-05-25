@@ -7,8 +7,9 @@ permalink: /sponsors/
         max-width: 200px !important;
     }
 </style>
-    ## Principal Partners
-    <table>
+## Principal Partners
+
+<table>
         <tbody>
             <tr>
                 <td style="vertical-align: middle"><img src="/images/Anderco.png" alt="Image"></td>
@@ -24,8 +25,9 @@ permalink: /sponsors/
             </tr>
         </tbody>
     </table>
-    ## Major Partners
-    <table>
+		
+## Major Partners
+<table>
         <tbody>
             <tr>
                 <td style="vertical-align: middle"><img src="/images/Camwerkz.png" alt="Image"></td>
@@ -41,8 +43,9 @@ permalink: /sponsors/
             </tr>
         </tbody>
     </table>
-    ## Co-Partners
-    <table>
+		
+## Co-Partners
+ <table>
         <tbody>
             <tr>
                 <td style="vertical-align: middle"><img src="/images/AME INTERNATIONAL.png" alt="Image"></td>
