@@ -3,6 +3,8 @@ title: Pledge & Do Good
 permalink: /pledge-and-do-good
 description: ""
 ---
+![](/images/August%20Group%20Photo.jpg)
+
 Join us in expressing your hopes and wishes for Singapore, and make them a reality through your actions. 
 
 **#PledgeSG** is a digital campaign where we invite you to pledge your support for various causes and/or express your hopes and wishes for Singapore. 
