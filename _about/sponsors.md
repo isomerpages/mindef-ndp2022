@@ -56,7 +56,7 @@ permalink: /sponsors/
                 <td style="vertical-align: middle"><img src="/images/Dreamcore.png" alt="Image"></td>
             </tr>
             <tr>
-                <td style="vertical-align: middle"><img src="/images/GovTech" alt="Image"></td>
+                <td style="vertical-align: middle"><img src="/images/GovTech.png" alt="Image"></td>
                 <td style="vertical-align: middle"></td>
             </tr>
         </tbody>
