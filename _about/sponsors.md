@@ -24,8 +24,6 @@ permalink: /sponsors/
             </tr>
         </tbody>
     </table>
-    
-    
     ## Major Partners
     <table>
         <tbody>
@@ -43,7 +41,6 @@ permalink: /sponsors/
             </tr>
         </tbody>
     </table>
-    
     ## Co-Partners
     <table>
         <tbody>
