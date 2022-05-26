@@ -58,7 +58,14 @@ Get to know these inspiring people who were featured in this year's “Stronger 
                 <p style="margin-top: 0px">One of the dance groups within the music video is independent dance crew for the Deaf, Redeafination. Redeafination aims to promote deaf awareness and bring the joy of dancing to the deaf community. The dancers are able to dance and keep in time with the music, through feeling floor vibrations or watching their fellow dancers. They also utilise a variety of methods, including sign language and visual cues, to effectively communicate and guide members of different learning profiles. They have been awarded numerous accolades and have performed at many events including the President’s Star Charity 2015, 8th ASEAN Para Games and the Norway Deaf Festival. They were also featured in NDP 2020’s “Everything I Am” music video. Their story reminds Singaporeans that dance is a form of expression that has no boundaries. Together, let’s put empathy and compassion at the center of what we do, and strive towards building an inclusive and caring society. Click <a href="https://www.youtube.com/watch?v=WGd7mDZe5Io">here</a> to know more about Redeafination.</p>
             </td>
         </tr>
-			
+			        <tr>
+            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
+            <td  style="padding-top: 2rem">
+                <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">GROOVING TO THE BEAT OF LIFE</b><b class="red-text" style="font-size: 1.25rem">Urban Terrain Groovers</b>
+                <p style="margin-top: 0px">Urban Terrain Groovers is a dance group under Distinct Creative Arts, a social enterprise that uses dance to reach out to the youth, including many who are marginalised or at-risk. The goal is to develop character and nurture a strong sense of purpose through dance, and help the youth grow into successful individuals who contribute to the society. Click <a href="https://www.distinctcreativearts.com/about-us">here</a> to know more about Urban Terrain Groovers.</p>
+            </td>
+        </tr>
+						
 
       
         
