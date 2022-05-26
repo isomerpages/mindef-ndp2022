@@ -4,7 +4,7 @@ permalink: /sponsors/
 ---
 <style>
     tr img {
-        max-width: 200px !important;
+        max-width: 140px !important;
     }
 </style>
 ## Principal Partners
