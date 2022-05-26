@@ -50,7 +50,7 @@ description: ""
 
         <tr>
             <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm9.jpg" alt="Image"></td>
-            <td><br>Look forward to a dazzling display of fireworks at selected sites on 9 August 2022.</td>
+					<td><br>4)	Look forward to a dazzling display of fireworks <span class="red-ttext">in the heartlands</span> on 9 August 2022.</td>
         </tr>
     </tbody>
 </table>
