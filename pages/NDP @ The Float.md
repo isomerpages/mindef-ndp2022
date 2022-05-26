@@ -41,7 +41,7 @@ description: ""
         </tr>
 	        <tr>
             <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
-            <td><br>Combined air, land, sea Total Defence Display by the Singapore Armed Forces and the Home Team.
+            <td><br>Air, land, sea Total Defence Display by the Singapore Armed Forces and the Home Team.
 </td>
         </tr>
         <tr>
@@ -50,13 +50,13 @@ description: ""
         </tr>
         <tr>
             <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
-            <td><br>Republic of Singapore Air Force’s State Flag Flypast and Salute to the Nation.</td>
+            <td><br>State Flag Flypast and Salute to the Nation.</td>
         </tr>	
 	</tbody>
 	</table>
 	
 	
-### Part 2: Show
+### Part 2: The Story of Us
 <table>
     <tbody>
         <tr>
