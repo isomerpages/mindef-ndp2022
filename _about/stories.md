@@ -61,7 +61,8 @@ Get to know these inspiring people who were featured in this year's “Stronger 
 			        <tr>
             <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
             <td  style="padding-top: 2rem">
-                <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">GROOVING TO THE BEAT OF LIFE</b><b class="red-text" style="font-size: 1.25rem">Urban Terrain Groovers</b>
+                <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">GROOVING TO THE BEAT OF LIFE</b>
+							<b class="red-text" style="font-size: 1.25rem">Urban Terrain Groovers</b>
                 <p style="margin-top: 0px">Urban Terrain Groovers is a dance group under Distinct Creative Arts, a social enterprise that uses dance to reach out to the youth, including many who are marginalised or at-risk. The goal is to develop character and nurture a strong sense of purpose through dance, and help the youth grow into successful individuals who contribute to the society. Click <a href="https://www.distinctcreativearts.com/about-us">here</a> to know more about Urban Terrain Groovers.</p>
             </td>
         </tr>
