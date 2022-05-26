@@ -48,10 +48,6 @@ description: ""
             <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
             <td><br>Parade and Ceremony.</td>
         </tr>
-        <tr>
-            <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
-            <td><br>State Flag Flypast and Salute to the Nation.</td>
-        </tr>	
 	</tbody>
 	</table>
 	
@@ -68,6 +64,10 @@ description: ""
             <td><br> Dazzling simultaneous fireworks display at The Float and in the Heartlands.
 </td>
         </tr>
+			  <tr>
+            <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
+            <td><br>State Flag Flypast and Salute to the Nation.</td>
+        </tr>	
     </tbody>
 </table>
 
