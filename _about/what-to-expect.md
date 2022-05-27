@@ -39,7 +39,7 @@ permalink: /about/what-to-expect
          <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Homepage Images 20May2022 11am.jpg" alt="image"></td>
          <td  style="padding-top: 2rem">
             <p> <b>Pledge & Do Good            </b></p>
-            <p style="margin-top: 0px">Join us in expressing your hopes and wishes for Singapore, and make them a reality through your actions. #PledgeSG is a digital campaign where we invite you to pledge your support for various causes and/or express your hopes and wishes for Singapore. <strong>#DoingGood</strong> is a campaign that aims to encourage Singaporeans to fulfil pledges for causes. You will be able to sign up for various <strong>#DoingGood</strong> activities that will be held over 22 days in July 2022. Stay tuned for more information to come!
+            <p style="margin-top: 0px">Join us in expressing your hopes and wishes for Singapore, and make them a reality through your actions. <strong>#PledgeSG</strong> is a digital campaign where we invite you to pledge your support for various causes and/or express your hopes and wishes for Singapore. <strong>#DoingGood</strong> is a campaign that aims to encourage Singaporeans to fulfil pledges for causes. You will be able to sign up for various <strong>#DoingGood</strong> activities that will be held over 22 days in July 2022. Stay tuned for more information to come!
             </p>
          </td>
       </tr>
