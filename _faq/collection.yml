@@ -2,8 +2,8 @@ collections:
   faq:
     output: true
     order:
-      - NDP @ Heartlands.md
       - Theme and Logo.md
+      - NDP @ Heartlands.md
       - Brand Guidelines.md
       - Ticketing Modality.md
       - Ticket Application.md
