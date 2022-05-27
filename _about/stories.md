@@ -35,15 +35,6 @@ Get to know these inspiring people who were featured in this year's “Stronger 
             </td>
         </tr>
         <tr>
-            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
-            <td  style="padding-top: 2rem">
-                <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">SERVING WITH A HEART</b><b class="red-text" style="font-size: 1.25rem">SIA Cabin Crew</b>
-                <p style="margin-top: 0px">To support the nation when the COVID-19 pandemic hit, 350 SIA Group cabin crew had stepped forward to take on the role of care ambassadors (CAs). The CA programme allows SIA Group cabin crew who are temporarily grounded due to cancelled flights to be redeployed to public hospitals to augment the pressing manpower needs brought on by the Covid-19 outbreak. These Care Ambassadors carried out duties which include basic care giving procedures, nutritional care as well as patient service management for patients in low-risk wards. It is this spirit of giving back to the community that has enabled Singaporeans to stay strong in our fight against COVID-19. With everyone’s collective efforts, restrictions have been lifted and borders have re-opened. These Care Ambassadors have now returned to the skies. Click <a href="https://www.youtube.com/watch?v=hi5S-91bw1s">here</a> to know more about the SIA Cabin Crew.<br>
-									Source: <a href="https://www.silverkris.com/airline/sia-care-ambassadors/">https://www.silverkris.com/airline/sia-care-ambassadors/</a> </p>
-            </td>
-        </tr>
-
-        <tr>
             <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am3.jpg" alt="image"></td>
             <td  style="padding-top: 2rem">
                 <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">A PASSION THAT IS IN SYNC</b><b class="red-text" style="font-size: 1.25rem">Artistic Swimmers of TeamSG</b>
@@ -51,6 +42,14 @@ Get to know these inspiring people who were featured in this year's “Stronger 
 </p>
             </td>
         </tr>
+        <tr>
+            <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am2.jpg" alt="image"></td>
+            <td  style="padding-top: 2rem">
+                <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">SERVING WITH A HEART</b><b class="red-text" style="font-size: 1.25rem">SIA Cabin Crew</b>
+                <p style="margin-top: 0px">To support the nation when the COVID-19 pandemic hit, 350 SIA Group cabin crew had stepped forward to take on the role of care ambassadors (CAs). The CA programme allows SIA Group cabin crew who are temporarily grounded due to cancelled flights to be redeployed to public hospitals to augment the pressing manpower needs brought on by the Covid-19 outbreak. These Care Ambassadors carried out duties which include basic care giving procedures, nutritional care as well as patient service management for patients in low-risk wards. It is this spirit of giving back to the community that has enabled Singaporeans to stay strong in our fight against COVID-19. With everyone’s collective efforts, restrictions have been lifted and borders have re-opened. These Care Ambassadors have now returned to the skies. Click <a href="https://www.youtube.com/watch?v=hi5S-91bw1s">here</a> to know more about the SIA Cabin Crew.<br>
+									Source: <a href="https://www.silverkris.com/airline/sia-care-ambassadors/">https://www.silverkris.com/airline/sia-care-ambassadors/</a> </p>
+            </td>
+        </tr> 
 			        <tr>
             <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
             <td  style="padding-top: 2rem">
