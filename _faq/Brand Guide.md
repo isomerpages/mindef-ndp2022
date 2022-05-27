@@ -3,8 +3,6 @@ title: Brand Guide
 permalink: /faq/brand-guide
 description: ""
 ---
-
-
 ## 6. Brand Guide
 
 #### Q6-1.  Are there design variations for NDP22’s Logo?
