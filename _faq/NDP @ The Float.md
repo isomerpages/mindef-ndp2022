@@ -49,6 +49,3 @@ Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tikt
 
 #### Q3-8: What are the COVID-19 measures at the Float?
 The celebrations at the Float will adopt the prevailing national COVID Safe Management Measures (SMMs). More details will be shared subsequently.
-
-
-
