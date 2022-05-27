@@ -19,4 +19,3 @@ Yes, you may refer to www.ndp.gov.sg/about/brand-guide for the sample applicatio
 
 #### Q6-5.  Where can I access the NDP22 Brand Guidelines?
 You may access the NDP22 Brand Guidelines at www.ndp.gov.sg/about/brand-guide. 😊
-
