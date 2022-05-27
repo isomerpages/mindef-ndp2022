@@ -75,9 +75,5 @@ Get to know these inspiring people who were featured in this year's “Stronger 
                 <p style="margin-top: 0px">Urban Terrain Groovers is a dance group under Distinct Creative Arts, a social enterprise that uses dance to reach out to the youth, including many who are marginalised or at-risk. The goal is to develop character and nurture a strong sense of purpose through dance, and help the youth grow into successful individuals who contribute to the society. Click <a href="https://www.distinctcreativearts.com/about-us">here</a> to know more about Urban Terrain Groovers.</p>
             </td>
         </tr>
-						
-
-      
-        
     </tbody>
 </table>
