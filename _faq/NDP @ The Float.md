@@ -13,21 +13,21 @@ The celebrations at The Float @ Marina Bay will commence with the first segment 
 
 More details on this will be out soon! 😊
 
-Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tiktok!
+**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 #### Q3-3. What can I expect for the Total Defence Display? 
 The Total Defence Display will comprise air, land and sea elements by the Singapore Armed Forces and the Home Team.
 
 More details on this will be out soon! 😊
 
-Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tiktok!
+**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 #### Q3-4. What can I expect for the Parade and Ceremony?
 The parade will comprise contingents from the Singapore Armed Forces, the Home Team and other agencies. The segment will be complemented by a virtual military tattoo and for the first time during the parade, a virtual choir performance of the NDP 2022 theme song “Stronger Together”.
 
 More details on this will be out soon! 😊
 
-Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tiktok!
+**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 
 #### Q3-5 What can I expect to see at the Show for NDP @ The Float?
@@ -35,7 +35,7 @@ The Show segment will see five live chapter performances and a Show film, depict
 
 More details on this will be out soon! 😊
 
-Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tiktok!
+**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 #### Q3-6 Will there be NE Shows this year?
 National Education shows are returning to the Float this year.
@@ -45,7 +45,7 @@ On 9 August, fireworks will be set off in the heartlands, concurrent with that a
 
 Details on the exact locations and time will be out soon! 😊
 
-Watch this space and follow us @NDPeeps on Facebook, Youtube, Instagram and Tiktok!
+**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 #### Q3-8: What are the COVID-19 measures at the Float?
 The celebrations at the Float will adopt the prevailing national COVID Safe Management Measures (SMMs). More details will be shared subsequently.
