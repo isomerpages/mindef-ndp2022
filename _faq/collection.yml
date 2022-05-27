@@ -2,10 +2,10 @@ collections:
   faq:
     output: true
     order:
-      - "#PledgeSG & #DoingGood.md"
-      - NDP @ The Float.md
       - Theme and Logo.md
       - NDP @ Heartlands.md
+      - NDP @ The Float.md
+      - "#PledgeSG & #DoingGood.md"
       - Brand Guidelines.md
       - Ticketing Modality.md
       - Ticket Application.md
