@@ -23,7 +23,7 @@ permalink: /stories/
 	}
 	</style>
 
-Get to know these inspiring people who were featured in this year's “Stronger Together” music video.
+Get to know inspiring people who were featured in this year's “Stronger Together” music video.
 
 <table>
     <tbody>
