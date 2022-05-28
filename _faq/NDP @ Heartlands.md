@@ -32,7 +32,7 @@ Details on this will be out soon! 😊
 
 On 7 August, the Red Lions will conduct free fall jumps over two heartland sites.
 
-Details on the exact location and time will be out soon! 😊
+Details on the exact locations and time will be out soon! 😊
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
@@ -40,17 +40,16 @@ Details on the exact location and time will be out soon! 😊
 #### Q2-5. Where and when will the fireworks be set off in the Heartlands?
 On 9 August, fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay. 
 
-Details on the exact location and time will be out soon! 😊
+Details on the exact locations and time will be out soon! 😊
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
 #### Q2-6: What are the COVID-19 measures at the heartland locations?
-The heartland locations will adopt the prevailing national COVID Safe Management Measures (SMMs). More details will be shared subsequently.
+The heartland locations will adopt the prevailing national COVID-19 Safe Management Measures (SMMs). More details will be shared subsequently.
 
 #### Q2-7: Where and when will the state flags fly-past?
 On 9 August, the state flag carried by chinooks will soar around the island.
 
-Details on the locations and time will be out soon! 😊
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
 
@@ -58,6 +57,5 @@ Details on the locations and time will be out soon! 😊
 #### Q2-8: Where and when will the F-16 fighter jets fly-past?
 On 9 August, our F-16 fighter jets will execute a “Roar of Unity” flypast as they roar through the skies across the nation. 
 
-Details on the exact locations and time will be out soon! 😊
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
