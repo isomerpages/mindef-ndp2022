@@ -2,11 +2,11 @@ collections:
   faq:
     output: true
     order:
-      - NDP Packs.md
-      - General.md
       - Theme and Logo.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
       - "#PledgeSG & #DoingGood.md"
       - Ticketing.md
       - Brand Guide.md
+      - NDP Packs.md
+      - General.md
