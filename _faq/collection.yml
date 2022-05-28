@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - General.md
       - Theme and Logo.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
