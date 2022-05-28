@@ -31,7 +31,7 @@ More details on this will be out soon! 😊
 
 
 #### Q3-5 What can I expect to see at the Show for NDP @ The Float?
-The Show segment will see five live chapter performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. The live chapters will be performed by agencies with special guest appearances by well-loved Singaporean artistes, with selected chapters complemented by satellite performances. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
+The Show segment will include five live chapter performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. The live chapters will be performed by agencies with special guest appearances by well-loved Singaporean artistes, with selected chapters complemented by satellite performances. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
 
 More details on this will be out soon! 😊
 
