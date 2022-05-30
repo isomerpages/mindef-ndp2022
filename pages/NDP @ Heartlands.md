@@ -54,7 +54,7 @@ description: ""
         </tr>
 			        <tr>
             <td style="width: 156px"><img src="/images/NDP @ Heartlands State Flag Flypast Icon 26May2022 9am.jpg" alt="Image"></td>
-					<td><br> Roar of Unity change to Fighter Island Flypast</td>
+					<td><br> Roar of Unity change to Fighter Island Flypast.</td>
         </tr>
     </tbody>
 </table>
