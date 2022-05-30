@@ -10,7 +10,7 @@ We may revise these Terms at any time by updating this page. You should visit th
 # 2. Access to this Digital Service
 The accessibility and operation of this Digital Service relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of this Digital Service.
 
-3. Relying on Information
+# 3. Relying on Information
 We provide this Digital Service as a general information source only and we are not involved in giving professional advice here. This Digital Service may not cover all information available on a particular issue. Before relying on this Digital Service, you should do your own checks or obtain professional advice on your particular circumstances.
 
 # 4. Security
