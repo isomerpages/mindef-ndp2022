@@ -6,31 +6,39 @@
       href="https://webchat.vica.gov.sg/static/css/chat.css" referrerpolicy="origin" 
       rel="stylesheet"
     />
+    <style type="text/css">
+    #webchat 
+    a[target="_blank"]:after {
+    content: "";
+    }
+    #webchat 
+    a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    }
+    </style>
   </head>
  
 <body>
-
 <div id="webchat" 
 app-id="mindef-ask-ndp" 
-app-icon="https://drive.google.com/uc?export=download&id=1wDEfxII9KT9B5usZ-d8CzJX5CFqu8F5r"
-app-name="Chat With August" 
-app-color=""
-app-base-font-size="16" 
+app-icon="<<relative path of where the Avatar is hosted in Isomer NDP webpage>>" 
+app-name="Chat with August (Beta Version)" 
+app-color="" 
+app-base-font-size="16"
 app-auto-launch="false" 
-app-font-family="Lato"
-
+app-font-family="Lato" 
 app-bot-response-trigger-event="true" 
-
-app-enable-auto-complete="true"
-app-auto-complete-background-color="#FADADF"
-app-auto-complete-divider-color="#A6192E"
-app-auto-complete-hover-color="#EF96A4"
-
-app-enable-recommendations="true"
-app-recommendations-background-color="#FADADF"
+app-enable-auto-complete="true" 
+app-auto-complete-background-color="#FADADF" 
+app-auto-complete-divider-color="#A6192E" 
+app-auto-complete-hover-color="#EF96A4" 
+app-enable-recommendations="true" 
+app-recommendations-background-color="#FADADF" 
 app-recommendations-hover-color="#EF96A4"
+app-welcome-message="Chat with August here!"
+app-alternate-copy-vault="{"text_input_send_message":{"en":"Type your keywords here","zh-CN":"abcd","ms":"Pesanan","ta":"abcd"}}" 
 
-app-environment-override="draft"
 >
 </div>
 
