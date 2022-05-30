@@ -40,7 +40,7 @@ description: ""
       </tr>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
-         <td><br>Parade and Ceremony.</td>
+         <td><br>The Parade and Ceremony segment will be complemented by a virtual military tattoo and a virtual choir performance of the NDP 2022 theme song “Stronger Together”.</td>
       </tr>
    </tbody>
 </table>
