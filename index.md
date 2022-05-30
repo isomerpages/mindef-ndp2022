@@ -53,7 +53,7 @@ sections:
       description: "Express your hopes and wishes for Singapore by making your
         #PledgeSG and bring your pledge to life by #DoingGood."
       button: Find out more
-      url: /pledge-and-do-good
+      url: /pledge
       alt: PledgeSG and Doing Good
       image: /images/NDP22 Website Homepage Images 20May2022 11am.jpg
 ---
