@@ -9,7 +9,7 @@ description: ""
 
 Over the weekend of 6 and 7 August, there will be five heartland celebration sites. At each site, Singaporeans and their families will be able to enjoy performances and activities, as well as view exhibitions and a static display of platforms by the Singapore Armed Forces and the Home Team. On 7 August, the Red Lions will conduct free fall jumps over two heartland sites. More details on the heartland celebrations will be shared subsequently. 
 
-On 9 August, aerial elements will also make its way into the heartlands. The state flag carried by chinooks will soar around the island, while our F-16 fighter jets will execute a “Roar of Unity” flypast as they fly past homes across the nation. Fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay. More details on the flypasts and the heartland fireworks will be shared subsequently. 
+On 9 August, aerial elements will also make its way into the heartlands. The state flag carried by chinooks will soar around the island, while our F-16 fighter jets will fly past homes across the nation. Fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay. More details on the flypasts and the heartland fireworks will be shared subsequently.
 
 #### Q2-2. Where are the locations of the Heartland Celebrations?
 There will be NDP 2022 heartland celebrations at five locations. 
