@@ -20,6 +20,7 @@ permalink: /sponsors/
  width: 50%;
  padding: 10px;
    border-top: 1px solid #f1f1f1;
+	min-height: 93px;
 }
    
    .img-table .column-table {
