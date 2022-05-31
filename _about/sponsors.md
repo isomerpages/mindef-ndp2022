@@ -8,7 +8,7 @@ permalink: /sponsors/
     }
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box !important;
 }
 /* Create two equal columns that floats next to each other */
 .column-table {
