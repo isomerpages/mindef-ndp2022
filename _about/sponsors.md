@@ -21,6 +21,10 @@ permalink: /sponsors/
   padding: 10px;
 	border-top: 1px solid #f1f1f1;
 }
+	
+	.img-table .column-table {
+		height: 200px;
+	}
 
 /* Clear floats after the columns */
 .row-table:after {
@@ -30,7 +34,7 @@ permalink: /sponsors/
 }
 </style>
 ## Co-Partner Tier 1
-<div class='row-table'>
+<div class='row-table img-table'>
    <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
