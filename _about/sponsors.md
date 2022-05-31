@@ -3,63 +3,45 @@ title: Sponsors
 permalink: /sponsors/
 ---
 <style>
-    tr img {
+     img {
         max-width: 140px !important;
     }
 </style>
 ## Principal Partners
-
-<table>
-        <tbody>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Anderco.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/Apex Q Global.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Asia Pacific Beverages.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/Cat & the Fiddle.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Esri.png" alt="Image"></td>
-                <td style="vertical-align: middle"></td>
-            </tr>
-        </tbody>
-    </table>
-		
-		
-## Major Partners
-<table>
-        <tbody>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Camwerkz.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/CO Enterprise.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Entree Media.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/Finute.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Galmon.png" alt="Image"></td>
-                <td style="vertical-align: middle"></td>
-            </tr>
-        </tbody>
-    </table>
-	
-	
-## Co-Partners
- <table>
-        <tbody>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/AME INTERNATIONAL.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/Best Taste Impex.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/Da Di Glass.png" alt="Image"></td>
-                <td style="vertical-align: middle"><img src="/images/Dreamcore.png" alt="Image"></td>
-            </tr>
-            <tr>
-                <td style="vertical-align: middle"><img src="/images/GovTech.png" alt="Image"></td>
-                <td style="vertical-align: middle"></td>
-            </tr>
-        </tbody>
-    </table>
+<div class='column'>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='AME International Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Aster By Kyra Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Best Taste Impex (S) Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='CISCO Systems (USA) Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Da Di Glass (S) Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Dreamcore Private Limited'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='EVO Green Transportation Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Government Technology Agency (GovTech)'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Greenco Asia (Singapore) Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Jack Cars Enterprise Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='JC Wine & Spirits Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Label-Lab Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Lam Soon Singapore Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Ministry of Social and Family Development'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Mr Albert Lai Hoo Tung'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Nanyang Polytechnic School of Business Management'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Nestle Singapore Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Orchid Country Club'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Playbox Studios Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Prism Tech Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Rentokil Initial Singapore Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Republic Polytechnic'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='SATS Food Services Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Shalom International Movers Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Shing Chap International Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='"Sin Chew Woodpaq Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='"'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Singapore Health Services (SingHealth) Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Surveillance Zone Singapore Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='The Malayan Council Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='The SAF Warrant Officers And Specialists Club'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='TP Vision Singapore Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='UFC Gym Singapore'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Uni-Tat Ice &Marketing Pte Ltd'/></div>
+   <div class='row'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
+</div>
