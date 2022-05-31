@@ -34,7 +34,7 @@ permalink: /sponsors/
   clear: both;
 }
 </style>
-## Co-Partner Tier 1
+## Co-Partner
 <div class='row-table img-table'>
    <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
