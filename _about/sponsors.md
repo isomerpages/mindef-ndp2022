@@ -341,10 +341,7 @@ permalink: /sponsors/
      <p>Pizza Hut Singapore Pte Ltd</p>
   </div>
   <div class='column-table'>
-     <p>"Polar Puffs & Cakes Pte Ltd</p>
-  </div>
-  <div class='column-table'>
-     <p>"</p>
+     <p>Polar Puffs & Cakes Pte Ltd</p>
   </div>
   <div class='column-table'>
      <p>Procter & Gamble Singapore Pte Ltd</p>
