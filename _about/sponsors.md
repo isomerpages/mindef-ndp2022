@@ -59,7 +59,7 @@ permalink: /sponsors/
    <div class='column-table'><img src='/images/Sin Chew.png' alt='Sin Chew Woodpaq Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Singhealth.png' alt='Singapore Health Services (SingHealth) Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Surveillance Zone.png' alt='Surveillance Zone Singapore Pte Ltd'/></div>
-   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='The Malayan Council Pte Ltd'/></div>
+   <div class='column-table'><img src='/images/Malayan Council.png' alt='The Malayan Council Pte Ltd'/></div>
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='The SAF Warrant Officers And Specialists Club'/></div>
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='TP Vision Singapore Pte Ltd'/></div>
    <div class='column-table'><img src='/images/UFC Gym.png' alt='UFC Gym Singapore'/></div>
