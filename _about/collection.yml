@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - what-to-expect.md
-      - Theme, Logo, Theme Song.md
+      - Theme & Logo.md
       - theme-song.md
       - Stories.md
       - sponsors.md
