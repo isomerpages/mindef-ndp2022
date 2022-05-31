@@ -26,14 +26,14 @@ Details on this will be out soon! 😊
 
 On 7 August, the Red Lions will conduct free fall jumps over two heartland sites.
 
-Details on the exact locations and time will be out soon! 😊
+Details on the locations and time will be out soon! 😊
 
 
 
 #### Q2-5. Where and when will the fireworks be set off in the Heartlands?
 On 9 August, fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay. 
 
-Details on the exact locations and time will be out soon! 😊
+Details on the locations and time will be out soon! 😊
 
 
 #### Q2-6: What are the COVID-19 measures at the heartland locations?
