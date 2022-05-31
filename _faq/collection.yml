@@ -2,7 +2,7 @@ collections:
   faq:
     output: true
     order:
-      - Theme and Logo.md
+      - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
       - PledgeSG & DoingGood.md
