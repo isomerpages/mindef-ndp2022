@@ -6,6 +6,10 @@ permalink: /sponsors/
      img {
         max-width: 140px !important;
     }
+	
+	p{
+		text-align: center;
+	}
 
 * {
   box-sizing: border-box !important;
