@@ -22,6 +22,14 @@ permalink: /sponsors/
    border-top: 1px solid #f1f1f1;
 	min-height: 93px;
 }
+	
+	
+	@media all and (max-width: 586px) {
+	.column-table {
+		float: unset !important;
+	width: 100% !important;
+	}
+	}
    
    .img-table .column-table {
        height: 250px;
