@@ -52,7 +52,7 @@ permalink: /sponsors/
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Mr Albert Lai Hoo Tung'/></div>
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Nanyang Polytechnic School of Business Management'/></div>
    <div class='column-table'><img src='/images/Nestle.png' alt='Nestle Singapore Pte Ltd'/></div>
-   <div class='column-table'><img src='/Orchid Country Club.png' alt='Orchid Country Club'/></div>
+   <div class='column-table'><img src='/images/Orchid Country Club.png' alt='Orchid Country Club'/></div>
    <div class='column-table'><img src='/images/Playbox.png' alt='Playbox Studios Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Prism Tech Pte Ltd.png' alt='Prism Tech Pte Ltd'/></div>
    <div class='column-table'><img src='/images/Rentokil.png' alt='Rentokil Initial Singapore Pte Ltd'/></div>
