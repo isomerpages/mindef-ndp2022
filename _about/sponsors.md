@@ -25,7 +25,7 @@ permalink: /sponsors/
   clear: both;
 }
 </style>
-## Principal Partners
+## Co-Partner Tier 1
 <div class='row-table'>
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='AME International Pte Ltd'/></div>
    <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Aster By Kyra Pte Ltd'/></div>
