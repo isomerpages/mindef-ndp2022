@@ -6,9 +6,7 @@ permalink: /sponsors/
      img {
         max-width: 140px !important;
     }
-	* {
-  box-sizing: border-box;
-}
+
 
 /* Create two equal columns that floats next to each other */
 .column-table {
