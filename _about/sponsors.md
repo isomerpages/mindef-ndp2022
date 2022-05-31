@@ -19,7 +19,7 @@ permalink: /sponsors/
   float: left;
   width: 50%;
   padding: 10px;
-
+	border-bottom: 1px solid #f1f1f1;
 }
 
 /* Clear floats after the columns */
