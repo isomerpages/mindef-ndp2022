@@ -25,10 +25,10 @@ permalink: /sponsors/
 	
 	
 	@media all and (max-width: 586px) {
-	.column-table {
-		float: unset !important;
-	width: 100% !important;
-	}
+		.column-table {
+			float: unset !important;
+		width: 100% !important;
+		}
 	}
    
    .img-table .column-table {
