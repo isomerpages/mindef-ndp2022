@@ -24,6 +24,7 @@ permalink: /sponsors/
 	
 	.img-table .column-table {
 		height: 250px;
+	vertical-align: middle;
 	}
 
 /* Clear floats after the columns */
