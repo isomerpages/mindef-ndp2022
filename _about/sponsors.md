@@ -8,7 +8,7 @@ permalink: /sponsors/
    }
    
    p{
-       text-align: center;
+       text-align: left;
    }
 
 * {
