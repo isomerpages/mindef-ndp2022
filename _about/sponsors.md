@@ -4,7 +4,7 @@ permalink: /sponsors/
 ---
 <style>
      img {
-        max-width: 140px !important;
+        max-width: 240px !important;
     }
 	
 	p{
@@ -23,7 +23,7 @@ permalink: /sponsors/
 }
 	
 	.img-table .column-table {
-		height: 200px;
+		height: 250px;
 	}
 
 /* Clear floats after the columns */
