@@ -3,8 +3,6 @@ title: PledgeSG & DoingGood
 permalink: /faq/pledgesg-and-doing-good
 description: ""
 ---
-
-
 ## 4. #PledgeSG & #DoingGood
 
 #### Q4-1. What is #PledgeSG? 
@@ -38,4 +36,4 @@ More details on this will be out soon! 😊
 
 
 #### Q4-7. What are the #hashtags I can use?
-For NDP 2022 in general, you can use **#StrongerTogether**, **#Majulah!** and **#NDP2022**. For the two engagement campaigns that we are running, you can use **#PledgeSG** and **#DoingGood** .
+For NDP 2022 in general, you can use **#StrongerTogether**, **#Majulah** and **#NDP2022**. For the two engagement campaigns that we are running, you can use **#PledgeSG** and **#DoingGood** .
