@@ -2,10 +2,12 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-# This is our song, a song for Singaporeans.
 
 ## STRONGER TOGETHER
 #### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
+
+
+#### *This is our song, a song for Singaporeans.*
 
 Relight Our Fire<br> 
 We’ll find our way<br> 
