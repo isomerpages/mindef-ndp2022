@@ -103,49 +103,49 @@ permalink: /sponsors/
 
 ## Major Partner
 <div class='row-table'>
-  <div class='column-table'><a href='#'>ACTIVECOOL FASHION PTE LTD</a></div>
-  <div class='column-table'><a href='#'>AsiaGroup Leasing Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Autq Speed Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>C.O. Enterprise Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Camwerkz Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Clarity The Word Factory Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Container Connections Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/CO Enterprise.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Camwerksz Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Container Connections Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'>CraveFX Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Creatz3D Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Ebenex Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>EMARCO Enterprise Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Entrée Media Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Finute Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Foord Asset Management (Singapore) Pte Limited</a></div>
-  <div class='column-table'><a href='#'>Galmon (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Gardenia Foods (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>HIAP TONG CRANE & TRANSPORT PTE LTD</a></div>
-  <div class='column-table'><a href='#'>Inkjet Systems Pte. Ltd.</a></div>
-  <div class='column-table'><a href='#'>iT-DnS Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Jean Yip Salon Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Khong Guan Biscuit Factory (S) Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Creatz3D Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/EMARCO Enterprise Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Entree Media.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Finute.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Galmon.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Gardenia Food (S) Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Jean Yip.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Khong Guan.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'>Lee Rubber Company (Pte) Ltd</a></div>
-  <div class='column-table'><a href='#'>LHT Holdings Limited</a></div>
+  <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'>Mighty Jaxx International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Mitsubishi Electric Asia Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Mr Bean International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Old Chang Kee Singapore Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>OSG Containers and Modular Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>OSIM International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Peach Garden Restaurant Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Porta Pumper Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Rohde & Schwarz Regional Headquarters Singapore Pte. Ltd</a></div>
-  <div class='column-table'><a href='#'>Royal T Group Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Singapore Airlines Limited</a></div>
-  <div class='column-table'><a href='#'>Singapore Food Agency</a></div>
-  <div class='column-table'><a href='#'>SMRT Corporation Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Mitsubishi Electric.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Mr Bean.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Old Chang Kee.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/OSG Container.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/OSIM.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Peach Garden.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Porta Pumper.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singapore Airlines.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singapore Food Agency.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/SMRT.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'>ST Engineering Advanced Material Engineering Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>ST Logistics Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>T&S Engineering Construction Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/ST Logistics.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/T_S Engineering Construction Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'>The JTC Summit</a></div>
   <div class='column-table'><a href='#'>Vendr Bot Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Xctuality Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>YHS (Singapore) Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Xctuality.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/YHS (Singapore) Pte Ltd.png" alt="Image"></a></div>
 </div>
 
 ## Co-Partner
