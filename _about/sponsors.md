@@ -8,8 +8,9 @@ permalink: /sponsors/
    }
    
    td a {
+      
+       display: block !important;
        text-align: center;
-       display: block;
    }
 
 * {
