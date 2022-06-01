@@ -45,7 +45,6 @@ permalink: /sponsors/
 </style>
 ## Principal Partner
 <div class='row-table'>
-  <div class='column-table'><a href='#'>POH TIONG CHOON LOGISTIC GROUP</a></div>
   <div class='column-table'><a href='#'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
@@ -84,6 +83,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Paclin Offices Products Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Pixo Events Asia Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Plain Vanilla Group Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Poh Tiong Choon Logisitc Group.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/PUB.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Ram E Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Satin Pte Ltd.png" alt=""> </a></div>
