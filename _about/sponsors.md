@@ -34,10 +34,8 @@ permalink: /sponsors/
 	}
    
    .img-table .column-table {
-display: flex;
-    justify-content: center;
-    align-items: center;
-	min-height: 303px !important;
+       height: 250px;
+   vertical-align: middle;
    }
 
 /* Clear floats after the columns */
@@ -49,25 +47,25 @@ display: flex;
 </style>
 ## Principal Partner
 <div class='row-table logo-table'>
-  <div class='column-table'><a href='#'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Boncafe.png" alt=""></a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
+  <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Esri Singapore.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.field.com.sg/'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'><img src="/images/FirstCom Solutions Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href=' https://www.firstcom.com.sg/'><img src="/images/FirstCom Solutions Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.grab.com/sg/'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/GRID Communications Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://solarpower.zone/'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Jadia Logistics Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.jcdecaux.com.sg/'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Keppel.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Kplass Singapore Pte Ltd.png" alt=""></a></div>
@@ -76,10 +74,10 @@ display: flex;
   <div class='column-table'><a href='#'><img src="/images/Live Production AVL Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/M1 Limited.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Mamoru Marketing Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Markono Printing Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.markono.com/'><img src="/images/Markono Printing Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/MaTerra Solutions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Mini Environment Service Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'> <img src="/images/New Creative Academy.png" alt=""></a></div>
+  <div class='column-table'><a href='https://oneacademy.com.sg/'> <img src="/images/New Creative Academy.png" alt=""></a></div>
   <div class='column-table'><a href='#'> <img src="/images/Pacific International Lines Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Paclin Offices Products Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Pixo Events Asia Pte Ltd.png" alt=""> </a></div>
@@ -92,12 +90,12 @@ display: flex;
   <div class='column-table'><a href='#'><img src="/images/Singapore Discovery Centre.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Singlife AVIVA.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Singapore Technologies Engineering Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.sph.com.sg/'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Shaw.png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
-  <div class='column-table'><a href='#'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://theperfectmediagroup.com/'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
 </div>
@@ -109,18 +107,19 @@ display: flex;
   <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/CO Enterprise.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Camwerksz Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='https://www.claritythewordfactory.com/'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Container Connections Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Creatz3D Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='https://www.ebenex.com/'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/EMARCO Enterprise Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Entree Media.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Finute.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='https://foord.com/'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Galmon.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Gardenia Food (S) Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Jean Yip.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Khong Guan.png" alt="Image"></a></div>
@@ -316,9 +315,6 @@ display: flex;
   </div>
   <div class='column-table'>
      <p>GoPro Rental Singapore</p>
-  </div>
-  <div class='column-table'>
-     <p>Housing & Development Board</p>
   </div>
   <div class='column-table'>
      <p>HOW’S CATERING (YE LIANG HOW CATERING SERVICE PTE LTD)</p>
