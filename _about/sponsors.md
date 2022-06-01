@@ -7,7 +7,7 @@ permalink: /sponsors/
        max-width: 240px !important;
    }
    
-   td a {
+   .column-table a {
       
        display: block !important;
        text-align: center;
