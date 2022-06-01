@@ -4,8 +4,6 @@ permalink: /about/theme-song
 ---
 
 
-*Theme Song also available on [Spotify](https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT)*
-
 # STRONGER TOGETHER
 #### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
