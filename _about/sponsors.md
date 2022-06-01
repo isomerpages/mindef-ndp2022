@@ -166,7 +166,7 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Marina Centre Holding Pte Ltd.png' alt='Marina Centre Holding Pte Ltd'/></div>
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Ministry of Social and Family Development'/></div>
   <div class='column-table'><img src='/images/Nestle.png' alt='Nestle Singapore Pte Ltd'/></div>
-  <div class='column-table'><img src='Network Courier.png' alt='Network Courier'/></div>
+  <div class='column-table'><img src='/images/Network Courier.png' alt='Network Courier'/></div>
   <div class='column-table'><img src='/images/Orchid Country Club.png' alt='Orchid Country Club'/></div>
   <div class='column-table'><img src='/images/Playbox.png' alt='Playbox Studios Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Prism Tech Pte Ltd.png' alt='Prism Tech Pte Ltd'/></div>
