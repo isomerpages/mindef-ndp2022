@@ -161,12 +161,12 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Greenco Asia (Singapore) Pte Ltd.png' alt='Greenco Asia (Singapore) Pte Ltd'/></div>
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Jack Cars Enterprise Pte Ltd'/></div>
   <div class='column-table'><img src='/images/JC Wine_Spirits Pte Ltd.png' alt='JC Wine & Spirits Pte Ltd'/></div>
-  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Label-Lab Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Lam Soon Singapore Pte Ltd.png' alt='Lam Soon Singapore Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Lee Foundation'/></div>
+  <div class='column-table'><img src='/images/Marina Centre Holding Pte Ltd.png' alt='Marina Centre Holding Pte Ltd'/></div>
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Ministry of Social and Family Development'/></div>
-  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Mr Albert Lai Hoo Tung'/></div>
-  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Nanyang Polytechnic School of Business Management'/></div>
   <div class='column-table'><img src='/images/Nestle.png' alt='Nestle Singapore Pte Ltd'/></div>
+  <div class='column-table'><img src='Network Courier.png' alt='Network Courier'/></div>
   <div class='column-table'><img src='/images/Orchid Country Club.png' alt='Orchid Country Club'/></div>
   <div class='column-table'><img src='/images/Playbox.png' alt='Playbox Studios Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Prism Tech Pte Ltd.png' alt='Prism Tech Pte Ltd'/></div>
@@ -177,12 +177,12 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Shing Chap.png' alt='Shing Chap International Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Sin Chew.png' alt='Sin Chew Woodpaq Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Singhealth.png' alt='Singapore Health Services (SingHealth) Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Singapore Land Authority (SLA)'/></div>
   <div class='column-table'><img src='/images/Surveillance Zone.png' alt='Surveillance Zone Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Malayan Council.png' alt='The Malayan Council Pte Ltd'/></div>
   <div class='column-table'><img src='/images/The SAF Warrant Officers and Specialist Club.png' alt='The SAF Warrant Officers And Specialists Club'/></div>
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='TP Vision Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/UFC Gym.png' alt='UFC Gym Singapore'/></div>
-  <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Uni-Tat Ice &Marketing Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Universal Integrated Corporation Consumer Products Pte Ltd.png' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
 </div>
 
