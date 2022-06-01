@@ -27,9 +27,6 @@ sections:
           url: /stories/
   - infobar:
       title: “Stronger Together” Music Video
-      description: <iframe width="100%" height="515"
-        src="https://www.youtube.com/embed/trGIb9boR_4" title="" frameborder="0"
-        allow=" encrypted-media; " allowfullscreen></iframe>
   - infopic:
       title: National Day at Heartlands
       description: Exciting performances, SAF and Home Team static displays, Red
