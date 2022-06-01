@@ -2,7 +2,7 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/II_5jBaYmGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *Theme Song also available on [Spotify](https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT)*
 
@@ -88,4 +88,3 @@ Rise<br>
 We Rise Stronger Together<br>**
 
 **We’re Stronger Together**
-
