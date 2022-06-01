@@ -46,59 +46,59 @@ permalink: /sponsors/
 ## Principal Partner
 <div class='row-table'>
   <div class='column-table'><a href='#'>POH TIONG CHOON LOGISTIC GROUP</a></div>
-  <div class='column-table'><a href='#'>ABM Media Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Anderco Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>ApexQ Global Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Biocomm Private Limited</a></div>
-  <div class='column-table'><a href='#'>Boncafe International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Cat & the Fiddle Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Design Prodigy Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Eng Lee Logistics Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>ESRI Singapore</a></div>
-  <div class='column-table'><a href='#'>Field Catering & Supplies Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Firefly Photography Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>FirstCom Solutions Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>GrabCar Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Greendot Media Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>GRID Communications Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Hand Plus Robotics Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Heineken Asia Pacific Beverages Pte Ltd.</a></div>
-  <div class='column-table'><a href='#'>HP PPS Singapore (Sales) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Jadia Logistics Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>JCDecaux Singapore Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> Biocomm Private Limited</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Boncafe.png" alt=""></a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Esri Singapore.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/FirstCom Solutions Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/GRID Communications Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Jadia Logistics Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'>Keppel Corporation Limited</a></div>
-  <div class='column-table'><a href='#'>Klobbi Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Kplass Singapore Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>LDR Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Leisure Frontier (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Live Production AVL Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>M1 Limited</a></div>
-  <div class='column-table'><a href='#'>Mamoru Marketing Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Markono Print Media Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>MaTerra Solution Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Mini Environment Service Pte Ltd</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Kplass Singapore Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/LDR Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Leisure Frontier (S) Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Live Production AVL Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/M1 Limited.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Mamoru Marketing Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Markono Printing Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/MaTerra Solutions Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Mini Environment Service Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'>Nanyang Polytechnic School Of Design And Media</a></div>
-  <div class='column-table'><a href='#'>National Heritage Board</a></div>
-  <div class='column-table'><a href='#'>New Creative Academy (One Academy)</a></div>
-  <div class='column-table'><a href='#'>Pacific International Lines Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Paclin Office Products Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Pixo Events Asia Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Plain Vanilla Group Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>PUB, Singapore’s National Water Agency</a></div>
-  <div class='column-table'><a href='#'>Ram E Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Satin Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Sembcorp Industries</a></div>
-  <div class='column-table'><a href='#'>Singapore Discovery Centre Ltd</a></div>
-  <div class='column-table'><a href='#'>Singapore Life Ltd</a></div>
-  <div class='column-table'><a href='#'>Singapore Technologies Engineering Ltd</a></div>
-  <div class='column-table'><a href='#'>SPH Media Limited</a></div>
-  <div class='column-table'><a href='#'>Sunshine Bakeries</a></div>
+  <div class='column-table'><a href='#'> National Heritage Board</a></div>
+  <div class='column-table'><a href='#'> <img src="/images/New Creative Academy.png" alt=""></a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Pacific International Lines Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Paclin Offices Products Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Pixo Events Asia Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Plain Vanilla Group Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/PUB.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Ram E Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Satin Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Sembcorp Industries.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singapore Discovery Centre.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singlife AVIVA.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singapore Technologies Engineering Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
   <div class='column-table'><a href='#'>SVT Construction Pte Ltd</a></div>
   <div class='column-table'><a href='#'>The Shaw Organisation Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Tiong Hwa Steel Structures Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>TPM Outdoor Productions Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>True Colour Media Group Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Unearthed Productions</a></div>
+  <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
 </div>
 
 ## Major Partner
