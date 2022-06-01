@@ -2,14 +2,13 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-
 ## STRONGER TOGETHER
 #### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
 
 #### *This is our song, a song for Singaporeans.*
 
-Relight Our Fire<br> 
+Relight our fire<br> 
 We’ll find our way<br> 
 And time heals all things<br> 
 A little day by day<br> 
@@ -23,7 +22,7 @@ Hear the words unspoken<br>
 Still more stories yet untold<br>
 
 And I’m grateful still for the sun that shines<br>
-Spirit, Heart and Mind so clear<br>
+Spirit, heart and mind so clear<br>
 And I’m finding ways doing all I can<br>
 To be bigger than my fears<br>
 
@@ -37,9 +36,9 @@ We’re the light into the morning after<br>**
 In this fight<br>
 And from the flames we will soar forever<br>**
 
-**We will Rise<br>
+**We will rise<br>
 Rise<br>
-We Rise Stronger Together<br>**
+We rise stronger together<br>**
 
 Grateful<br>
 Faithful<br>
@@ -56,35 +55,35 @@ It’s in times like these we learn to live<br>
 
 **We are fire<br>
 Through the night<br>
-We’re the Light into the Morning After<br>**
+We’re the light into the Mmrning After<br>**
 
 **Through the wire <br>
 In this fight<br>
 And from the flames we will soar forever<br>**
 
-**We will Rise<br>
+**We will rise<br>
 Rise<br>
-We Rise Stronger Together<br>**
+We rise stronger together<br>**
 
-Like a Phoenix from the Flames<br>
-We will Rise Up<br>
-Like a Phoenix from the Flames<br>
-We will Rise Up<br>
-Like a Phoenix from the Flames<br>
-We will Rise Up<br>
-Like a Phoenix from the Flames<br>
-We will Rise…<br>
+Like a phoenix from the flames<br>
+We will rise up<br>
+Like a phoenix from the flames<br>
+We will rise up<br>
+Like a phoenix from the flames<br>
+We will rise up<br>
+Like a phoenix from the flames<br>
+We will rise…<br>
 
 **We are fire<br>
 Through the night<br>
-We’re the Light into the Morning After<br>**
+We’re the light into the morning after<br>**
 
 **Through the wire <br>
 In this fight<br>
 And from the flames we will soar forever<br>**
 
-**We will Rise<br>
+**We will rise<br>
 Rise<br>
-We Rise Stronger Together<br>**
+We rise stronger together<br>**
 
-**We’re Stronger Together**
+**We’re stronger together**
