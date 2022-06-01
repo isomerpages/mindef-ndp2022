@@ -24,7 +24,7 @@ Get to know the inspiring people who are featured in this year’s <strong>“St
 <table>
    <tbody>
       <tr>
-         <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website 17May20228.jpg" alt="image"></td>
+         <td style="width: 240px; padding-top:2rem;"><img src="/images/Stories - KWK.png" alt="image"></td>
          <td style="padding-top: 2rem">
             <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">POTTER WITH A MISSION</b><b class="red-text" style="font-size: 1.25rem">Kim Whye Kee of Qi Pottery</b>
             <p style="margin-top: 0px">In his youth, Whye Kee was involved in gang and drug activities and spent a decade in prison. While Whye Kee was serving the last few months of his sentence, his father had passed away due to cancer. He regrets not being able to be there for his father in his final moments or to send him off. Amidst his grief, Whye Kee discovered pottery, which became a form of therapy in coping with the loss of his father. Pottery was meaningful to Whye Kee, in that something as simple as mud, can be transformed into a functional work of art like a teapot or a teacup. Today, he runs Qi Pottery and is the co-founder of Beacon of Life (BoL), an organisation that works with ex-convicts, and Beacon of Life Academy (BoLA), an initiative that helps at-risk youths. Having experienced so much pain and darkness in his life, pottery gave Whye Kee the strength to move forward and harness the transformative power of art to help give purpose to the lives of those who are struggling, like he once was. Whye Kee’s story reminds Singaporeans to be grateful for the opportunities and people in our lives and pay it forward by doing good for others. This coming together of communities, families, and friends, forms the bedrock of our nation’s strength and resilience, and enables us to overcome challenges into the future.  Click <a href="https://www.youtube.com/watch?v=t8WpLo8NGaI&t=27s">here</a> to know more about Whye Kee.</p>
@@ -48,14 +48,14 @@ Get to know the inspiring people who are featured in this year’s <strong>“St
          </td>
       </tr>
       <tr>
-         <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am4.jpg" alt="image"></td>
+         <td style="width: 240px; padding-top:2rem;"><img src="/images/Stories - Redeafination.png" alt="image"></td>
          <td  style="padding-top: 2rem">
             <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">REDEFINING DANCE</b><b class="red-text" style="font-size: 1.25rem">Redeafination</b>
             <p style="margin-top: 0px">One of the dance groups within the music video is independent dance crew for the Deaf, Redeafination. Redeafination aims to promote deaf awareness and bring the joy of dancing to the deaf community. The dancers are able to dance and keep in time with the music, through feeling floor vibrations or watching their fellow dancers. They also utilise a variety of methods, including sign language and visual cues, to effectively communicate and guide members of different learning profiles. They have been awarded numerous accolades and have performed at many events including the President’s Star Charity 2015, 8th ASEAN Para Games and the Norway Deaf Festival. They were also featured in NDP 2020’s “Everything I Am” music video. Their story reminds Singaporeans that dance is a form of expression that has no boundaries. Together, let’s put empathy and compassion at the center of what we do, and strive towards building an inclusive and caring society. Click <a href="https://www.youtube.com/watch?v=WGd7mDZe5Io">here</a> to know more about Redeafination.</p>
          </td>
       </tr>
       <tr>
-         <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website About Stories 20May2022 10am5.jpg" alt="image"></td>
+         <td style="width: 240px; padding-top:2rem;"><img src="/images/Stories - Dance Spectrum.png" alt="image"></td>
          <td  style="padding-top: 2rem">
             <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">A DIVERSE SPECTRUM OF TALENTS </b>
             <b class="red-text" style="font-size: 1.25rem">Dance Spectrum International</b>
@@ -64,7 +64,7 @@ Get to know the inspiring people who are featured in this year’s <strong>“St
          </td>
       </tr>
       <tr>
-         <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Stories UTG 25May2022.jpg" alt="image"></td>
+         <td style="width: 240px; padding-top:2rem;"><img src="/images/Stories - UTG.png" alt="image"></td>
          <td  style="padding-top: 2rem">
             <b class="red-text" style="font-size: 1.3rem; margin-bottom: 1rem">GROOVING TO THE BEAT OF LIFE</b>
             <b class="red-text" style="font-size: 1.25rem">Urban Terrain Groovers</b>
