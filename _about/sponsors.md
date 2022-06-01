@@ -7,8 +7,8 @@ permalink: /sponsors/
        max-width: 240px !important;
    }
    
-   a {
-       text-align: text;
+   td a {
+       text-align: center;
    }
 
 * {
