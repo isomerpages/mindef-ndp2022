@@ -107,49 +107,54 @@ permalink: /sponsors/
 
 ## Major Partner
 <div class='row-table'>
-  <div class='column-table'><a href='#'>ACTIVECOOL FASHION PTE LTD</a></div>
-  <div class='column-table'><a href='#'>AsiaGroup Leasing Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Autq Speed Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>C.O. Enterprise Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Camwerkz Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Clarity The Word Factory Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Container Connections Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>CraveFX Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Creatz3D Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Ebenex Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>EMARCO Enterprise Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Entrée Media Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Finute Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Foord Asset Management (Singapore) Pte Limited</a></div>
-  <div class='column-table'><a href='#'>Galmon (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Gardenia Foods (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>HIAP TONG CRANE & TRANSPORT PTE LTD</a></div>
-  <div class='column-table'><a href='#'>Inkjet Systems Pte. Ltd.</a></div>
-  <div class='column-table'><a href='#'>iT-DnS Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Jean Yip Salon Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Khong Guan Biscuit Factory (S) Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Lee Rubber Company (Pte) Ltd</a></div>
-  <div class='column-table'><a href='#'>LHT Holdings Limited</a></div>
-  <div class='column-table'><a href='#'>Mighty Jaxx International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Mitsubishi Electric Asia Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Mr Bean International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Old Chang Kee Singapore Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>OSG Containers and Modular Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>OSIM International Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Peach Garden Restaurant Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Porta Pumper Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Rohde & Schwarz Regional Headquarters Singapore Pte. Ltd</a></div>
-  <div class='column-table'><a href='#'>Royal T Group Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Singapore Airlines Limited</a></div>
-  <div class='column-table'><a href='#'>Singapore Food Agency</a></div>
-  <div class='column-table'><a href='#'>SMRT Corporation Ltd</a></div>
-  <div class='column-table'><a href='#'>ST Engineering Advanced Material Engineering Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>ST Logistics Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>T&S Engineering Construction Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>The JTC Summit</a></div>
-  <div class='column-table'><a href='#'>Vendr Bot Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>Xctuality Pte Ltd</a></div>
-  <div class='column-table'><a href='#'>YHS (Singapore) Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Activecool Fashion Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>AsiaGroup Leasing Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Autq Speed Pte Ltd</a></div>
+   <div class='column-table'><a href='https://www.claritythewordfactory.com/'>Clarity The Word Factory Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Cldy.com Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Container Connections Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>CraveFX Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Creatz3D Pte Ltd</a></div>
+   <div class='column-table'><a href='https://www.ebenex.com/'>Ebenex Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>EMARCO Enterprise Pte Ltd</a></div>
+   <div class='column-table'><a href='https://foord.com/'>Foord Assest Management (Singapore) Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Gardenia Foods (S) Pte Ltd</a></div>
+   <div class='column-table'><a href='https://www.hdb.gov.sg/'>Housing & Development Board</a></div>
+   <div class='column-table'><a href='https://ecosam.sg/'>Inkjet Systems Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>iT-DnS Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Keppel Corporation Limited</a></div>
+   <div class='column-table'><a href='#'>Mighty Jaxx International Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Nanyang Polytechnic School of Business Management</a></div>
+   <div class='column-table'><a href='#'>Old Chang Kee Singapore Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>OSIM International Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Peach Garden Restaurant Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Porta Pumper Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Singapore Airlines Limited</a></div>
+   <div class='column-table'><a href='#'>Singapore Food Agency</a></div>
+   <div class='column-table'><a href='https://www.smrt.com.sg/'>SMRT Corporation Ltd</a></div>
+   <div class='column-table'><a href='#'>ST Logistics Pte Ltd</a></div>
+   <div class='column-table'><a href='https://tnscon.com.sg/'>T&S Engineering Construction Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Technics Communications_Electronics Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Unilever Asia Private Limited</a></div>
+   <div class='column-table'><a href='https://co-enterprise.com.sg/'>C.O. Enterprise Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Camwerkz Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Entrée Media Pte Ltd</a></div>
+   <div class='column-table'><a href='https://www.finute.co/'>Finute Pte Ltd</a></div>
+   <div class='column-table'><a href='https://www.galmon.com/'>Galmon (S) Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Hiap Tong Crane & Transport Pte Ltd</a></div>
+   <div class='column-table'><a href='https://jeanyipgroup.com/'>Jean Yip Salon Pte Ltd</a></div>
+   <div class='column-table'><a href='http://www.khongguan.com.sg/'>Khong Guan Biscuit Factory (S) Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Leisure Frontier (S) Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>LHT Holdings Limtied</a></div>
+   <div class='column-table'><a href='#'>Mitsubishi Electric Asia Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Mr Bean International Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>OSG Containers and Modular Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Rhode & Shwarz Regional Headquarters Singapore Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Royal T Group Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>ST Engineering Advanced Material Engineering Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Vendr Bot Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>Xctuality Pte Ltd</a></div>
+   <div class='column-table'><a href='#'>YHS (Singapore) Pte Ltd</a></div>
 </div>
 
 ## Co-Partner
