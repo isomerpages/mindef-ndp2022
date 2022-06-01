@@ -94,6 +94,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Shaw.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='#'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
@@ -167,7 +168,6 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Singhealth.png' alt='Singapore Health Services (SingHealth) Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Surveillance Zone.png' alt='Surveillance Zone Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Malayan Council.png' alt='The Malayan Council Pte Ltd'/></div>
-  <div class='column-table'><img src='/images/Tote Board.png' alt='Tote Board'/></div>
   <div class='column-table'><img src='/images/The SAF Warrant Officers and Specialist Club.png' alt='The SAF Warrant Officers And Specialists Club'/></div>
   <div class='column-table'><img src='/images/UFC Gym.png' alt='UFC Gym Singapore'/></div>
   <div class='column-table'><img src='/images/Universal Integrated Corporation Consumer Products Pte Ltd.png' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
