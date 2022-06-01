@@ -46,7 +46,7 @@ permalink: /sponsors/
 }
 </style>
 ## Principal Partner
-<div class='row-table'>
+<div class='row-table logo-table'>
   <div class='column-table'><a href='#'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
@@ -104,7 +104,7 @@ permalink: /sponsors/
 </div>
 
 ## Major Partner
-<div class='row-table'>
+<div class='row-table logo-table' >
   <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
