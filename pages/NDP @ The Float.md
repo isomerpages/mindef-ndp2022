@@ -53,7 +53,7 @@ description: ""
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm8.jpg" alt="Image"></td>
-         <td><br>Live performances and a Show film that celebrates the strength and unity of Singaporeans, and calls on us to rise together.</td>
+         <td><br>Live performances and a Show film that celebrate the strength and unity of Singaporeans, and call on us to rise together.</td>
       </tr>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm9.jpg" alt="Image"></td>
