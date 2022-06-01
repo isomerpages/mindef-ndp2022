@@ -43,6 +43,7 @@ permalink: /sponsors/
  clear: both;
 }
 </style>
+
 ## Principal Partner
 <div class='row-table'>
   <div class='column-table'><a href='#'>POH TIONG CHOON LOGISTIC GROUP</a></div>
