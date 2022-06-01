@@ -55,7 +55,7 @@ It’s in times like these we learn to live<br>
 
 **We are fire<br>
 Through the night<br>
-We’re the light into the Morning After<br>**
+We’re the light into the morning after<br>**
 
 **Through the wire <br>
 In this fight<br>
