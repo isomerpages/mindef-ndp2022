@@ -180,6 +180,7 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='Singapore Land Authority (SLA)'/></div>
   <div class='column-table'><img src='/images/Surveillance Zone.png' alt='Surveillance Zone Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Malayan Council.png' alt='The Malayan Council Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/Tote Board.png' alt='Tote Board'/></div>
   <div class='column-table'><img src='/images/The SAF Warrant Officers and Specialist Club.png' alt='The SAF Warrant Officers And Specialists Club'/></div>
   <div class='column-table'><img src='/images/About%20-%20Theme%20and%20Logo%20Image%2021May2022%203pm.jpg' alt='TP Vision Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/UFC Gym.png' alt='UFC Gym Singapore'/></div>
