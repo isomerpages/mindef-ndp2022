@@ -9,6 +9,7 @@ permalink: /sponsors/
    
    td a {
        text-align: center;
+       display: block;
    }
 
 * {
