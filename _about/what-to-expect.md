@@ -25,7 +25,7 @@ permalink: /about/what-to-expect
          <td style="width: 240px; padding-top:2rem;"><img src="/images/NDP22 Website Homepage Images 20May2022 11am2.jpg" alt="image"></td>
          <td style="padding-top: 2rem">
             <p> <b>NDP @ Heartlands</b></p>
-            <p style="margin-top: 0px">Over the NDP weekend on 6 and 7 August, family can look forward to celebrations at five heartland locations across the island. There will be engaging performances, exhibitions and activities. The Singapore Armed Forces and the Home Team will also be presenting a static display of platforms including the Leopard 2SG Main Battle Tank, the Rigid Hull Inflatable Boat and the RBS 70 ground-based air defence system. The Red Lions will also conduct freefall jumps over two heartland sites. Stay tuned for more information to come!</p>
+            <p style="margin-top: 0px">Over the NDP weekend on 6 and 7 August, you and your family can look forward to celebrations at five heartland locations across the island. There will be engaging performances, exhibitions and activities. The Singapore Armed Forces and the Home Team will also be presenting a static display of platforms including the Leopard 2SG Main Battle Tank, the Rigid Hull Inflatable Boat and the RBS 70 ground-based air defence system. The Red Lions will also conduct freefall jumps over two heartland sites. Stay tuned for more information to come!</p>
          </td>
       </tr>
       <tr>
