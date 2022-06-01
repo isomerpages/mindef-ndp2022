@@ -47,7 +47,7 @@ permalink: /sponsors/
  clear: both;
 }
 </style>
-## Principal Partner
+## Principal Partners
 <div class='row-table logo-table'>
   <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
@@ -102,7 +102,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
 </div>
 
-## Major Partner
+## Major Partners
 <div class='row-table img-table' >
   <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
@@ -144,7 +144,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/YHS (Singapore) Pte Ltd.png" alt="Image"></a></div>
 </div>
 
-## Co-Partner
+## Co-Partners
 <div class='row-table img-table'>
   <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
