@@ -34,8 +34,10 @@ permalink: /sponsors/
 	}
    
    .img-table .column-table {
-       height: 250px;
-   vertical-align: middle;
+     min-height: 303px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
    }
 
 /* Clear floats after the columns */
