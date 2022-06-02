@@ -26,6 +26,3 @@ permalink: /ticketing/
 
 
 #### Questions? Click [here](/ticketing) for FAQs.   
-
-
-**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
