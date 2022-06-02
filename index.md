@@ -27,8 +27,9 @@ sections:
           url: /stories/
   - infobar:
       title: “Stronger Together” Music Video
-      description: '<i style="text-align: center">This is our song, a song for
-        Singaporeans.</i>'
+      description: <iframe width="100%" height="515"
+        src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP"
+        frameborder="0"allowfullscreen></iframe>
   - infopic:
       title: National Day at Heartlands
       description: Exciting performances, SAF and Home Team static displays, Red
