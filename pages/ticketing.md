@@ -11,7 +11,7 @@ permalink: /ticketing/
 <ul><li>Application Period: 6 June 2022, 12:00pm to 20 June 2022, 12:00pm</li>
 <li>Each applicant will only be entitled to one ballot chance. Duplicate applications will be excluded from the balloting process.</li>
 <li>Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.</li>
-<li>Submit your application here [put in red colour?] via FormSG. (<a href="https://form.gov.sg/6273f1e0c8f704001298ef63">https://form.gov.sg/6273f1e0c8f704001298ef63</a>) </li>
+<li>Submit your application here [put in red colour?] via FormSG. [test](/ticketing/)(<a href="https://form.gov.sg/6273f1e0c8f704001298ef63">https://form.gov.sg/6273f1e0c8f704001298ef63</a>) </li>
 <li>Keep a look out for a confirmation email after submission.</li>
 </ul>
 
