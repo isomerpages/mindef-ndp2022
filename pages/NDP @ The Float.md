@@ -44,7 +44,7 @@ description: ""
       </tr>
 		       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
-         <td><br>Fly-Our-Flag and Salute to the Nation.</td>
+         <td><br>State Flag Flypast and Salute to the Nation.</td>
       </tr>
    </tbody>
 </table>
