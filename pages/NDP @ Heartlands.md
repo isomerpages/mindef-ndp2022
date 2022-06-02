@@ -42,7 +42,7 @@ description: ""
       </tr>
 		  <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands State Flag Flypast Icon 26May2022 9am.jpg" alt="Image"></td>
-         <td><br> Fighter Island Flypast and Fly-Our-Flag in the Heartlands.</td>
+         <td><br> Fighter Island Flypast and Fly-Our-Flag in the heartlands.</td>
       </tr>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm9.jpg" alt="Image"></td>
