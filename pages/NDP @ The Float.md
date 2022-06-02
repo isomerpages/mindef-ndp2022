@@ -18,7 +18,7 @@ description: ""
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
-         <td><br>Tickets will be made available to the public for three shows at The Float @ Marina Bay. Click [here](/ticketing/) for more ticketing information.
+         <td><br>Tickets will be made available to the public for three shows at The Float @ Marina Bay. Click <a href="/ticketing/">here</a> for more ticketing information.
          </td>
       </tr>
       <tr>
