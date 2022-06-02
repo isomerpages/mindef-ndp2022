@@ -2,10 +2,11 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-## STRONGER TOGETHER
-#### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+
+## STRONGER TOGETHER
+#### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
 #### *This is our song, a song for Singaporeans.*
 
