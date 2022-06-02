@@ -1,0 +1,6 @@
+collections:
+  pledge-and-do-good:
+    output: true
+    order:
+      - PledgeSG.md
+      - Doing Good.md

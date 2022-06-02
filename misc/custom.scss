@@ -335,3 +335,57 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.bp-hero-body {
+  background: unset !important;
+}
+
+.bp-button.search-button {
+  border-radius: 6px !important;
+  background-color: white !important;
+  color: #EE3E35 !important;
+  padding: 7px 47px !important;
+}
+
+#key-highlights .col {
+  border-left: 1px solid white !important;
+}
+
+#key-highlights .col:first-child {
+  border-left: none !important;
+}
+
+.bp-hero-body {
+  padding: 6rem 1.5rem !important;
+}
+
+.text-center {
+  text-align: center;
+  
+}
+
+.red-text {
+  color: $primary !important;
+  display: block !important;
+}
+
+.red-ttext {
+  color: $primary !important;
+}
+
+.blue-text {
+  color: #00AEEF !important;
+}
+
+table a  {
+  color: $primary !important;
+}
+
+.btn {
+  border-radius: 6px !important;
+  background-color: $primary !important;
+  color: white !important;
+  padding: 13px 16px !important;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
