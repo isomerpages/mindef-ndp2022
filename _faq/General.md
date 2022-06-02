@@ -6,7 +6,7 @@ description: ""
 ## 8. General
 
 #### Q8-1. Where can I follow NDP on social media?
-Please follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)!
+Please follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [YouTube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)!
 
 
 #### Q8-2. I can't find what I need here, are there other forms of feedback/contact?
