@@ -3,7 +3,7 @@ title: NDP @ Heartlands
 permalink: /ndp-at-heartlands/
 description: ""
 ---
-![](/images/NDP%20@%20Heartlands%20Infographic%2030May2022%201pm.png)
+![](/images/NDP%20@%20Heartlands%20Map%202Jun2022%2010am.jpg)
 <style>
    @media all and (max-width: 768px) {
    tr > td:first-child {
