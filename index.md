@@ -9,12 +9,11 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: NDP 2022 will engage Singaporeans through celebrations in the
-        heartlands on 6 and 7 August 2022, and at The Float @ Marina Bay on 9
-        August 2022.
+      subtitle: Application for tickets for shows at The Float @ Marina starts 6 Jun,
+        12pm.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: FIND OUT MORE
-      url: /about/what-to-expect/
+      url: /ticketing/
       key_highlights:
         - title: Theme & Logo
           description: About NDP 2022's theme & logo
