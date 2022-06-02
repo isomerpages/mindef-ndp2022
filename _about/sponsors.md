@@ -49,6 +49,7 @@ permalink: /sponsors/
 </style>
 ## Principal Partners
 <div class='row-table logo-table'>
+    <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
@@ -96,7 +97,6 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='https://theperfectmediagroup.com/'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
@@ -128,6 +128,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Mitsubishi Electric.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Mr Bean.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/NYP School of Business.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Old Chang Kee.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/OSG Container.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/OSIM.png" alt="Image"></a></div>
@@ -400,9 +401,6 @@ permalink: /sponsors/
      <p>Megawatts Sustainability Energy Pte Ltd</p>
   </div>
   <div class='column-table'>
-     <p>Mong Holdings Pte Ltd</p>
-  </div>
-  <div class='column-table'>
      <p>National Service Resort & Country Club</p>
   </div>
   <div class='column-table'>
@@ -552,6 +550,9 @@ permalink: /sponsors/
   <div class='column-table'>
      <p>TRD Consultancy Pte Ltd</p>
   </div>
+  <div class='column-table'>
+    <p>Three's a Crowd Cafe</p>
+ </div>
   <div class='column-table'>
      <p>Trishaw Uncle Pte Ltd</p>
   </div>
