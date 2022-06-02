@@ -8,24 +8,24 @@ permalink: /ticketing/
 
 
 #### Application
-<li>Application Period: 6 June 2022, 12:00pm to 20 June 2022, 12:00pm</li>
+<ul><li>Application Period: 6 June 2022, 12:00pm to 20 June 2022, 12:00pm</li>
 <li>Each applicant will only be entitled to one ballot chance. Duplicate applications will be excluded from the balloting process.</li>
 <li>Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.</li>
 <li>Submit your application here [put in red colour?] via FormSG. (<a href="https://form.gov.sg/6273f1e0c8f704001298ef63">https://form.gov.sg/6273f1e0c8f704001298ef63</a>) </li>
 <li>Keep a look out for a confirmation email after submission.</li>
-
+</ul>
 
 #### Notification of Successful Applicants
-<li>Notification Period: 27 June 2022 to 1 July 2022</li> 
-<li>Successful applicants will be notified via the personal emails provided during application. </li>
+<ul><li>Notification Period: 27 June 2022 to 1 July 2022</li> 
+<li>Successful applicants will be notified via the personal emails provided during application. </li></ul>
 
 
 #### Collection of Tickets 
-<li>Collection Period: 8 to 10 July 2022 and 15 to 17 July 2022, from 10:30am - 8:30pm</li> 
-<li>Location: Central Atrium (Level 2), Marina Square (6 Raffles Blvd, Marina Square, Singapore 039594)</li>
+<ul><li>Collection Period: 8 to 10 July 2022 and 15 to 17 July 2022, from 10:30am - 8:30pm</li> 
+<li>Location: Central Atrium (Level 2), Marina Square (6 Raffles Blvd, Marina Square, Singapore 039594)</li></ul>
 
 
-#### Questions? Click <a href="ndp.gov.sg/faq/ticketing">here</a> for FAQs.   
+#### Questions? Click [here](/ticketing) for FAQs.   
 
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
