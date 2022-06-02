@@ -5,7 +5,7 @@ permalink: /about/theme-song
 ## STRONGER TOGETHER
 #### Music and Lyrics by Don Richmond<br>Performed by Taufik Batisah ft. The Island Voices<br>Arranged by Bani Hidir and Don Richmond<br>Mixed and Mastered by Don Richmond and Bani Hidir
 
-
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" allowfullscreen></iframe>
 #### *This is our song, a song for Singaporeans.*
 
 Relight our fire<br> 
