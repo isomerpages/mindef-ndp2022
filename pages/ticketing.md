@@ -11,7 +11,7 @@ permalink: /ticketing/
 <li>Application Period: 6 June 2022, 12:00pm to 20 June 2022, 12:00pm</li>
 <li>Each applicant will only be entitled to one ballot chance. Duplicate applications will be excluded from the balloting process.</li>
 <li>Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.</li>
-<li>Submit your application here [put in red colour?] via FormSG. (https://form.gov.sg/6273f1e0c8f704001298ef63) </li>
+<li>Submit your application here [put in red colour?] via FormSG. (<a href="https://form.gov.sg/6273f1e0c8f704001298ef63">https://form.gov.sg/6273f1e0c8f704001298ef63</a>) </li>
 <li>Keep a look out for a confirmation email after submission.</li>
 
 
@@ -25,7 +25,7 @@ permalink: /ticketing/
 <li>Location: Central Atrium (Level 2), Marina Square (6 Raffles Blvd, Marina Square, Singapore 039594)</li>
 
 
-#### •	Questions? Click here for FAQs. (ndp.gov.sg/faq/ticketing)  
+#### Questions? Click <a href="ndp.gov.sg/faq/ticketing">here</a> for FAQs.   
 
 
 **Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [Youtube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
