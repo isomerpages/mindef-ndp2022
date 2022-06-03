@@ -17,8 +17,8 @@ Interested applicants may apply for two, four, or six tickets to attend **one of
 #### Q5-3. What shows can I apply for?
 There are three ticketed shows available for the public to apply for. They are: 
 
-NDP Preview 1: **23 July 2022**
-NDP Preview 2: **30 July 2022**
+NDP Preview 1: **23 July 2022**<br/>
+NDP Preview 2: **30 July 2022**<br/>
 NDP 2022: **9 August 2022**
 
 
