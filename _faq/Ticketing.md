@@ -36,6 +36,8 @@ The application period will be held from **6 June 2022 (Monday), 12:00pm to 20 J
 #### Q5-7. Do infants need a ticket?
 Yes. All attendees will require a ticket for entry, regardless of age. This includes infants who are carried in the arms of adults.
 
+<h3 id="notification-of-successful-applicants"><u>Notification of Successful Applicants</u></h3>
+
 #### Q5-8. When will the balloting results be announced?
 Ballot results will be released through email notification between **27 June 2022 to 1 July 2022**. Only successful applicants will be notified. 
 
