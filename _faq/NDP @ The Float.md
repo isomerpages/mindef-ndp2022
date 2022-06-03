@@ -6,7 +6,7 @@ description: ""
 ## 3. NDP @ The Float
 
 #### Q3-1. Do I need tickets for NDP @ The Float and how can I get them?
-NDP 2022 will invite the public back to The Float @ Marina Bay, with the return of ticketed shows. Applications may be submitted through an online form via this link: https://www.ndp.gov.sg/ticketing.
+NDP 2022 will invite the public back to The Float @ Marina Bay, with the return of ticketed shows. Applications may be submitted through an online form via this link: [ https://www.ndp.gov.sg/ticketing](https://www.ndp.gov.sg/ticketing)
 
 #### Q3-2. How will this year's NDP @ The Float be like? 
 The celebrations at The Float @ Marina Bay will commence with the first segment titled “Strength of Our Nation”, which includes a Total Defence Display and the Parade and Ceremony. This will be followed by the second segment titled “The Story of Us”, which includes live performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
