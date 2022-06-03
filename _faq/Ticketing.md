@@ -51,8 +51,12 @@ Details on this will be out soon! 😊
 #### Q5-4. How many shows/tickets are available for balloting?
 Details on this will be out soon! 😊
 
-#### Q5-12. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-12. Where is the ticket collection at? 
+The ticket collection will be at **Central Atrium (Level 2), Marina Square** (6 Raffles Blvd, Marina Square, Singapore 039594). The nearest MRT stations are City Hall (NS25 / EW13), Promenade (CC4 / DT15) and Esplanade (CC3). Successful applicants may collect the tickets between 10:30am – 8:30pm on any of the following dates:
+
+*	8 –10 July 2022 (Friday, Saturday, Sunday)
+* 15 – 17 July 2022 (Friday, Saturday, Sunday)
+
 
 #### Q5-13. What if I am unable to head down on the stipulated collection dates?
 Successful applicants may forward their notification email to a trusted family member / friend to make the collection on their behalf. Please note that the QR code within the email is tagged to the personal details of the applicant, and any misuse of the tickets will be traced back to the original applicant. Do also be reminded that the QR code is only valid for a **one-time redemption**. Hence, successful ticket applicants are discouraged from sharing the notification mail to multiple recipients.
