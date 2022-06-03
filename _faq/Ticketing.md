@@ -23,10 +23,6 @@ NDP Preview 2: **30 July 2022**<br/>
 NDP 2022: **9 August 2022**
 
 
-
-#### Q5-4. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
-
 #### Q5-4. Is there a minimum age or requirements to be eligible for ticket application?
 Singapore Citizens and Permanent Residents of all ages may apply for tickets.
 
