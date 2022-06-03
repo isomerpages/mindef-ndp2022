@@ -62,18 +62,23 @@ The ticket collection will be at **Central Atrium (Level 2), Marina Square** (6 
 #### Q5-13. What if I am unable to head down on the stipulated collection dates?
 Successful applicants may forward their notification email to a trusted family member / friend to make the collection on their behalf. Please note that the QR code within the email is tagged to the personal details of the applicant, and any misuse of the tickets will be traced back to the original applicant. Do also be reminded that the QR code is only valid for a **one-time redemption**. Hence, successful ticket applicants are discouraged from sharing the notification mail to multiple recipients.
 
+<h3 id="ticket-purchase"><u>Ticket Purchase</u></h3>
+
 #### Q5-14. Where can I buy the tickets?
 NDP tickets are only allotted based on balloting and are strictly NOT FOR SALE. Any discovered attempts to do so will result in the tickets made void. Actions will be taken against offenders.
 
 #### Q5-15. I saw tickets to NDP 2022 sold on an online auction site. Is it safe to purchase them?
 NDP tickets are strictly NOT FOR SALE. Please do not buy tickets via those sites. Entry to the venue may be denied to those with purchased tickets.
 
+<h3 id="ticket-management"><u>Ticket Management</u></h3>
 
 #### Q5-16. Can I pass my tickets to others if I cannot attend the shows? 
 To prevent the misuse of NDP tickets, it is recommended that you pass the tickets to your trusted family and friends only.
 
 #### Q5-17.  I have lost/damaged my ticket. What should I do?
 It is the responsibility of the successful applicants to take care of their tickets. No replacement will be made for lost or damaged tickets.
+
+<h3 id="covid-19-management"><u>COVID-19 Management</u></h3>
 
 #### Q5-18. Are children required to be fully vaccinated to be able to attend the NDP shows?
 In line with national guidelines, NDP 2022 will be an event with Vaccination Differentiated Safe Management Measures (VDS). All spectators must either be (i) a fully vaccinated  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
