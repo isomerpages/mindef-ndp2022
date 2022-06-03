@@ -81,7 +81,7 @@ It is the responsibility of the successful applicants to take care of their tick
 <h3 id="covid-19-management"><u>COVID-19 Management</u></h3>
 
 #### Q5-18. Are children required to be fully vaccinated to be able to attend the NDP shows?
-In line with national guidelines, NDP 2022 will be an event with Vaccination Differentiated Safe Management Measures (VDS). All spectators must either be (i) a fully vaccinated  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
+In line with national guidelines, NDP 2022 will be an event with Vaccination Differentiated Safe Management Measures (VDS). All spectators must either be (i) a **fully vaccinated**<sup>1</sup> individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
 
 #### Q5-19. Am I required to show proof of my vaccination or VDS exemption status at the point of entry?
 Yes, all attendees will be required to show their proof of vaccination or VDS exemption via the following mediums: (i) TraceTogether App; (ii) HealthHub; (iii) Sync Website; (iv) COVID-19 Vaccination Card; or (v) Medical Memo. Children who are 12 years old and below will be required to show proof of age at the point of entry.
