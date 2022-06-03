@@ -48,7 +48,7 @@ An email OTP verification will be performed at the point of application. At the 
 It is the responsibility of the applicant to check for the notification email during the notification period, and to check their email trash bin if they think they might have accidentally deleted their email.
 
 #### Q5-11. What should I look out for in my notification email?
-The official sponsor for NDP 2022 ticketing services is Plain Vanilla Group Pte Ltd ("Hapz"). Successful applicants should take note that the official notification emails will only be sent from the following email address: “ndp2022@hapz.com”. Recipients of any notifications on NDP 2022 should beware of emails sent from other addresses as they could be scams or phishing attempts. The committee may be notified at [NDPeeps@defence.gov.sg](mailto:NDPeeps@defence.gov.sg) for suspected fraud activities.
+The official sponsor for NDP 2022 ticketing services is Plain Vanilla Group Pte Ltd ("Hapz"). Successful applicants should take note that the official notification emails will only be sent from the following email address: “ndp2022@hapz.com”. Recipients of any notifications on NDP 2022 should beware of emails sent from other addresses as they could be scams or phishing attempts. The committee may be notified at [ndpeeps@defence.gov.sg](mailto:ndpeeps@defence.gov.sg) for suspected fraud activities.
 
 <h3 id="ticket-collection"><u>Ticket Collection</u></h3>
 
