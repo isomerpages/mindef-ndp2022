@@ -50,6 +50,8 @@ It is the responsibility of the applicant to check for the notification email du
 #### Q5-11. What should I look out for in my notification email?
 The official sponsor for NDP 2022 ticketing services is Plain Vanilla Group Pte Ltd ("Hapz"). Successful applicants should take note that the official notification emails will only be sent from the following email address: “ndp2022@hapz.com”. Recipients of any notifications on NDP 2022 should beware of emails sent from other addresses as they could be scams or phishing attempts. The committee may be notified at [NDPeeps@defence.gov.sg](mailto:NDPeeps@defence.gov.sg) for suspected fraud activities.
 
+<h3 id="ticket-collection"><u>Ticket Collection</u></h3>
+
 #### Q5-12. Where is the ticket collection at? 
 The ticket collection will be at **Central Atrium (Level 2), Marina Square** (6 Raffles Blvd, Marina Square, Singapore 039594). The nearest MRT stations are City Hall (NS25 / EW13), Promenade (CC4 / DT15) and Esplanade (CC3). Successful applicants may collect the tickets between 10:30am – 8:30pm on any of the following dates:
 
