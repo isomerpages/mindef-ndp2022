@@ -27,26 +27,27 @@ NDP 2022: **9 August 2022**
 #### Q5-4. How many shows/tickets are available for balloting?
 Details on this will be out soon! 😊
 
-#### Q5-4. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-4. Is there a minimum age or requirements to be eligible for ticket application?
+Singapore Citizens and Permanent Residents of all ages may apply for tickets.
 
-#### Q5-5. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-5. Why did I not receive an email confirmation on application results?
+Only successful applicants will be notified through email provided during the application process. Applicants are advised to apply for tickets with their personal emails, as corporate emails with security features may reject the email notification. 
 
-#### Q5-6. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
 
-#### Q5-7. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-6. When will application be?
+The application period will be held from **6 June 2022 (Monday), 12:00pm to 20 June 2022 (Monday), 12:00pm**. The notification period for successful applicants will be from **27 June 2022 to 1 July 2022** via the emails provided during application.
 
-#### Q5-8. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-7. Do infants need a ticket?
+Yes. All attendees will require a ticket for entry, regardless of age. This includes infants who are carried in the arms of adults.
 
-#### Q5-9. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-8. When will the balloting results be announced?
+Ballot results will be released through email notification between **27 June 2022 to 1 July 2022**. Only successful applicants will be notified. 
 
-#### Q5-10. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-9. I did not receive any notification email. Can I check if I had successfully balloted for the event?
+An email OTP verification will be performed at the point of application. At the end of the balloting process, only successful applicants will receive a notification email to inform them of the number of tickets that they have successfully balloted for.
+
+#### Q5-10. I may have accidentally deleted my notification email. Can I check if I had successfully balloted for the event?
+It is the responsibility of the applicant to check for the notification email during the notification period, and to check their email trash bin if they think they might have accidentally deleted their email.
 
 #### Q5-11. What should I look out for in my notification email?
 The official sponsor for NDP 2022 ticketing services is Plain Vanilla Group Pte Ltd ("Hapz"). Successful applicants should take note that the official notification emails will only be sent from the following email address: “ndp2022@hapz.com”. Recipients of any notifications on NDP 2022 should beware of emails sent from other addresses as they could be scams or phishing attempts. The committee may be notified at [NDPeeps@defence.gov.sg](mailto:NDPeeps@defence.gov.sg) for suspected fraud activities.
