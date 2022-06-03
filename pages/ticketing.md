@@ -3,7 +3,7 @@ title: Ticketing
 permalink: /ticketing/
 ---
 #### Ticketed shows are back at The Float @ Marina Bay!
-* Members of the public can apply for two, four or six tickets to attend one of three shows 
+* Members of the public can apply for two, four or six tickets to attend one of three shows : 
 	* **NDP Preview 1 (23 July 22)**
 	* **NDP Preview 2 (30 July 22)**
 	* **NDP 2022 (9 August 22)**
