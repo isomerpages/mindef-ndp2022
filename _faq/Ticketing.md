@@ -72,5 +72,5 @@ Details on this will be out soon! 😊
 #### Q5-4. How many shows/tickets are available for balloting?
 Details on this will be out soon! 😊
 
-#### Q5-19. How many shows/tickets are available for balloting?
-Details on this will be out soon! 😊
+#### Q5-19. Am I required to show proof of my vaccination or VDS exemption status at the point of entry?
+Yes, all attendees will be required to show their proof of vaccination or VDS exemption via the following mediums: (i) TraceTogether App; (ii) HealthHub; (iii) Sync Website; (iv) COVID-19 Vaccination Card; or (v) Medical Memo. Children who are 12 years old and below will be required to show proof of age at the point of entry.
