@@ -28,4 +28,4 @@ permalink: /ticketing/
 * Location: Central Atrium (Level 2), Marina Square (6 Raffles Blvd, Marina Square, Singapore 039594)
 
 
-#### Questions? Click [here](/ticketing) for FAQs.
+#### Questions? Click [here](faq/ticketing) for FAQs.
