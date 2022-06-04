@@ -2,7 +2,7 @@
 title: Ticketing
 permalink: /ticketing/
 ---
-<a href="https://form.gov.sg/6273f1e0c8f704001298ef63" style="
+<div style="text-align:center;"><a href="https://form.gov.sg/6273f1e0c8f704001298ef63" style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #ee3e35!important;
     color: #fff!important;
@@ -32,7 +32,7 @@ permalink: /ticketing/
     white-space: nowrap;
     text-transform: uppercase!important;
 		text-decoration: none;">CLICK HERE TO APPLY</a>
-		<br><i>Ticket Balloting starts on 6 June 2022 at 12pm</i>	
+	</div>
 		
 #### Ticketed shows are back at The Float @ Marina Bay!
 * Members of the public can apply for two, four or six tickets to attend one of three shows : 
