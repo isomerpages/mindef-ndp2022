@@ -19,26 +19,29 @@ permalink: /sponsors/
 /* Create two equal columns that floats next to each other */
 .column-table {
  float: left;
- width: 33.33%;
+ width:50%;
  padding: 10px;
    border-top: 1px solid #f1f1f1;
 	min-height: 93px;
 }
 	
 	
-	@media all and (max-width: 586px) {
-		.column-table {
-			float: unset !important;
-		width: 100% !important;
-		}
-	}
+
    
    .img-table .column-table {
      min-height: 303px;
      display: flex;
+	 width:33.33% !important;
      align-items: center;
      justify-content: center;
    }
+	
+		@media all and (max-width: 586px) {
+		.column-table, .img-table .column-table {
+			float: unset !important;
+		width: 100% !important;
+		}
+	}
 
 /* Clear floats after the columns */
 .row-table:after {
