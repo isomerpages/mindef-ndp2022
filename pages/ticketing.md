@@ -2,6 +2,8 @@
 title: Ticketing
 permalink: /ticketing/
 ---
+<a href="https://form.gov.sg/6273f1e0c8f704001298ef63" class="bp-button is-secondary is-uppercase search-button">CLICK HERE TO APPLY</a>
+
 #### Ticketed shows are back at The Float @ Marina Bay!
 * Members of the public can apply for two, four or six tickets to attend one of three shows : 
 	* **NDP Preview 1 (23 July 22)**
@@ -13,8 +15,7 @@ permalink: /ticketing/
 #### Application
 * Application Period: **6 June 2022, 12:00pm to 20 June 2022, 12:00pm**
 * Each applicant will only be entitled to one ballot chance. Duplicate applications will be excluded from the balloting process.
-* Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.
-* Submit your application [here](https://form.gov.sg/6273f1e0c8f704001298ef63) via FormSG. 
+* Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show. 
 * Keep a look out for a confirmation email after submission.
 
 
