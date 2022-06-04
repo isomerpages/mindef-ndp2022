@@ -6,7 +6,11 @@ permalink: /ticketing/
     border-radius: 6px!important;
     background-color: #ee3e35!important;
     color: #fff!important;
-    padding: 7px 47px!important;">CLICK HERE TO APPLY</a>
+    padding: 7px 47px!important;
+    font-size: 15px!important;
+    letter-spacing: .8px;
+    font-weight: 600;
+    height: 2.4rem;">CLICK HERE TO APPLY</a>
 		
 #### Ticketed shows are back at The Float @ Marina Bay!
 * Members of the public can apply for two, four or six tickets to attend one of three shows : 
