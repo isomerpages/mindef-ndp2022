@@ -9,7 +9,7 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: Application for tickets for shows at The Float @ Marina starts 6 Jun,
+      subtitle: Ticket application for shows at The Float @ Marina Bay starts 6 Jun,
         12pm.
       background: /images/Homepage Key Visual 20May2022 5pm.jpg
       button: FIND OUT MORE
