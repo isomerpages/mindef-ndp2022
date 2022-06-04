@@ -31,7 +31,8 @@ permalink: /ticketing/
     text-align: center;
     white-space: nowrap;
     text-transform: uppercase!important;
-		text-decoration: none;">CLICK HERE TO APPLY</a>		
+		text-decoration: none;">CLICK HERE TO APPLY</a>
+		<br/><i>Ticket Balloting starts on 6 June 2022 at 12pm</i>	
 		
 #### Ticketed shows are back at The Float @ Marina Bay!
 * Members of the public can apply for two, four or six tickets to attend one of three shows : 
