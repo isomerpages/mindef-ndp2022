@@ -19,7 +19,7 @@ permalink: /sponsors/
 /* Create two equal columns that floats next to each other */
 .column-table {
  float: left;
- width: 50%;
+ width: 33.33%;
  padding: 10px;
    border-top: 1px solid #f1f1f1;
 	min-height: 93px;
