@@ -51,7 +51,7 @@ permalink: /sponsors/
 }
 </style>
 ## Principal Partners
-<div class='row-table logo-table'>
+<div class='row-table img-table'>
     <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
