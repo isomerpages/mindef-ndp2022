@@ -2,8 +2,12 @@
 title: Ticketing
 permalink: /ticketing/
 ---
-<a href="https://form.gov.sg/6273f1e0c8f704001298ef63" class="bp-button is-secondary is-uppercase search-button">CLICK HERE TO APPLY</a>
-
+<a href="https://form.gov.sg/6273f1e0c8f704001298ef63" style="
+    border-radius: 6px!important;
+    background-color: #ee3e35!important;
+    color: #fff!important;
+    padding: 7px 47px!important;">CLICK HERE TO APPLY</a>
+		
 #### Ticketed shows are back at The Float @ Marina Bay!
 * Members of the public can apply for two, four or six tickets to attend one of three shows : 
 	* **NDP Preview 1 (23 July 22)**
