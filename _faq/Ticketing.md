@@ -7,7 +7,7 @@ description: ""
 <h3 id="application"><u>Application</u></h3>
 
 #### Q5-1. How can I apply for tickets?
-Applications may be submitted through an online form via this [link](https://form.gov.sg/6273f1e0c8f704001298ef63).
+Applications may be submitted through an online form via this [link](/ticketing).
 
 
 #### Q5-2. How many tickets can I apply for?
