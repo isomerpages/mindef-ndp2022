@@ -19,26 +19,29 @@ permalink: /sponsors/
 /* Create two equal columns that floats next to each other */
 .column-table {
  float: left;
- width: 50%;
+ width:50%;
  padding: 10px;
    border-top: 1px solid #f1f1f1;
 	min-height: 93px;
 }
 	
 	
-	@media all and (max-width: 586px) {
-		.column-table {
-			float: unset !important;
-		width: 100% !important;
-		}
-	}
+
    
    .img-table .column-table {
      min-height: 303px;
      display: flex;
+	 width:33.33% !important;
      align-items: center;
      justify-content: center;
    }
+	
+		@media all and (max-width: 586px) {
+		.column-table, .img-table .column-table {
+			float: unset !important;
+		width: 100% !important;
+		}
+	}
 
 /* Clear floats after the columns */
 .row-table:after {
@@ -48,10 +51,11 @@ permalink: /sponsors/
 }
 </style>
 ## Principal Partners
-<div class='row-table logo-table'>
+<div class='row-table img-table'>
+    <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
@@ -61,7 +65,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href=' https://www.firstcom.com.sg/'><img src="/images/FirstCom Solutions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.grab.com/sg/'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/GRID Communications Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://solarpower.zone/'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
@@ -96,7 +100,6 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='https://theperfectmediagroup.com/'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Unearthed Productions.png" alt=""> </a></div>
@@ -128,11 +131,12 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Mitsubishi Electric.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Mr Bean.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/NYP School of Business.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Old Chang Kee.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/OSG Container.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/OSIM.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Peach Garden.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Porta Pumper.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Singapore Airlines.png" alt="Image"></a></div>
@@ -310,9 +314,6 @@ permalink: /sponsors/
      <p>Freshening Industries Pte Ltd</p>
   </div>
   <div class='column-table'>
-     <p>Fusion Genesis Pte. Ltd</p>
-  </div>
-  <div class='column-table'>
      <p>Gim Tian Logistics Pte Ltd</p>
   </div>
   <div class='column-table'>
@@ -398,9 +399,6 @@ permalink: /sponsors/
   </div>
   <div class='column-table'>
      <p>Megawatts Sustainability Energy Pte Ltd</p>
-  </div>
-  <div class='column-table'>
-     <p>Mong Holdings Pte Ltd</p>
   </div>
   <div class='column-table'>
      <p>National Service Resort & Country Club</p>
@@ -499,9 +497,6 @@ permalink: /sponsors/
      <p>Superworld Holdings (S) Pte Ltd</p>
   </div>
   <div class='column-table'>
-     <p>Superworld Holdings (S) Pte Ltd</p>
-  </div>
-  <div class='column-table'>
      <p>Surbana Jurong Private Limited</p>
   </div>
   <div class='column-table'>
@@ -552,6 +547,9 @@ permalink: /sponsors/
   <div class='column-table'>
      <p>TRD Consultancy Pte Ltd</p>
   </div>
+  <div class='column-table'>
+    <p>Three's a Crowd Cafe</p>
+ </div>
   <div class='column-table'>
      <p>Trishaw Uncle Pte Ltd</p>
   </div>
