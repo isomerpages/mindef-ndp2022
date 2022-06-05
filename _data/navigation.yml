@@ -14,3 +14,5 @@ links:
     url: /resources
   - title: FAQ
     collection: faq
+  - title: Advisory
+    resource_room: true
