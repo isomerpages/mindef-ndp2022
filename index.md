@@ -11,7 +11,7 @@ sections:
       title: Stronger Together, Majulah!
       subtitle: Ticket application for shows at The Float @ Marina Bay starts 6 Jun,
         12pm.
-      background: /images/Homepage Key Visual 20May2022 5pm.jpg
+      background: /images/NDP22-Website-Homepage-KV-5Jun2022-11am.jpg
       button: FIND OUT MORE
       url: /ticketing/
       key_highlights:
