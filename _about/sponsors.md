@@ -55,7 +55,7 @@ permalink: /sponsors/
     <div class='column-table'><a href=""><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
   <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
@@ -65,7 +65,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href=' https://www.firstcom.com.sg/'><img src="/images/FirstCom Solutions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.grab.com/sg/'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Greendot Media Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/GRID Communications Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://solarpower.zone/'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
@@ -136,7 +136,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/OSG Container.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/OSIM.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Peach Garden.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Porta Pumper.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Singapore Airlines.png" alt="Image"></a></div>
@@ -312,9 +312,6 @@ permalink: /sponsors/
   </div>
   <div class='column-table'>
      <p>Freshening Industries Pte Ltd</p>
-  </div>
-  <div class='column-table'>
-     <p>Fusion Genesis Pte. Ltd</p>
   </div>
   <div class='column-table'>
      <p>Gim Tian Logistics Pte Ltd</p>
@@ -495,9 +492,6 @@ permalink: /sponsors/
   </div>
   <div class='column-table'>
      <p>Steven Corporation Pte Ltd</p>
-  </div>
-  <div class='column-table'>
-     <p>Superworld Holdings (S) Pte Ltd</p>
   </div>
   <div class='column-table'>
      <p>Superworld Holdings (S) Pte Ltd</p>
