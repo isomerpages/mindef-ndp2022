@@ -110,7 +110,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/C.O. Enterprise Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/CO Enterprise Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Camwerksz Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='https://www.claritythewordfactory.com/'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Container Connections Pte Ltd.png" alt="Image"></a></div>
