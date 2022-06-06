@@ -7,7 +7,7 @@ description: ""
 ### <u>Application</u>
 
 #### Q5-1. How can I apply for tickets?
-Applications may be submitted through an online form via this <a href="/files/News%20Release%20-%20Establishment%20of%20Temporary%20Restricted%20Area%20for%20NDP-related%20Aerial%20Activities.pdf" target="_blank">link</a>.
+Applications may be submitted through an online form via this <a href="/ticketing" target="_blank">link</a>.
 
 
 #### Q5-2. How many tickets can I apply for?
