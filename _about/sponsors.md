@@ -192,7 +192,7 @@ permalink: /sponsors/
      </div>  <div class='column-table'>
         <p>Aileng Food Industries (Singapore) Pte Ltd</p>
      </div>  <div class='column-table'>
-        <p>Allegro-Brio</p>
+        <p>ALLEGRO-BRIO</p>
      </div>  <div class='column-table'>
         <p>Andy Balloons Pte Ltd</p>
      </div>  <div class='column-table'>
