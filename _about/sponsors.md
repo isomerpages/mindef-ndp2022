@@ -125,7 +125,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Jean Yip.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Khong Guan.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
