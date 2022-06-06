@@ -59,7 +59,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Esri Singapore.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.field.com.sg/'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
