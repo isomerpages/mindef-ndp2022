@@ -7,7 +7,7 @@ description: ""
 ### <u>Application</u>
 
 #### Q5-1. How can I apply for tickets?
-Applications may be submitted through an online form via this <a href="/ticketing" target="_blank">link</a>.
+Applications may be submitted through an online form via this <a href="/ticketing">link</a>.
 
 
 #### Q5-2. How many tickets can I apply for?
