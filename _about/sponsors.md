@@ -59,7 +59,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
-  <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'> <img src="/images/Eng Lee Logistics Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Esri Singapore.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.field.com.sg/'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Firefly Photography Pte Ltd.png" alt=""></a></div>
@@ -110,7 +110,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/CO Enterprise.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/C.O. Enterprise Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Camwerksz Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='https://www.claritythewordfactory.com/'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Container Connections Pte Ltd.png" alt="Image"></a></div>
@@ -125,7 +125,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Jean Yip.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Khong Guan.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
