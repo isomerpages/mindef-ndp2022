@@ -47,13 +47,14 @@ Each applicant can only apply for a **maximum of 6 tickets**.
 
 ### <u>Notification of Successful Applicants</u>
 
-#### Q5-8. When will the balloting results be announced?
+#### Q5-11. When will the balloting results be announced?
 Ballot results will be released through email notification between **27 June 2022 to 1 July 2022**. Only successful applicants will be notified. 
+You will be notified via email from the address: ndp2022@hapz.com on the number of tickets that you have successfully balloted for.
 
-#### Q5-9. I did not receive any notification email. Can I check if I had successfully balloted for the event?
-An email OTP verification will be performed at the point of application. At the end of the balloting process, only successful applicants will receive a notification email to inform them of the number of tickets that they have successfully balloted for.
+#### Q5-12. How do I know if I will be getting the tickets?
+You will be notified via email from the address: ndp2022@hapz.com on the number of tickets that you have successfully balloted for.
 
-#### Q5-10. I may have accidentally deleted my notification email. Can I check if I had successfully balloted for the event?
+#### Q5-13. I may have accidentally deleted my notification email. Can I check if I had successfully balloted for the event?
 It is the responsibility of the applicant to check for the notification email during the notification period, and to check their email trash bin if they think they might have accidentally deleted their email.
 
 #### Q5-11. What should I look out for in my notification email?
