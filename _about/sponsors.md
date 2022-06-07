@@ -355,7 +355,7 @@ permalink: /sponsors/
      </div>  <div class='column-table'>
         <p>OnRobot Singapore Pte Ltd</p>
      </div>  <div class='column-table'>
-        <p>Pamarine Pte Ltd</p>
+        <p>Pamarine Private Limited</p>
      </div>  <div class='column-table'>
         <p>Pizza Hut Singapore</p>
      </div>  <div class='column-table'>
