@@ -46,7 +46,7 @@ permalink: /ticketing/
 * Application Period: **6 June 2022, 12:00pm to 20 June 2022, 12:00pm**
 * Each applicant will only be entitled to one ballot chance. Duplicate applications will be excluded from the balloting process.
 * Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show. 
-* Keep a look out for a confirmation email after submission.
+* Keep a look out for a acknowledgement email after submission.
 
 
 #### Notification of Successful Applicants
