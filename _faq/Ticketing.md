@@ -29,12 +29,21 @@ Singapore Citizens and Permanent Residents of all ages may apply for tickets.
 #### Q5-5. I did not receive my One-Time Password (OTP) even though I provided my email. What should I do?
 An email OTP verification will need to be performed at the point of ticket application. If you did not receive the OTP email, try checking your spam or junk folders. You may also request for a new OTP by clicking the ‘Resend OTP’ button in the application form.
 
+#### Q5-6. I did not receive any email to acknowledge my ticket application. What should I do?
+All ticket applicants will receive an acknowledgement email from donotreply@mail.form.gov.sg upon successful application. Applicants are advised to apply for tickets with their personal emails, as corporate emails with security features may filter the acknowledgement email. Do note that emails may take up to 24 hours to reach your email inbox. If you did not receive the acknowledgement email, you may wish to check your spam or junk folders.
 
-#### Q5-6. When will application be?
+
+#### Q5-7. When will application be?
 The application period will be held from **6 June 2022 (Monday), 12:00pm to 20 June 2022 (Monday), 12:00pm**. The notification period for successful applicants will be from **27 June 2022 to 1 July 2022** via the emails provided during application.
 
-#### Q5-7. Do infants need a ticket?
+#### Q5-8. Do infants need a ticket?
 Yes. All attendees will require a ticket for entry, regardless of age. This includes infants who are carried in the arms of adults.
+
+#### Q5-9. Can I apply for 1, 3 or 5 tickets instead?
+Applicants will only be able to apply for 2, 4 or 6 tickets.
+
+#### Q5-10. Can I apply for more than 6 tickets?
+Each applicant can only apply for a **maximum of 6 tickets**. 
 
 ### <u>Notification of Successful Applicants</u>
 
