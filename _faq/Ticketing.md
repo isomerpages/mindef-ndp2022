@@ -30,7 +30,7 @@ Singapore Citizens and Permanent Residents of all ages may apply for tickets.
 An email OTP verification will need to be performed at the point of ticket application. If you did not receive the OTP email, try checking your spam or junk folders. You may also request for a new OTP by clicking the ‘Resend OTP’ button in the application form.
 
 #### Q5-6. I did not receive any email to acknowledge my ticket application. What should I do?
-All ticket applicants will receive an acknowledgement email from [donotreply@mail.form.gov.sg]() upon successful application. Applicants are advised to apply for tickets with their personal emails, as corporate emails with security features may filter the acknowledgement email. Do note that emails may take up to 24 hours to reach your email inbox. If you did not receive the acknowledgement email, you may wish to check your spam or junk folders.
+All ticket applicants will receive an acknowledgement email from [donotreply@mail.form.gov.sg](#) upon successful application. Applicants are advised to apply for tickets with their personal emails, as corporate emails with security features may filter the acknowledgement email. Do note that emails may take up to 24 hours to reach your email inbox. If you did not receive the acknowledgement email, you may wish to check your spam or junk folders.
 
 
 #### Q5-7. When will application be?
@@ -49,11 +49,9 @@ Each applicant can only apply for a **maximum of 6 tickets**.
 
 #### Q5-11. When will the balloting results be announced?
 Ballot results will be released through email notification between **27 June 2022 to 1 July 2022**. Only successful applicants will be notified. 
-You will be notified via email from the address: ndp2022@hapz.com on the number of tickets that you have successfully balloted for.
-
 
 #### Q5-12. How do I know if I will be getting the tickets?
-You will be notified via email from the address: [ndp2022@hapz.com]() on the number of tickets that you have successfully balloted for.
+You will be notified via email from the address: [ndp2022@hapz.com](#) on the number of tickets that you have successfully balloted for.
 
 #### Q5-13. I may have accidentally deleted my notification email. Can I check if I had successfully balloted for the event?
 It is the responsibility of the applicant to check for the notification email during the notification period, and to check their email trash bin if they think they might have accidentally deleted their email.
