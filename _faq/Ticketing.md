@@ -26,8 +26,8 @@ NDP 2022: **9 August 2022**
 #### Q5-4. Is there a minimum age or requirements to be eligible for ticket application?
 Singapore Citizens and Permanent Residents of all ages may apply for tickets.
 
-#### Q5-5. Why did I not receive an email confirmation on application results?
-Only successful applicants will be notified through email provided during the application process. Applicants are advised to apply for tickets with their personal emails, as corporate emails with security features may reject the email notification. 
+#### Q5-5. I did not receive my One-Time Password (OTP) even though I provided my email. What should I do?
+An email OTP verification will need to be performed at the point of ticket application. If you did not receive the OTP email, try checking your spam or junk folders. You may also request for a new OTP by clicking the ‘Resend OTP’ button in the application form.
 
 
 #### Q5-6. When will application be?
