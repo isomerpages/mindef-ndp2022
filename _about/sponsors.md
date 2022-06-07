@@ -72,7 +72,6 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Jadia Logistics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.jcdecaux.com.sg/'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Keppel.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Kplass Singapore Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/LDR Pte Ltd.png" alt=""></a></div>
@@ -89,6 +88,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Pixo Events Asia Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Plain Vanilla Group Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Poh Tiong Choon Logisitc Group.png" alt=""></a></div>
+  <div class='column-table'><a href='#'><img src="/images/PSA.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/PUB.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Ram E Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Satin Pte Ltd.png" alt=""> </a></div>
@@ -127,9 +127,10 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Jean Yip.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Keppel.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Khong Guan.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/LHT.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Mitsubishi Electric.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Mitsubishi Electric logo-ai.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Mr Bean.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/NYP School of Business.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Old Chang Kee.png" alt="Image"></a></div>
@@ -319,6 +320,8 @@ permalink: /sponsors/
         <p>Laughing Kookaburra</p>
      </div>  <div class='column-table'>
         <p>Le Quinn's Fruits Pte Ltd</p>
+     </div><div class='column-table'>
+        <p>Lee Foundation</p>
      </div>  <div class='column-table'>
         <p>Lee Kim Tah Holdings Limited</p>
      </div>  <div class='column-table'>
