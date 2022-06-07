@@ -51,6 +51,7 @@ Each applicant can only apply for a **maximum of 6 tickets**.
 Ballot results will be released through email notification between **27 June 2022 to 1 July 2022**. Only successful applicants will be notified. 
 You will be notified via email from the address: ndp2022@hapz.com on the number of tickets that you have successfully balloted for.
 
+
 #### Q5-12. How do I know if I will be getting the tickets?
 You will be notified via email from the address: ndp2022@hapz.com on the number of tickets that you have successfully balloted for.
 
