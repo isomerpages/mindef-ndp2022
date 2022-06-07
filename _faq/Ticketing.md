@@ -94,6 +94,7 @@ In line with national guidelines, NDP 2022 will be an event with Vaccination Dif
 
 
 #### Q5-22. Am I required to show proof of my vaccination or VDS exemption status at the point of entry?
-Yes, all attendees will be required to show their proof of vaccination or VDS exemption via the following mediums: (i) TraceTogether App; (ii) HealthHub; (iii) Sync Website; (iv) COVID-19 Vaccination Card; or (v) Medical Memo. Children who are 12 years old and below will be required to show proof of age at the point of entry.
+Yes, all attendees will be required to show their proof of vaccination or VDS exemption via the following mediums: (i) TraceTogether App; (ii) HealthHub; (iii) Sync Website; (iv) COVID-19 Vaccination Card; or (v) Medical Memo. Children who are 12 years old and below will be required to show proof of age at the point of entry.<br><br>
+
 
 <sup>1</sup>*An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days.*
