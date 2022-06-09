@@ -103,8 +103,8 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Singapore Technologies Engineering Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.singtel.com'> <img src="/images/Singapore Telecommunications Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='https://slitegroup.com/'> <img src="/images/S-Lite Event Support Pte Ltd.png" alt=""></a></div>
-  <div class='column-table'><a href='https://www.camokakis.sg/'> <img src="/images/SoDrama! Entertainment (POWER 98 FM).png" alt=""></a></div>
-  <div class='column-table'><a href='https://www.camokakis.sg/'> <img src="/images/SoDrama! Entertainment (88.3JIA).png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.camokakis.sg/'> <img src="/images/SoDrama Entertainment (POWER 98 FM).png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.camokakis.sg/'> <img src="/images/SoDrama Entertainment (883JIA).png" alt=""></a></div>
   <div class='column-table'><a href='https://www.sph.com.sg/'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
