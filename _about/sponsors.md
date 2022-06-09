@@ -76,7 +76,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Jadia Logistics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.jcdecaux.com.sg/'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'> <img src="/images/Kplass Singapore Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/LDR Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'> <img src="/images/Leisure Frontier (S) Pte Ltd.png" alt=""></a></div>
