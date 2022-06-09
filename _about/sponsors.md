@@ -131,7 +131,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://isdinsingapore.com/'> <img src="/images/DTB Distribution Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.ebenex.com/'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/EMARCO Enterprise Pte Ltd.png" alt="Image"></a></div>
-  <div class='column-table'><a href='#'><img src="/images/Entree Media.png" alt="Image"></a></div>
+  <div class='column-table'><a href='#'><img src="/images/Entrée Media Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Finute.png" alt="Image"></a></div>
   <div class='column-table'><a href='https://foord.com/'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='http://www.gustodia.sg/'> <img src="/images/Fusion Genesis Pte Ltd.png" alt=""> </a></div>
