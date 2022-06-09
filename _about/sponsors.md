@@ -42,7 +42,7 @@ permalink: /sponsors/
     }
  </style>
  
- ## Principal Partners
+## Principal Partners
  
  <div class='row-table img-table'>
     <div class='column-table'><a href="https://www.toteboard.gov.sg/"><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
@@ -168,7 +168,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.yeos.com.sg    '><img src="/images/YHS (Singapore) Pte Ltd.png" alt="Image"></a></div>
  </div>
  
- ## Co-Partners
+## Co-Partners
  
  <div class='row-table img-table'>
     <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
