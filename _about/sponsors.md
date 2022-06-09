@@ -118,7 +118,7 @@ permalink: /sponsors/
 </div>
 
 ## Major Partners
-<div class='row-table img-table' >
+<div class='row-table img-table'>
   <div class='column-table'><a href='#'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
   <div class='column-table'><a href='#'><img src="/images/Autq Speed Pte Ltd.png" alt="Image"></a></div>
@@ -170,8 +170,10 @@ permalink: /sponsors/
 ## Co-Partners
 <div class='row-table img-table'>
   <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/Asiaray Connect (Singapore) Pte Ltd.png' alt=''/></div>
   <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
   <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Dreamcore.png' alt='Dreamcore Private Limited'/></div>
   <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
@@ -180,14 +182,17 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/JC Wine_Spirits Pte Ltd.png' alt='JC Wine & Spirits Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Lam Soon Singapore Pte Ltd.png' alt='Lam Soon Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Marina Centre Holding Pte Ltd.png' alt='Marina Centre Holding Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/Mr Coconut.png' alt=''/></div>
   <div class='column-table'><img src='/images/Nestle.png' alt='Nestle Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Network Courier.png' alt='Network Courier'/></div>
+  <div class='column-table'><img src='/images/NTUC FairPrice Foundation Limited.png' alt=''/></div>
   <div class='column-table'><img src='/images/Orchid Country Club.png' alt='Orchid Country Club'/></div>
   <div class='column-table'><img src='/images/Playbox.png' alt='Playbox Studios Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Prism Tech Pte Ltd.png' alt='Prism Tech Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Rentokil.png' alt='Rentokil Initial Singapore Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Republic Poly.png' alt='Republic Polytechnic'/></div>
   <div class='column-table'><img src='/images/SATS.png' alt='SATS Food Services Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/SBS Transit Ltd.png' alt=''/></div>
   <div class='column-table'><img src='/images/Shalom Movers.png' alt='Shalom International Movers Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Shing Chap.png' alt='Shing Chap International Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Sin Chew.png' alt='Sin Chew Woodpaq Pte Ltd'/></div>
@@ -196,7 +201,9 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Malayan Council.png' alt='The Malayan Council Pte Ltd'/></div>
   <div class='column-table'><img src='/images/The SAF Warrant Officers and Specialist Club.png' alt='The SAF Warrant Officers And Specialists Club'/></div>
   <div class='column-table'><img src='/images/UFC Gym.png' alt='UFC Gym Singapore'/></div>
+  <div class='column-table'><img src='/images/United Venture Development (2020) Pte Ltd.png' alt=''/></div>
   <div class='column-table'><img src='/images/Universal Integrated Corporation Consumer Products Pte Ltd.png' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
+  <div class='column-table'><img src='/images/WeTheFlyers.png' alt=''/></div>
 </div>
 
 <div class='row-table'>
