@@ -73,7 +73,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='#'><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://solarpower.zone/'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='www.hexogonsol.com'> <img src="/images/Hexogon Solution Pte Ltd.png" alt=""> </a></div>
-  <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd.png" alt=""> </a></div>
+  <div class='column-table'><a href='#'><img src="/images/HP PPS Singapore (Sales) Pte Ltd2.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Jadia Logistics Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://www.jcdecaux.com.sg/'><img src="/images/JCDecaux Singapore Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/Klobbi Pte Ltd2.png" alt=""> </a></div>
