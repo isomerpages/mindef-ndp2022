@@ -114,8 +114,8 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://unearthedproductions.com.sg    '><img src="/images/Unearthed Productions.png" alt=""> </a></div>
 </div>
 
- ## Major Partners
- 
+## Major Partners
+
  <div class='row-table img-table'>
     <div class='column-table'><a href='https://www.activecoolfashion.com/'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.asiagroup.com.sg/'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
