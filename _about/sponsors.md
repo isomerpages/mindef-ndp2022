@@ -175,7 +175,7 @@ permalink: /sponsors/
   <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
   <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
   <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
-  <div class='column-table'><img src='/images/Dreamcore Private Limited (new)' alt='Dreamcore Private Limited'/></div>
+  <div class='column-table'><img src='/images/Dreamcore Private Limited (new).png' alt='Dreamcore Private Limited'/></div>
   <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
   <div class='column-table'><img src='/images/GovTech.png' alt='Government Technology Agency (GovTech)'/></div>
   <div class='column-table'><img src='/images/Greenco Asia (Singapore) Pte Ltd.png' alt='Greenco Asia (Singapore) Pte Ltd'/></div>
