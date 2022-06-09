@@ -41,7 +41,9 @@ permalink: /sponsors/
     clear: both;
     }
  </style>
+ 
  ## Principal Partners
+ 
  <div class='row-table img-table'>
     <div class='column-table'><a href="https://www.toteboard.gov.sg/"><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
     <div class='column-table'><a href='https://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
@@ -111,7 +113,9 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://truecolourmedia.com    '><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://unearthedproductions.com.sg    '><img src="/images/Unearthed Productions.png" alt=""> </a></div>
 </div>
+
  ## Major Partners
+ 
  <div class='row-table img-table'>
     <div class='column-table'><a href='https://www.activecoolfashion.com/'><img src="/images/Activecool Fashion Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.asiagroup.com.sg/'><img src="/images/AsiaGroup Leasing Pte Ltd.png" alt="Image"></a></div>
@@ -163,7 +167,9 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://xctuality.com    '><img src="/images/Xctuality.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.yeos.com.sg    '><img src="/images/YHS (Singapore) Pte Ltd.png" alt="Image"></a></div>
  </div>
+ 
  ## Co-Partners
+ 
  <div class='row-table img-table'>
     <div class='column-table'><img src='/images/AME.png' alt='AME International Pte Ltd'/></div>
     <div class='column-table'><img src='/images/Asiaray Connect (Singapore) Pte Ltd.png' alt=''/></div>
