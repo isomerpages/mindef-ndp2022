@@ -110,7 +110,7 @@ permalink: /sponsors/
   <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
   <div class='column-table'><a href='https://www.targetmediaculcreative.com.sg '> <img src="/images/Target Media Culcreative Pte Ltd.png" alt="">
 </a></div>
-  <div class='column-table'><a href='https://www.tkhsingapore.com.sg'> <img src="/images/T.K.H Deco Pte Ltd.png" alt=""></a></div>
+  <div class='column-table'><a href='https://www.tkhsingapore.com.sg'> <img src="/images/TKH Deco Pte Ltd.png" alt=""></a></div>
   <div class='column-table'><a href='#'><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='https://theperfectmediagroup.com/'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
   <div class='column-table'><a href='#'><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
