@@ -63,7 +63,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.grab.com/sg/'><img src="/images/GrabCar Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.greendotmedia.com.sg/    '> <img src="/images/Greendot Media Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.grid.net.sg    '><img src="/images/GRID Communications Pte Ltd.png" alt=""> </a></div>
-    <div class='column-table'><a href='https://www.handplusrobotics.com    '><img src="/images/Hand Plus Robotics Pte Ltd.png" alt=""> </a></div>
+    <div class='column-table'><a href='https://www.handplusrobotics.com    '><img src="/images/Hand Plus Robotics Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://solarpower.zone/'><img src="/images/Heineken Asia Pacific Beverages Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.hexogonsol.com'> <img src="/images/Hexogon Solution Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.hp.com/sg-en/home.html'><img src="/images/HP PPS Singapore (Sales) Pte Ltd2.png" alt=""> </a></div>
@@ -151,6 +151,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.osgcontainers.com/en-sg/    '><img src="/images/OSG Container.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://sg.osim.com/    '><img src="/images/OSIM.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.peachgarden.com.sg/    '><img src="/images/Peach Garden.png" alt="Image"></a></div>
+<div class='column-table'><a href='https://pml-bmw.com.sg/'><img src='/images/Performance Motors.png' alt=''/></a></div>
     <div class='column-table'><a href='https://www.portapumper.com.sg/    '><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.rohde-schwarz.com    '><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
     <div class='column-table'><a href=' https://www.facebook.com/lihosg'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
@@ -178,6 +179,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
 	 <div class='column-table'><img src='/images/Dairy Farm International Retail Group.png' alt=''/></div>
+<div class='column-table'><img src='/images/Diverse Media Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Dreamcore Private Limited (new).png' alt='Dreamcore Private Limited'/></div>
     <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
     <div class='column-table'><img src='/images/GovTech.png' alt='Government Technology Agency (GovTech)'/></div>
