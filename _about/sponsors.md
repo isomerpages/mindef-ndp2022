@@ -140,7 +140,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.hiaptong.com/    '><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.it-dns.sg/    '><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
+    <div class='column-table'><a href='http://www.it-dns.sg/    '><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://jeanyipgroup.com/    '><img src="/images/Jean Yip.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.kepcorp.com/    '><img src="/images/Keppel.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.khongguan.com.sg/    '><img src="/images/Khong Guan.png" alt="Image"></a></div>
