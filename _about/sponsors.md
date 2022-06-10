@@ -183,6 +183,7 @@ permalink: /sponsors/
 	 <div class='column-table'><img src='/images/Dairy Farm International Retail Group.png' alt=''/></div>
 <div class='column-table'><img src='/images/Diverse Media Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Dreamcore Private Limited (new).png' alt='Dreamcore Private Limited'/></div>
+<div class='column-table'><img src='/images/ECDA.png' alt='EVO Green Transportation Pte Ltd'/></div>
     <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
  <div class='column-table'><img src='/images/Families for Life.png' alt='EVO Green Transportation Pte Ltd'/></div>
     <div class='column-table'><img src='/images/GovTech.png' alt='Government Technology Agency (GovTech)'/></div>
