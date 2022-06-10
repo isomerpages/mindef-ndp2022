@@ -136,7 +136,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://m.facebook.com/EntreeMedia/'><img src="/images/Entrée Media Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.finute.co/    '><img src="/images/Finute.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://foord.com/'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='http://www.gustodia.sg/'> <img src="/images/Fusion Genesis Pte Ltd.png" alt=""> </a></div>
+    <div class='column-table'><a href='http://www.gustodia.sg/'> <img src="/images/Fusion Genesis.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.galmon.com/    '><img src="/images/Galmon.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.facebook.com/FriendsofGardenia    '><img src="/images/Gardenia Food (S) Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
