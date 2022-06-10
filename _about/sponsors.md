@@ -93,7 +93,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.rame.com.sg    '><img src="/images/Ram E Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.foreverfamily.com.sg/    '><img src="/images/Satin Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://sembcorp.com/    '><img src="/images/Sembcorp Industries.png" alt=""> </a></div>
-    <div class='column-table'><a href='https://www.sdc.com.sg/    '><img src="/images/Singapore Discovery Centre.png" alt=""> </a></div>
+    <div class='column-table'><a href='https://www.sdc.com.sg/    '><img src="/images/Singapore Discovery Centre2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://singlife.com/en  '><img src="/images/Singlife AVIVA.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.stengg.com/    '><img src="/images/Singapore Technologies Engineering Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.singtel.com'> <img src="/images/Singapore Telecommunications Ltd.png" alt=""></a></div>
