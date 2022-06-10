@@ -357,16 +357,19 @@ permalink: /sponsors/
        <p>Fancy Paper Supplier</p>
     </div>
     <div class='column-table'>
-       <p>Freshening Industries Pte Ltd</p>
+       <p>Zappy Wet Wipes</p>
     </div>
     <div class='column-table'>
-       <p>Gim Tian Logisitcs Pte Ltd</p>
+       <p>Gim Tian Logistics Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Glenn Lee Learning Centre Pte Ltd</p>
     </div>
     <div class='column-table'>
-       <p>Glico Asia Pacific Pte Ltd</p>
+       <p>Glico Asia Pacific</p>
+    </div>
+   <div class='column-table'>
+       <p>Goh Seng Lai Company Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>HORIZON MOON PTE LTD</p>
@@ -378,7 +381,7 @@ permalink: /sponsors/
        <p>How's Catering</p>
     </div>
     <div class='column-table'>
-       <p>Hup Chung Tentage System Pte Ltd</p>
+       <p>Hup Chung Tentage System Pte. Ltd</p>
     </div>
     <div class='column-table'>
        <p>IAI Asia Pte LTd</p>
@@ -459,7 +462,7 @@ permalink: /sponsors/
        <p>Maritime and Port Authority of Singapore</p>
     </div>
     <div class='column-table'>
-       <p>Megawatts Sustainability Energy Pte Ltd</p>
+       <p>Megawatts Sustainable Energy Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Mononos Pte Ltd</p>
@@ -495,7 +498,7 @@ permalink: /sponsors/
        <p>Northrock Safety Equipment Pte Ltd</p>
     </div>
     <div class='column-table'>
-       <p>NUS Environment Research Institute</p>
+       <p>NUS Environmental Research Institute</p>
     </div>
     <div class='column-table'>
        <p>O'meteor Singapore Pte Ltd</p>
@@ -628,6 +631,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>TaylorMade Golf Singapore</p>
+    </div>
+    <div class='column-table'>
+       <p>Teknor Apex Asia Pacific Pte. Ltd</p>
     </div>
     <div class='column-table'>
        <p>TEMASEK CLUB</p>
