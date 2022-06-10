@@ -50,6 +50,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://anderco.com.sg/    '><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
+<div class='column-table'><a href='https://v-stop.com/'><img src="/images/BIOCOMM PTE LTD.png" alt=""></a></div>
     <div class='column-table'><a href='https://calbeemohseng.com.sg/'> <img src="/images/Calbee Moh Seng Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
@@ -102,6 +103,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.camokakis.sg/'> <img src="/images/SoDrama Entertainment (883JIA).png" alt=""></a></div>
     <div class='column-table'><a href='https://www.sph.com.sg/'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
+<div class='column-table'><a href='https://www.showtecgroup.com/site/'><img src="/images/Showtec International Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.facebook.com/SunshineBakeries    '><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.suntecsingapore.com/'><img src="/images/Suntec Singapore International Convention and Exhibition Centre.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.svt.com.sg/'><img src="/images/SVT Construction Pte Ltd.png" alt=""></a></div>
@@ -182,6 +184,7 @@ permalink: /sponsors/
 <div class='column-table'><img src='/images/Diverse Media Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Dreamcore Private Limited (new).png' alt='Dreamcore Private Limited'/></div>
     <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
+ <div class='column-table'><img src='/images/Families for Life.png' alt='EVO Green Transportation Pte Ltd'/></div>
     <div class='column-table'><img src='/images/GovTech.png' alt='Government Technology Agency (GovTech)'/></div>
     <div class='column-table'><img src='/images/Greenco Asia (Singapore) Pte Ltd.png' alt='Greenco Asia (Singapore) Pte Ltd'/></div>
     <div class='column-table'><img src='/images/Iceman.png' alt='Greenco Asia (Singapore) Pte Ltd'/></div>
