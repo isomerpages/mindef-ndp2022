@@ -361,9 +361,6 @@ permalink: /sponsors/
        <p>Fancy Paper Supplier</p>
     </div>
     <div class='column-table'>
-       <p>Zappy Wet Wipes</p>
-    </div>
-    <div class='column-table'>
        <p>Gim Tian Logistics Pte Ltd</p>
     </div>
     <div class='column-table'>
@@ -710,6 +707,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>Yu Taie Trading Company Pte Ltd</p>
+    </div>
+    <div class='column-table'>
+       <p>Zappy Wet Wipes</p>
     </div>
     <div class='column-table'>
        <p>Zheng Keng Engineering & Construction Pte Ltd</p>
