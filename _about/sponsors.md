@@ -46,7 +46,7 @@ permalink: /sponsors/
  
  <div class='row-table img-table'>
     <div class='column-table'><a href="https://www.toteboard.gov.sg/"><img src='/images/Tote Board.png' alt='Tote Board'/></a></div>
-    <div class='column-table'><a href='https://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
+    <div class='column-table'><a href='http://abm.sg/abmmedia/'><img src="/images/ABM Media Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://anderco.com.sg/    '><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
@@ -108,7 +108,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://sycpowersports.sg/'><img src="/images/SYC Powersports Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.targetmediaculcreative.com.sg '> <img src="/images/Target Media Culcreative Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.tkhsingapore.com.sg'> <img src="/images/TKH Deco Pte Ltd.png" alt=""></a></div>
-    <div class='column-table'><a href='https://www.tionghwa.com/    '><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
+    <div class='column-table'><a href='http://www.tionghwa.com/    '><img src="/images/Tiong Hwa Steel Structures Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://theperfectmediagroup.com/'><img src="/images/TPM Outdoor Productions Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://truecolourmedia.com    '><img src="/images/True Colour Media Group Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://unearthedproductions.com.sg    '><img src="/images/Unearthed Productions.png" alt=""> </a></div>
@@ -131,7 +131,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://isdinsingapore.com/'> <img src="/images/DTB Distribution Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.ebenex.com/'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.emarco.net/'><img src="/images/EMARCO Enterprise Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.entreemedia.sg    '><img src="/images/Entrée Media Pte Ltd.png" alt="Image"></a></div>
+    <div class='column-table'><a href='https://m.facebook.com/EntreeMedia/'><img src="/images/Entrée Media Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.finute.co/    '><img src="/images/Finute.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://foord.com/'><img src="/images/Foord Asset Management (Singapore) Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='http://www.gustodia.sg/'> <img src="/images/Fusion Genesis Pte Ltd.png" alt=""> </a></div>
@@ -143,7 +143,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='http://www.it-dns.sg/    '><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://jeanyipgroup.com/    '><img src="/images/Jean Yip.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.kepcorp.com/    '><img src="/images/Keppel.png" alt=""></a></div>
-    <div class='column-table'><a href='https://www.khongguan.com.sg/    '><img src="/images/Khong Guan.png" alt="Image"></a></div>
+    <div class='column-table'><a href='http://www.khongguan.com.sg/    '><img src="/images/Khong Guan.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.lht.com.sg    '><img src="/images/LHT.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.mitsubishielectric.com.sg/products-solutions/industrial-public-utility/factory-automation/    '><img src="/images/Mitsubishi Electric logo-ai.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.mrbean.com.sg/    '><img src="/images/Mr Bean.png" alt="Image"></a></div>
@@ -153,7 +153,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.peachgarden.com.sg/    '><img src="/images/Peach Garden.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.portapumper.com.sg/    '><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.rohde-schwarz.com    '><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
-    <div class='column-table'><a href='#'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
+    <div class='column-table'><a href=' https://www.facebook.com/lihosg'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='#'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.sfa.gov.sg/fromsgtosg    '><img src="/images/Singapore Food Agency.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.smrt.com.sg/    '><img src="/images/SMRT.png" alt="Image"></a></div>
@@ -161,7 +161,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://tnscon.com.sg/    '><img src="/images/T_S Engineering Construction Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.tce.com.sg        '><img src="/images/Technics Communications & Electronics Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.unionlabel.com.sg/'> <img src="/images/Union Label Industries Pte Ltd.png" alt=""></a></div>
-    <div class='column-table'><a href='https://bit.ly/HorlicksSG/'> <img src="/images/Unilever Asia Private Limited.png" alt=""></a></div>
+    <div class='column-table'><a href='https://bit.ly/HorlicksSG'> <img src="/images/Unilever Asia Private Limited.png" alt=""></a></div>
     <div class='column-table'><a href='https://vendrbot.com'> <img src="/images/Vendr Bot Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://woodsandprints.com'> <img src="/images/Woods and Prints Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://xctuality.com    '><img src="/images/Xctuality.png" alt="Image"></a></div>
