@@ -147,6 +147,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.kepcorp.com/    '><img src="/images/Keppel.png" alt=""></a></div>
     <div class='column-table'><a href='http://www.khongguan.com.sg/    '><img src="/images/Khong Guan.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.lht.com.sg    '><img src="/images/LHT.png" alt="Image"></a></div>
+<div class='column-table'><a href='https://mightyjaxx.com/?utm_source=Website&utm_medium=link&utm_campaign=NDP&utm_id=NDP '><img src="/images/Mighty Jaxx International Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.mitsubishielectric.com.sg/products-solutions/industrial-public-utility/factory-automation/    '><img src="/images/Mitsubishi Electric logo-ai.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.mrbean.com.sg/    '><img src="/images/Mr Bean.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.oldchangkee.com/    '><img src="/images/Old Chang Kee.png" alt="Image"></a></div>
@@ -331,7 +332,7 @@ permalink: /sponsors/
        <p>Digiflow Pte Ltd</p>
     </div>
     <div class='column-table'>
-       <p>DKHS Singapore Pte Ltd</p>
+       <p>DKSH Singapore Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Doughnut Shack Pte Ltd</p>
