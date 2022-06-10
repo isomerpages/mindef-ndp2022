@@ -53,7 +53,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://calbeemohseng.com.sg/'> <img src="/images/Calbee Moh Seng Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
-    <div class='column-table'><a href='https://www.ellog.com.sg/    '> <img src="/images/Eng Lee Logistics Pte Ltd2.png" alt=""> </a></div>
+    <div class='column-table'><a href='http://www.ellog.com.sg/ '> <img src="/images/Eng Lee Logistics Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://elm.com.sg/'><img src="/images/Eng Leong Medallic Industries Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://esrisingapore.com.sg/    '> <img src="/images/Esri Singapore.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.field.com.sg/'><img src="/images/Field Catering_Supplies Pte Ltd.png" alt=""> </a></div>
@@ -94,7 +94,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.foreverfamily.com.sg/    '><img src="/images/Satin Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://sembcorp.com/    '><img src="/images/Sembcorp Industries.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.sdc.com.sg/    '><img src="/images/Singapore Discovery Centre.png" alt=""> </a></div>
-    <div class='column-table'><a href='https://www.sph.com.sg/    '><img src="/images/Singlife AVIVA.png" alt=""> </a></div>
+    <div class='column-table'><a href='https://singlife.com/en  '><img src="/images/Singlife AVIVA.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.stengg.com/    '><img src="/images/Singapore Technologies Engineering Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.singtel.com'> <img src="/images/Singapore Telecommunications Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://slitegroup.com/'> <img src="/images/S-Lite Event Support Pte Ltd.png" alt=""></a></div>
@@ -177,6 +177,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
     <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
+	 <div class='column-table'><img src='/images/Dairy Farm International Retail Group.png' alt=''/></div>
     <div class='column-table'><img src='/images/Dreamcore Private Limited (new).png' alt='Dreamcore Private Limited'/></div>
     <div class='column-table'><img src='/images/EVO Green Transportation Pte Ltd.png' alt='EVO Green Transportation Pte Ltd'/></div>
     <div class='column-table'><img src='/images/GovTech.png' alt='Government Technology Agency (GovTech)'/></div>
