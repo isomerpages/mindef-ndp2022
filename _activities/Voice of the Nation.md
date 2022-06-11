@@ -3,7 +3,6 @@ title: Voice of the Nation
 permalink: /activities/votn
 description: ""
 ---
-
 In celebration of this year's National Day, we are inviting all Singaporeans to be part of NDP 2022's Voice of the Nation (VOTN)! Simply film yourself singing your hearts out to this year's Theme Song “Stronger Together”!
 
 By participating, you stand a chance to: 
@@ -12,7 +11,7 @@ By participating, you stand a chance to:
 
 #### Follow the instructions in the video to film yourself singing:
 
-
+<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0"allowfullscreen></iframe>
 
 #### Follow these 4 simple steps to qualify for the lucky draw:
 Step 1: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
