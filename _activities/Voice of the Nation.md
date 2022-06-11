@@ -22,7 +22,7 @@ Step 2: Post your video on your personal Facebook or Instagram page, tag NDPeeps
 
 Step 3: Set your profile/post to public so that we can watch your video!
 
-Step 4: Follow NDPeeps on Facebook or Instagram. (link to ndpeeps FB & IG) (open new window)
+Step 4: Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>.
 
 
 #### Submission Period
@@ -33,5 +33,3 @@ From <u>13 June 2022, 7pm</u> to <u>24 July 2022, 12pm</u>. Only one submission 
 Winners will be contacted during the period of 25 to 26 Jul 2022 via email ([NDPeeps@defence.gov.sg](#)).
 
 *NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
-
-**Watch this space for more advisories and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [YouTube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
