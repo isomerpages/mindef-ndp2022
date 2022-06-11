@@ -32,4 +32,4 @@ From <u>13 June 2022, 7pm</u> to <u>24 July 2022, 12pm</u>. Only one submission 
 
 Winners will be contacted during the period of 25 to 26 Jul 2022 via email ([NDPeeps@defence.gov.sg](#)).
 
-*NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
+**NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
