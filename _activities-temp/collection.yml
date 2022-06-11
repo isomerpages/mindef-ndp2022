@@ -2,7 +2,6 @@ collections:
   activities-temp:
     output: true
     order:
-      - eVouchers.md
       - dance-of-the-nation.md
       - voice-of-the-nation.md
       - ndp-at-the-metaverse.md
