@@ -2,7 +2,7 @@ collections:
   activities-temp:
     output: true
     order:
-      - voice of the nation.md
+      - Voice Of The Nation.md
       - dance of the nation.md
       - Overview.md
       - eVouchers.md
