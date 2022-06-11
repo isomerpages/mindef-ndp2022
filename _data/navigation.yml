@@ -11,7 +11,7 @@ links:
   - title: Ticketing
     url: /ticketing
   - title: Activities
-    url: /activities/
+    collection: activities
   - title: Resources
     resource_room: true
   - title: FAQ
