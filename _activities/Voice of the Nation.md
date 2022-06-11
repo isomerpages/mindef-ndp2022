@@ -3,6 +3,9 @@ title: Voice of the Nation
 permalink: /activities/votn
 description: ""
 ---
+
+![](/images/votn_montage.jpg)
+
 In celebration of this year's National Day, we are inviting all Singaporeans to be part of NDP 2022's Voice of the Nation (VOTN)! Simply film yourself singing your hearts out to this year's Theme Song “Stronger Together”!
 
 By participating, you stand a chance to: 
