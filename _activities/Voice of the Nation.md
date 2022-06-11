@@ -9,7 +9,7 @@ In celebration of this year's National Day, we are inviting all Singaporeans to 
 
 By participating, you stand a chance to: 
 <br>(1) Be featured in the **<font color="#ee3e35">VOTN montage video</font>** and 
-<br>(2) Win a pair of tickets to one of the **<font color="#ee3e35">NDP Shows</font>*** or an **<font color="#ee3e35">August Plushie</font>** in a lucky draw!
+<br>(2) Win a pair of tickets to one of the **<font color="#ee3e35">NDP Shows*</font>** or an **<font color="#ee3e35">August Plushie</font>** in a lucky draw!
 
 #### Follow the instructions in the video to film yourself singing:
 
