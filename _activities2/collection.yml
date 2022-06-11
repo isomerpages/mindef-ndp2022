@@ -1,5 +1,5 @@
 collections:
-  activities:
+  activities2:
     output: true
     order:
       - overview.md
