@@ -1,7 +1,0 @@
-collections:
-  activities-temp:
-    output: true
-    order:
-      - voice-of-the-nation.md
-      - dance-of-the-nation.md
-      - ndp-at-the-metaverse.md
