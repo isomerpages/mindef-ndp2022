@@ -3,8 +3,7 @@ title: Voice of the Nation
 permalink: /activities/votn
 description: ""
 ---
-#### Establishment of Temporary Restricted Areas for NDP-Related Aerial Activities
-       
+
 In celebration of this year's National Day, we are inviting all Singaporeans to be part of NDP 2022's Voice of the Nation (VOTN)! Simply film yourself singing your hearts out to this year's Theme Song “Stronger Together”!
 
 By participating, you stand a chance to: 
@@ -13,7 +12,7 @@ By participating, you stand a chance to:
 
 #### Follow the instructions in the video to film yourself singing:
 
-Click <a href="/files/News%20Release%20-%20Establishment%20of%20Temporary%20Restricted%20Area%20for%20NDP-related%20Aerial%20Activities.pdf" target="_blank">here</a> for details.
+
 
 #### Follow these 4 simple steps to qualify for the lucky draw:
 Step 1: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
