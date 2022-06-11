@@ -23,6 +23,6 @@ Click <a href="/files/News%20Release%20-%20Establishment%20of%20Temporary%20Rest
 
 #### Notification of Lucky Draw Winners 
 
-Winners will be contacted during the period of 25 to 26 Jul 2022 via email (NDPeeps@defence.gov.sg).
+Winners will be contacted during the period of 25 to 26 Jul 2022 via email ([NDPeeps@defence.gov.sg](#)).
 
 **Watch this space for more advisories and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [YouTube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
