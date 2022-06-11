@@ -2,6 +2,6 @@ collections:
   activities-temp:
     output: true
     order:
-      - dance-of-the-nation.md
       - voice-of-the-nation.md
+      - dance-of-the-nation.md
       - ndp-at-the-metaverse.md
