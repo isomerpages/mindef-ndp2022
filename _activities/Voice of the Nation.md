@@ -14,7 +14,7 @@ By participating, you stand a chance to:
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0"allowfullscreen></iframe>
 
 #### Follow these 4 simple steps to qualify for the lucky draw:
-**Step 1**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
+**<font color="red">Step 1</font>**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
 
 **Step 2**: Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
 
