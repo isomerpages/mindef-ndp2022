@@ -15,6 +15,9 @@ By participating, you stand a chance to:
 
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0"allowfullscreen></iframe>
 
+<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0" allowfullscreen></iframe>
+
+
 <section class="bp-section ">
     <div class="bp-container is-fluid">
         <div class="row">
