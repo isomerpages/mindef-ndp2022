@@ -50,7 +50,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://anderco.com.sg/    '><img src="/images/Anderco Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.airtumtec.com/'><img src="/images/ApexQ Global Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://boncafe.com/'><img src="/images/Boncafe.png" alt=""></a></div>
-<div class='column-table'><a href='https://v-stop.com/'><img src="/images/BIOCOMM PTE LTD.png" alt=""></a></div>
+<div class='column-table'><a href='https://biocomm.sg/'><img src="/images/BIOCOMM PTE LTD.png" alt=""></a></div>
     <div class='column-table'><a href='https://calbeemohseng.com.sg/'> <img src="/images/Calbee Moh Seng Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy Pte Ltd.png" alt="">  </a></div>
@@ -158,7 +158,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.portapumper.com.sg/    '><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.rohde-schwarz.com    '><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
     <div class='column-table'><a href=' https://www.facebook.com/lihosg'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='#'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
+    <div class='column-table'><a href='https://www.singaporeair.com/'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.sfa.gov.sg/fromsgtosg    '><img src="/images/Singapore Food Agency.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.smrt.com.sg/    '><img src="/images/SMRT.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.stlogs.com    '><img src="/images/ST Logistics.png" alt="Image"></a></div>
