@@ -2,7 +2,7 @@ collections:
   activities2:
     output: true
     order:
-      - overview.md
+      - Overview.md
       - eVouchers.md
       - dance-of-the-nation.md
       - voice-of-the-nation.md
