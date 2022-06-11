@@ -14,13 +14,13 @@ By participating, you stand a chance to:
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0"allowfullscreen></iframe>
 
 #### Follow these 4 simple steps to qualify for the lucky draw:
-**<font color="red">Step 1</font>**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
+**<font color="#ee3e35">Step 1</font>**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
 
-**Step 2**: Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
+**<font color="#ee3e35">Step 2</font>**: Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
 
-**Step 3**: Set your profile/post to public so that we can watch your video!
+**<font color="#ee3e35">Step 3</font>**: Set your profile/post to public so that we can watch your video!
 
-**Step 4**: Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>.
+**<font color="#ee3e35">Step 4</font>**: Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>.
 
 
 #### Submission Period
