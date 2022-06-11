@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - Advisories.md
       - what-to-expect.md
       - Theme & Logo.md
       - theme-song.md
       - Stories.md
+      - Advisories.md
       - sponsors.md
       - Brand Guide.md
