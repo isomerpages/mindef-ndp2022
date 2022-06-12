@@ -55,3 +55,4 @@ plugins:
 staging: https://mindef-ndp2022-staging.netlify.app
 prod: https://mindef-ndp2022-prod.netlify.app
 shareicon: /images/About - Theme and Logo Image 20May2022 12pm.jpg
+google_analytics: UA-231714421-1
