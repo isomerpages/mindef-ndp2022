@@ -27,7 +27,14 @@ Follow these 4 simple guidelines for your VOTN video submission!
 
 
 #### Q9-4.  How do I qualify for the lucky draw?
-Yes, you may refer to [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for the sample applications and grid layouts. 😊
+(1) Submit your video to https://unearthedproductions.com.sg/ndp-2022-votn/ 
+<br>
+(2) Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
+<br>
+(3) Set your profile/post to public so that we can watch your video! 
+<br>
+(4) Follow NDPeeps on Facebook or Instagram!
+
 
 #### Q9-5.  When and how will I be notified if I win the lucky draw?
 Winners will be contacted during the period of 25 to 26 July 2022 via email ([ndpeeps@defence.gov.sg](#)). Terms and conditions will apply for lucky draw winners.
