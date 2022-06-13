@@ -29,7 +29,7 @@ Follow these 4 simple guidelines for your VOTN video submission!
 #### Q9-4.  How do I qualify for the lucky draw?
 (1) Submit your video to https://unearthedproductions.com.sg/ndp-2022-votn/ 
 <br>
-(2) Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
+(2) Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags **#NDP2022 #StrongerTogether #Majulah**.
 <br>
 (3) Set your profile/post to public so that we can watch your video! 
 <br>
