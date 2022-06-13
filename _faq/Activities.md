@@ -3,8 +3,6 @@ title: Activities
 permalink: /faq/activities
 description: ""
 ---
-
-
 ## 9. Activities
 
 #### Q9-1.  What is Voice of the Nation 22 about?
@@ -29,7 +27,7 @@ Follow these 4 simple guidelines for your VOTN video submission!
 
 
 #### Q9-4.  How do I qualify for the lucky draw?
-(1) Submit your video to <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">https://unearthedproductions.com.sg/ndp-2022-votn/</a>
+(1) Submit your video to <a href="here" target="_blank">https://unearthedproductions.com.sg/ndp-2022-votn/</a>
 <br>
 (2) Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags **#NDP2022 #StrongerTogether #Majulah**.
 <br>
