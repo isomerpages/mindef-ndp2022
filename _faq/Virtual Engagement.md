@@ -33,7 +33,7 @@ Follow these 4 simple guidelines for your VOTN video submission!
 <br>
 (3) Set your profile/post to public so that we can watch your video! 
 <br>
-(4) Follow NDPeeps on Facebook or Instagram!
+(4) Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>!
 
 
 #### Q9-5.  When and how will I be notified if I win the lucky draw?
