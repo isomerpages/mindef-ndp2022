@@ -81,7 +81,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.markono.com/'><img src="/images/Markono Printing Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://sgpurple.com    '><img src="/images/MaTerra Solutions Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://mesgroup.com.sg/    '><img src="/images/Mini Environment Service Pte Ltd.png" alt=""></a></div>
-    <div class='column-table'><a href='https://www.nyp.edu.sg/schools/sdm.html'> <img src="/images/Nanyang Polytechnic.png" alt="">  </a></div>
+    <div class='column-table'><a href='https://www.nyp.edu.sg'> <img src="/images/Nanyang Polytechnic.png" alt="">  </a></div>
     <div class='column-table'><a href='https://www.roots.gov.sg/explore'> <img src="/images/National Heritage Board.png" alt="">  </a></div>
     <div class='column-table'><a href='https://oneacademy.com.sg/'> <img src="/images/New Creative Academy.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.pilship.com    '> <img src="/images/Pacific International Lines Pte Ltd.png" alt=""></a></div>
