@@ -13,7 +13,7 @@ Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activitie
 
 
 #### Q9-2.  How do I participate in VOTN22?
-To participate, simply film yourself singing your hearts out to this year's Theme Song “**Stronger Together**”! Filming guidelines can be found here. After-which, submit your video submission here. You may submit videos for VOTN22 from **13 Jun 22, 7pm** to **24 Jul 22, 12pm**.
+To participate, simply film yourself singing your hearts out to this year's Theme Song “**Stronger Together**”! Filming guidelines can be found <a href="/activities/votn" target="_blank">here</a>. After-which, submit your video submission here. You may submit videos for VOTN22 from **13 Jun 22, 7pm** to **24 Jul 22, 12pm**.
 
 #### Q9-3.  Are there any video guidelines or specifications for VOTN22?
 Follow these 4 simple guidelines for your VOTN video submission!
