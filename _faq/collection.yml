@@ -2,7 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Virtual Engagement.md
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
@@ -10,4 +9,5 @@ collections:
       - Ticketing.md
       - Brand Guide.md
       - NDP Packs.md
+      - Virtual Engagement.md
       - General.md
