@@ -5,6 +5,35 @@ description: ""
 ---
 ## 9. Virtual Engagement
 
+#### Q9-1.  What is Voice of the Nation 22 about?
+Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to sing their hearts out to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in VOTN22, you stand a chance to: 1) be featured in the VOTN video montage; and 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> OR 3) win an August Plushie<sup>2</sup> in a lucky draw!
+
+*<sup>1</sup> NDP Show Tickets are open only to Singaporeans and PRs residing in Singapore.*<br>
+*<sup>2</sup> August Plushies are open to anyone residing in Singapore.*
+
+
+#### Q9-2.  How do I participate in VOTN22?
+To participate, simply film yourself singing your hearts out to this year's Theme Song “**Stronger Together**”! Filming guidelines can be found <a href="/activities/votn" target="_blank">here</a>. After-which, submit your video submission <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>. You may submit videos for VOTN22 from **13 Jun 22, 7pm** to **24 Jul 22, 12pm**.
+
+#### Q9-3.  Are there any video guidelines or specifications for VOTN22?
+Follow these 4 simple guidelines for your VOTN video submission!
+
+(1)	Film yourself in a **well-lit** and **quiet** environment.<br>
+(2)	Do adjust your camera resolution to **4K** or **HD**.<br>
+(3)	If you are recording with your phone, make sure to record it in landscape mode. <br>
+***Tip**: Try to get a friend to film it for you or use a selfie stick/tripod.*<br>
+(4)	Position yourself near enough to the recording device or use an earpiece for your voices to be picked up clearly.<br> 
+***Tip**: Try using a separate audio recorder for the best recording quality.*
+
+
+#### Q9-4.  How do I qualify for the lucky draw?
+(1) Submit your video to <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">https://unearthedproductions.com.sg/ndp-2022-votn/</a>
+<br>
+(2) Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags **#NDP2022 #StrongerTogether #Majulah**.
+<br>
+(3) Set your profile/post to public so that we can watch your video! 
+<br>
+(4) Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>!
 
 
 #### Q9-5.  When and how will I be notified if I win the lucky draw?
