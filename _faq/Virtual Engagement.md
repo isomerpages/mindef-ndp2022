@@ -18,7 +18,7 @@ Yes, you may use the NDP22 Logo as partners of NDP22. For the co-branding usage 
 Yes, you may refer to [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for the sample applications and grid layouts. 😊
 
 #### Q9-5.  When and how will I be notified if I win the lucky draw?
-You may access the NDP22 Brand Guidelines at [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide). 😊
+Winners will be contacted during the period of 25 to 26 July 2022 via email ([ndpeeps@defence.gov.sg](#)). Terms and conditions will apply for lucky draw winners.
 
 #### Q9-6. When will the lucky draw be held?
 The Lucky Draw will be held on Monday, 25th Jul 2022, at 3pm. Winners will be chosen at random, among entries received that fulfil the eligibility and submission criteria set out above. 
