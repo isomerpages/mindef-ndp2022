@@ -1,6 +1,6 @@
 ---
 title: Advisories
-permalink: /advisories
+permalink: /about/advisories
 description: ""
 ---
 #### Establishment of Temporary Restricted Areas for NDP-Related Aerial Activities

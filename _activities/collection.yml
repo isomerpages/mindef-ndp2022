@@ -2,8 +2,4 @@ collections:
   activities:
     output: true
     order:
-      - overview.md
-      - eVouchers.md
-      - dance-of-the-nation.md
-      - voice-of-the-nation.md
-      - ndp-at-the-metaverse.md
+      - Voice of the Nation.md

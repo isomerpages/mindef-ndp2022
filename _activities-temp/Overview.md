@@ -1,7 +1,12 @@
 ---
 title: Overview
-permalink: /activities/overview
+permalink: /activities-temp/overview
+description: ""
 ---
+
+
+
+
 Fun and rewarding activities for both young and young at heart!
 <table>
     <tbody>

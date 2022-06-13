@@ -10,8 +10,8 @@ links:
     url: /pledge/
   - title: Ticketing
     url: /ticketing
-  - title: Advisories
-    url: /advisories/
+  - title: Activities
+    collection: activities
   - title: Resources
     resource_room: true
   - title: FAQ
