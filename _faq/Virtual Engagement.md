@@ -6,10 +6,10 @@ description: ""
 ## 9. Virtual Engagement
 
 #### Q9-1.  What is Voice of the Nation 22 about?
-Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to sing their hearts out to this year’s NDP Theme Song “Stronger Together”. By participating in VOTN22, you stand a chance to: 1) be featured in the VOTN video montage; and 2) win a pair of tickets to one of the NDP Shows1 OR 3) win an August Plushie2 in a lucky draw!
+Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to sing their hearts out to this year’s NDP Theme Song “Stronger Together”. By participating in VOTN22, you stand a chance to: 1) be featured in the VOTN video montage; and 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> OR 3) win an August Plushie<sup>2</sup> in a lucky draw!
 
-1 NDP Show Tickets are open only to Singaporeans and PRs residing in Singapore.
-2 August Plushies are open to anyone residing in Singapore.
+*<sup>1</sup> NDP Show Tickets are open only to Singaporeans and PRs residing in Singapore.*<br>
+*<sup>2</sup> August Plushies are open to anyone residing in Singapore.*
 
 
 #### Q9-2.  How do I participate in VOTN22?
