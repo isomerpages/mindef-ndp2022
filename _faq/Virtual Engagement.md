@@ -16,7 +16,15 @@ Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activitie
 To participate, simply film yourself singing your hearts out to this year's Theme Song “**Stronger Together**”! Filming guidelines can be found here. After-which, submit your video submission here. You may submit videos for VOTN22 from **13 Jun 22, 7pm** to **24 Jul 22, 12pm**.
 
 #### Q9-3.  Are there any video guidelines or specifications for VOTN22?
-Yes, you may use the NDP22 Logo as partners of NDP22. For the co-branding usage guidelines on NDP22’s Logo, you may access it at [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for more details. 😊
+Follow these 4 simple guidelines for your VOTN video submission!
+
+(1)	Film yourself in a **well-lit** and **quiet** environment.<br>
+(2)	Do adjust your camera resolution to **4K** or **HD**.<br>
+(3)	If you are recording with your phone, make sure to record it in landscape mode. <br>
+***Tip**: Try to get a friend to film it for you or use a selfie stick/tripod.*<br>
+(4)	Position yourself near enough to the recording device or use an earpiece for your voices to be picked up clearly.<br> 
+***Tip**: Try using a separate audio recorder for the best recording quality.*
+
 
 #### Q9-4.  How do I qualify for the lucky draw?
 Yes, you may refer to [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for the sample applications and grid layouts. 😊
