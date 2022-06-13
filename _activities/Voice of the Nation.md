@@ -13,7 +13,7 @@ By participating, you stand a chance to:
 
 #### Follow the instructions in the video to film yourself singing:
 
-<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IIM0Y1zHmbQ" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
 
 #### Follow these 4 simple steps to qualify for the lucky draw:
 **<font color="#ee3e35">Step 1</font>**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
