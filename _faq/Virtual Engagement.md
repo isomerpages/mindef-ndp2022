@@ -9,7 +9,7 @@ description: ""
 For design variations on NDP22’s Logo, you may access it at [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for more details. 😊
 
 #### Q9-2.  How do I participate in VOTN22?
-For the usage on NDP22’s Logo, you may access it at [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for more details. 😊
+To participate, simply film yourself singing your hearts out to this year's Theme Song “**Stronger Together**”! Filming guidelines can be found here. After-which, submit your video submission here. You may submit videos for VOTN22 from **13 Jun 22, 7pm** to **24 Jul 22, 12pm**.
 
 #### Q9-3.  Are there any video guidelines or specifications for VOTN22?
 Yes, you may use the NDP22 Logo as partners of NDP22. For the co-branding usage guidelines on NDP22’s Logo, you may access it at [https://www.ndp.gov.sg/about/brand-guide](https://www.ndp.gov.sg/about/brand-guide) for more details. 😊
