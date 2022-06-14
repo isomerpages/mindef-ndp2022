@@ -53,7 +53,7 @@ permalink: /sponsors/
 <div class='column-table'><a href='https://biocomm.sg/'><img src="/images/BIOCOMM PTE LTD.png" alt=""></a></div>
     <div class='column-table'><a href='https://calbeemohseng.com.sg/'> <img src="/images/Calbee Moh Seng Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.catandthefiddle.com/'> <img src="/images/Cat_the Fiddle Pte Ltd.png" alt=""> </a></div>
-    <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/designpro.jpeg" alt="">  </a></div>
+    <div class='column-table'><a href='https://www.dp.sg'> <img src="/images/Design Prodigy 500x500 Logo-01.jpg" alt="">  </a></div>
     <div class='column-table'><a href='http://www.ellog.com.sg/ '> <img src="/images/Eng Lee Logistics Pte Ltd2.png" alt=""> </a></div>
     <div class='column-table'><a href='https://elm.com.sg/'><img src="/images/Eng Leong Medallic Industries Pte Ltd.png" alt=""></a></div>
     <div class='column-table'><a href='https://esrisingapore.com.sg/    '> <img src="/images/Esri Singapore.png" alt=""> </a></div>
