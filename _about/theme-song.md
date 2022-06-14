@@ -2,7 +2,6 @@
 title: Theme Song
 permalink: /about/theme-song
 ---
-
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/IScTJbj_6kc" title="NDP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
 
 ## STRONGER TOGETHER
@@ -40,7 +39,7 @@ And from the flames we will soar forever<br>**
 
 **We will rise<br>
 Rise<br>
-We rise stronger together<br>**
+We will rise stronger together<br>**
 
 Grateful<br>
 Faithful<br>
@@ -65,7 +64,7 @@ And from the flames we will soar forever<br>**
 
 **We will rise<br>
 Rise<br>
-We rise stronger together<br>**
+We will rise stronger together<br>**
 
 Like a phoenix from the flames<br>
 We will rise up<br>
@@ -86,6 +85,6 @@ And from the flames we will soar forever<br>**
 
 **We will rise<br>
 Rise<br>
-We rise stronger together<br>**
+We will rise stronger together<br>**
 
 **We’re stronger together**
