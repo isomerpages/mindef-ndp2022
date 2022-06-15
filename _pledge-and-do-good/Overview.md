@@ -9,7 +9,7 @@ Join us in expressing your hopes and wishes for Singapore, and make them a reali
 
 #PledgeSG is a digital campaign that invites Singaporeans to pledge for worthy causes, and express their gratitude, hopes and wishes for Singapore.
 
-<div style="text-align:center;"><a href="/psg" target="_blank" style="margin:0 auto;
+<div style="text-align:center;"><a href="/psg" style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #ee3e35!important;
     color: #fff!important;
@@ -43,7 +43,7 @@ Join us in expressing your hopes and wishes for Singapore, and make them a reali
 	
 #DoingGood is a campaign that aims to encourage Singaporeans to fulfil pledges for causes. You can start signing up for various #DoingGood activities that will be held over 22 days in July 2022. 
 
-<div style="text-align:center;"><a href="/doinggood" target="_blank" style="margin:0 auto;
+<div style="text-align:center;"><a href="/doinggood"  style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #ee3e35!important;
     color: #fff!important;
