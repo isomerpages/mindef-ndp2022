@@ -2,5 +2,6 @@ collections:
   pledge:
     output: true
     order:
+      - Overview.md
       - PledgeSG.md
       - Doing Good.md
