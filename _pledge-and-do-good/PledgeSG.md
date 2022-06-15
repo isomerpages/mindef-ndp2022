@@ -9,7 +9,7 @@ description: ""
 **#PledgeSG** is calling all Singaporeans to make a pledge to do something good in our own ways, no matter the scale or nature. Collectively, our pledges will serve as a source of inspiration for Singaporeans to work towards a more inclusive and gracious society together, and to build a stronger and brighter Singapore for generations to come!
 
 #### How to #PledgeSG?
-<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IIM0Y1zHmbQ" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IIM0Y1zHmbQ" title="How to #PledgeSG" frameborder="0" allowfullscreen></iframe>
 
 #### Option 1: Post a photo or video of your pledge on your social media page and add #PledgeSG in the caption. 
 
