@@ -19,7 +19,7 @@ We’d love for you to inspire others to do the same by:<br>
 (1)	Setting your profile/post to public<br>
 (2)	Nominate and tag 3 friends to make their #PledgeSG<br>
 
-P.S. Have your #PledgeSG featured on the Digital Social Wall when you post on Instagram or Twitter.
+*P.S. Have your #PledgeSG featured on the Digital Social Wall when you post on Instagram or Twitter.*
 
 #### Option 2: Submit your #PledgeSG directly on the Digital Social Wall by clicking on the link below. 
 ![](/images/Pledge-PSG-Image3.jpg)
