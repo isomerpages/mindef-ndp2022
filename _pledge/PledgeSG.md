@@ -13,6 +13,8 @@ description: ""
 
 #### Option 1: Post a photo or video of your pledge on your social media page and add #PledgeSG in the caption. 
 
+<p><img width="60%" src="/images/Pledge-PSG-Image2.jpg" alt="" /></p>
+	
 We’d love for you to inspire others to do the same by:<br>
 (1)	Setting your profile/post to public<br>
 (2)	Nominate and tag 3 friends to make their #PledgeSG<br>
