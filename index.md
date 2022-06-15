@@ -21,9 +21,9 @@ sections:
         - title: Theme & Logo
           description: About NDP 2022's theme & logo
           url: /about/theme-and-logo
-        - title: Theme Song
-          description: Watch and sing along to "Stronger Together"
-          url: /about/theme-song
+        - title: "#PledgeSG"
+          description: Pledge and Do Good Today
+          url: /pledge
   - infobar:
       title: “Stronger Together” Music Video
       description: <iframe width="100%" frameborder="0" height="515"
