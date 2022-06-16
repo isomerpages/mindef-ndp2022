@@ -1,5 +1,4 @@
 collections:
   ndp-at-the-float:
     output: true
-    order:
-      - Overview.md
+    order: []
