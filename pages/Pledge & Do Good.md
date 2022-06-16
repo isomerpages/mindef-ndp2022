@@ -1,8 +1,9 @@
 ---
 title: Pledge & Do Good
-permalink: /pledge
+permalink: /pledge-old
 description: ""
 ---
+
 
 ![](/images/August%20Group%20Photo.jpg)
 
