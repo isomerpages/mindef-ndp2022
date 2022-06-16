@@ -2,5 +2,5 @@ collections:
   ndp-at-the-float:
     output: true
     order:
-      - Advisories.md
       - Overview.md
+      - Advisories.md
