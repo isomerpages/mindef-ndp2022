@@ -53,5 +53,5 @@ We’d love for you to inspire others to do the same by:<br>
     text-align: center;
     white-space: nowrap;
     text-transform: uppercase!important;
-		text-decoration: none;">CLICK HERE TO SEE</a>
+		text-decoration: none;">MAKE A PLEDGE TODAY</a>
 	</div>
