@@ -23,3 +23,6 @@ During the periods of restriction, the conduct of all aerial activities includin
 
 #### Q8-6. Is it an offence if I conduct aerial activities in the Temporary Restricted Areas?
 The conduct of aerial and unmanned aircraft activities within the TRA without the required permits from the CAAS is an offence under the ANO and the Air Navigation (101 – Unmanned Aircraft Operations) Regulations 2019 (ANR-101) respectively. The penalty upon conviction for the offence under the ANO is a fine of up to S$20,000 for the first offence, and a fine of up to S$40,000 or imprisonment of up to 15 months, or both, for the second and subsequent offence. The penalty upon conviction for the offence under the ANR-101 is a fine of up to $50,000 or imprisonment of up to 2 years, or both, for the first offence, and a fine of up to $100,000 or imprisonment of up to 5 years, or both, for the second and subsequent offence.
+
+#### Q8-7. Are there road closures in the vicinity of the Float?
+For motorists and commuters who are intending to travel to the Marina Bay area, please note that there will be road closures in the vicinity of the Float every Saturday from 18 Jun 2022 to 23 Jul 2022. Please click here for details.
