@@ -2,7 +2,7 @@
 title: Ticketing
 permalink: /ticketing/
 ---
-#### <div style="text-align:center;">Ticket Balloting has closed!</div>
+#### <u>Ticket Balloting has closed!</u>
 
 #### Notification of Successful Ballots
 * Notification Period: **27 June 2022 to 1 July 2022**
