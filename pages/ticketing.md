@@ -21,9 +21,9 @@ permalink: /ticketing/
 * In line with national guidelines, NDP 2022 will be an event with Vaccination Differentiated Safe Management Measures (VDS). All spectators must either be (i) a fully vaccinated<sup>1</sup> individual; or (ii) recovered from COVID-19 within the last 180 days.; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
 * Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.
 * Advisory for attending the parade can be found <a href="/ndp-at-the-float/advisories
-" target="_blank">here</a> closer to date.<br><br>
+" target="_blank">here</a> closer to date.
 
-
+<br>
 *<sup>1</sup>An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days.*
 
 #### Questions? Click [here](/faq/ticketing) for FAQs.
