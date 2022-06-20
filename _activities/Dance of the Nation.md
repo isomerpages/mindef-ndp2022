@@ -33,3 +33,4 @@ Participants should ensure that the area used for the exercise is spacious and f
 - Rapid or irregular Heartbeat
 
 **NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
+
