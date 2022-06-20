@@ -40,6 +40,10 @@ permalink: /sponsors/
     display: table;
     clear: both;
     }
+
+.captital *{
+	text-transform: uppercase;
+}
  </style>
  
 ## Principal Partners
@@ -219,7 +223,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Universal Integrated Corporation Consumer Products Pte Ltd.png' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
     <div class='column-table'><img src='/images/WeTheFlyers.png' alt=''/></div>
  </div>
- <div class='row-table'>
+ <div class='row-table capital'>
     <div class='column-table'>
        <p>Adam Khoo Learning Technologies Group Pte Ltd</p>
     </div>
