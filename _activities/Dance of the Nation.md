@@ -9,10 +9,10 @@ Check out the dance moves for NDP 2022’s Dance of the Nation (DOTN)! Join Augu
 
 By participating, you stand a chance to win a pair of NDP Show tickets or an August Plushie in our DOTN lucky draw! Here’s how you can qualify: 
 
-**<font color="#ee3e35">Step 1</font>** Submit your video <a href="/activities/dotn" target="_blank">here</a> 
-<br>**<font color="#ee3e35">Step 2</font>** Post your DOTN video on your Facebook or Instagram page and tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah
-<br>**<font color="#ee3e35">Step 3</font>** Set your post/profile to public so we can watch your video 
-<br>**<font color="#ee3e35">Step 4</font>** Follow NDPeeps on Facebook or Instagram  
+**<font color="#ee3e35">Step 1</font>**: Submit your video <a href="/activities/dotn" target="_blank">here</a> 
+<br>**<font color="#ee3e35">Step 2</font>**: Post your DOTN video on your Facebook or Instagram page and tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah
+<br>**<font color="#ee3e35">Step 3</font>**: Set your post/profile to public so we can watch your video 
+<br>**<font color="#ee3e35">Step 4</font>**: Follow NDPeeps on Facebook or Instagram  
 
 
 #### Follow the instructions in the video to film yourself dancing to "Stronger Together"!
