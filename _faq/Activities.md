@@ -61,6 +61,7 @@ Each participant may only submit one entry and duplicates will be excluded. You 
  Please note that the submissions for VOTN22 will start on **13 Jun 22, 7pm** and end on **24 Jul 22, 12pm**.
  
 ### <u>Dance of the Nation</u>
+### <u>Voice of the Nation</u>
 
 #### Q9-11.  What is Dance of the Nation 22 about?
 Dance of the Nation 22 (DOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to dance together as one nation to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in DOTN22, you stand a chance to: 1) be featured in the DOTN video montage; and 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> or an August Plushie<sup>2</sup> in a lucky draw!
