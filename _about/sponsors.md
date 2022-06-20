@@ -378,9 +378,6 @@ permalink: /sponsors/
    <div class='column-table'>
        <p>Goh Seng Lai Company Pte Ltd</p>
     </div>
- <div class='column-table'>
-       <p>THE GOODBURGER PTE LTD</p>
-    </div>
     <div class='column-table'>
        <p>HORIZON MOON PTE LTD</p>
     </div>
@@ -659,6 +656,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>The Gift Expert Pte Ltd</p>
+    </div>
+ <div class='column-table'>
+       <p>THE GOODBURGER PTE LTD</p>
     </div>
     <div class='column-table'>
        <p>The Secret Garden by Zeekri</p>
