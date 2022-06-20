@@ -22,8 +22,8 @@ By participating, you stand a chance to win a pair of NDP Show tickets or an Aug
 
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/uoOK-y3YsHk" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
 
-#### Lucky Draw Period
-DOTN lucky draw closes on <u>24 Jul 2022 at 12pm</u>. We look forward to receiving your videos!
+#### Submission Period
+From <u>20 June 2022, 7pm</u> to <u>24 July 2022, 12pm</u>. We look forward to receiving your videos!
 
 #### Safety
 Participants should ensure that the area used for the exercise is spacious and free from objects. Participants encountering the following symptoms during the exercise should stop immediately and seek medical attention.
