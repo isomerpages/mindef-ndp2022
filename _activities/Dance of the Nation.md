@@ -32,5 +32,8 @@ Participants should ensure that the area used for the exercise is spacious and f
 - Extreme breathlessness
 - Rapid or irregular Heartbeat
 
-**NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
+#### Notification of Lucky Draw Winners 
 
+Winners will be contacted during the period of 25 to 26 Jul 2022 via email ([NDPeeps@defence.gov.sg](#)).
+
+**NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
