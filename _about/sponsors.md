@@ -41,7 +41,7 @@ permalink: /sponsors/
     clear: both;
     }
 
-.captital *{
+.capital *{
 	text-transform: uppercase;
 }
  </style>
