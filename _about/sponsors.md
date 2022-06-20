@@ -40,6 +40,10 @@ permalink: /sponsors/
     display: table;
     clear: both;
     }
+
+.capital *{
+	text-transform: uppercase !important;
+}
  </style>
  
 ## Principal Partners
@@ -104,6 +108,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.sph.com.sg/'><img src="/images/Singapore Press Holding.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.shaw.sg/'><img src="/images/Shaw.png" alt=""></a></div>
 <div class='column-table'><a href='https://www.showtecgroup.com/site/'><img src="/images/Showtec International Pte Ltd.png" alt=""></a></div>
+    <div class='column-table'><a href='https://www.smrt.com.sg/    '><img src="/images/SMRT.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.facebook.com/SunshineBakeries    '><img src="/images/Sunshine Bakeries.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.suntecsingapore.com/'><img src="/images/Suntec Singapore International Convention and Exhibition Centre.png" alt=""></a></div>
     <div class='column-table'><a href='https://www.svt.com.sg/'><img src="/images/SVT Construction Pte Ltd.png" alt=""></a></div>
@@ -158,9 +163,8 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.portapumper.com.sg/    '><img src="/images/Porta Pumper Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.rohde-schwarz.com    '><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
     <div class='column-table'><a href=' https://www.facebook.com/lihosg'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.singaporeair.com/'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.sfa.gov.sg/fromsgtosg    '><img src="/images/Singapore Food Agency.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.smrt.com.sg/    '><img src="/images/SMRT.png" alt="Image"></a></div>
+   <div class='column-table'><a href='https://www.singaporeair.com/'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.stlogs.com    '><img src="/images/ST Logistics.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://tnscon.com.sg/    '><img src="/images/T_S Engineering Construction Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.tce.com.sg        '><img src="/images/Technics Communications & Electronics Pte Ltd.png" alt="Image"></a></div>
@@ -179,6 +183,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Asiaray Connect (Singapore) Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
     <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
+ <div class='column-table'><a href='https://creatz3d.com.sg'><img src="/images/Crown Pacific Beverage Pte Ltd.jpg" alt="Image"></a></div>
     <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
 	 <div class='column-table'><img src='/images/Dairy Farm International Retail Group.png' alt=''/></div>
@@ -219,7 +224,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Universal Integrated Corporation Consumer Products Pte Ltd.png' alt='Universal Integrated Corporation Consumer Products Pte Ltd'/></div>
     <div class='column-table'><img src='/images/WeTheFlyers.png' alt=''/></div>
  </div>
- <div class='row-table'>
+ <div class='row-table capital'>
     <div class='column-table'>
        <p>Adam Khoo Learning Technologies Group Pte Ltd</p>
     </div>
@@ -256,6 +261,9 @@ permalink: /sponsors/
     <div class='column-table'>
        <p>ASUS Global Pte Ltd</p>
     </div>
+<div class='column-table'>
+       <p>At-Sunrice Global Chef Academy Pte Ltd</p>
+    </div>
     <div class='column-table'>
        <p>Audiophile Asia</p>
     </div>
@@ -276,9 +284,6 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>Bok Seng Logistics Pte Ltd</p>
-    </div>
-    <div class='column-table'>
-       <p>Bridgetek Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Brotales Studio</p>
@@ -381,6 +386,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>How's Catering</p>
+    </div>
+    <div class='column-table'>
+       <p>House of Planners Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Hup Chung Tentage System Pte. Ltd</p>
@@ -648,6 +656,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>The Gift Expert Pte Ltd</p>
+    </div>
+ <div class='column-table'>
+       <p>THE GOODBURGER PTE LTD</p>
     </div>
     <div class='column-table'>
        <p>The Secret Garden by Zeekri</p>

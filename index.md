@@ -9,11 +9,11 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: Ticket application for shows at The Float @ Marina Bay starts 6 Jun,
-        12pm.
+      subtitle: "Join us in expressing your hopes and wishes for Singapore, and make
+        them a reality through your actions. #PledgeSG"
       background: /images/NDP22-Website-Homepage-KV-5Jun2022-11am.jpg
-      button: FIND OUT MORE
-      url: /ticketing/
+      button: MAKE A PLEDGE TODAY
+      url: /pledge/
       key_highlights:
         - title: Overview of NDP
           description: What to Expect for NDP22
