@@ -2,8 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Activities/Voice of the Nation.md
-      - Activities/.keep
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
@@ -12,3 +10,5 @@ collections:
       - Brand Guide.md
       - NDP Packs.md
       - General.md
+      - Activities/.keep
+      - Activities/Voice of the Nation.md
