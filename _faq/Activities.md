@@ -3,7 +3,7 @@ title: Activities
 permalink: /faq/activities
 description: ""
 ---
-## 9 Activities
+## 9. Activities
 
 ### <u>Voice of the Nation</u>
 
