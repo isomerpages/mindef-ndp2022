@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - Activities/.keep
       - Activities.md
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
