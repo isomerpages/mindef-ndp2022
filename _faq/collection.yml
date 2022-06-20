@@ -2,7 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Voice of the Nation/Activities.md
       - Voice of the Nation/.keep
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
