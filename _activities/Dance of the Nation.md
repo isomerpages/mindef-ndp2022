@@ -3,7 +3,7 @@ title: Dance of the Nation
 permalink: /activities/dotn
 description: ""
 ---
-![](/images/votn_montage.jpg)
+![](/images/DOTN-Cover.jpg)
 
 Check out the dance moves for NDP 2022’s Dance of the Nation (DOTN)! Join August and Nila from Sport Singapore as we dance together as one nation! Submit a video of yourself performing the dance moves for this year’s Theme Song “Stronger Together”.
 
