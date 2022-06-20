@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Activities.md
-      - Voice of the Nation/.keep
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
