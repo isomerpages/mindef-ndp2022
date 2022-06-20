@@ -134,7 +134,6 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.claritythewordfactory.com/'><img src="/images/Clarity The Word Factory Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.containerconnections.com/    '><img src="/images/Container Connections Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://creatz3d.com.sg'><img src="/images/Creatz3D Pte Ltd.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://creatz3d.com.sg'><img src="/images/Crown Pacific Beverage Pte Ltd.jpg" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.dbs.com/livemore/index.html?utm_source=ndp&utm_medium=image_website_ad&utm_campaign=others&utm_content=ndp2022'> <img src="/images/DBS Bank.png" alt=""> </a></div>
     <div class='column-table'><a href='https://isdinsingapore.com/'> <img src="/images/DTB Distribution Pte Ltd.png" alt=""> </a></div>
     <div class='column-table'><a href='https://www.ebenex.com/'><img src="/images/Ebenex Pte Ltd.png" alt="Image"></a></div>
@@ -184,6 +183,7 @@ permalink: /sponsors/
     <div class='column-table'><img src='/images/Asiaray Connect (Singapore) Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Aster By Kyra Pte Ltd.png' alt='Aster By Kyra Pte Ltd'/></div>
     <div class='column-table'><img src='/images/Best Taste Impex (S) Pte Ltd.png' alt='Best Taste Impex (S) Pte Ltd'/></div>
+ <div class='column-table'><a href='https://creatz3d.com.sg'><img src="/images/Crown Pacific Beverage Pte Ltd.jpg" alt="Image"></a></div>
     <div class='column-table'><img src='/images/Cubic Technologies Singapore Pte Ltd.png' alt=''/></div>
     <div class='column-table'><img src='/images/Da Di Glass.png' alt='Da Di Glass (S) Pte Ltd'/></div>
 	 <div class='column-table'><img src='/images/Dairy Farm International Retail Group.png' alt=''/></div>
@@ -379,7 +379,7 @@ permalink: /sponsors/
        <p>Goh Seng Lai Company Pte Ltd</p>
     </div>
  <div class='column-table'>
-       <p>The Goodburger Pte Ltd</p>
+       <p>THE GOODBURGER PTE LTD</p>
     </div>
     <div class='column-table'>
        <p>HORIZON MOON PTE LTD</p>
@@ -659,9 +659,6 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>The Gift Expert Pte Ltd</p>
-    </div>
-   <div class='column-table'>
-       <p>THE GOOD BURGER PTE LTD</p>
     </div>
     <div class='column-table'>
        <p>The Secret Garden by Zeekri</p>
