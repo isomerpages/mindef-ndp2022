@@ -165,8 +165,8 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.rohde-schwarz.com    '><img src="/images/Rhode _ Shwarz.png" alt="Image"></a></div>
     <div class='column-table'><a href=' https://www.facebook.com/lihosg'><img src="/images/Royal T Group Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.sfa.gov.sg/fromsgtosg    '><img src="/images/Singapore Food Agency.png" alt="Image"></a></div>
+   <div class='column-table'><a href='https://www.singaporeair.com/'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.stlogs.com    '><img src="/images/ST Logistics.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.singaporeair.com/'><img src="/images/Singapore Airlines2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://tnscon.com.sg/    '><img src="/images/T_S Engineering Construction Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.tce.com.sg        '><img src="/images/Technics Communications & Electronics Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.unionlabel.com.sg/'> <img src="/images/Union Label Industries Pte Ltd.png" alt=""></a></div>
