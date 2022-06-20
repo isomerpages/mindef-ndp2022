@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Dance of the Nation.md
-      - Activities.md
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
@@ -12,3 +11,4 @@ collections:
       - Brand Guide.md
       - NDP Packs.md
       - General.md
+      - Activities.md
