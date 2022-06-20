@@ -260,6 +260,9 @@ permalink: /sponsors/
     <div class='column-table'>
        <p>ASUS Global Pte Ltd</p>
     </div>
+<div class='column-table'>
+       <p>At-Sunrice Global Chef Academy Pte Ltd</p>
+    </div>
     <div class='column-table'>
        <p>Audiophile Asia</p>
     </div>
@@ -282,9 +285,6 @@ permalink: /sponsors/
        <p>Bok Seng Logistics Pte Ltd</p>
     </div>
     <div class='column-table'>
-       <p>Bridgetek Pte Ltd</p>
-    </div>
-    <div class='column-table'>
        <p>Brotales Studio</p>
     </div>
     <div class='column-table'>
@@ -301,6 +301,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>Creative Eateries Pte Ltd</p>
+    </div>
+   <div class='column-table'>
+       <p>Crown Pacific Beverage Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>CSIntelligence Pte Ltd</p>
@@ -377,6 +380,9 @@ permalink: /sponsors/
    <div class='column-table'>
        <p>Goh Seng Lai Company Pte Ltd</p>
     </div>
+ <div class='column-table'>
+       <p>The Goodburger Pte Ltd</p>
+    </div>
     <div class='column-table'>
        <p>HORIZON MOON PTE LTD</p>
     </div>
@@ -385,6 +391,9 @@ permalink: /sponsors/
     </div>
     <div class='column-table'>
        <p>How's Catering</p>
+    </div>
+    <div class='column-table'>
+       <p>House of Planners Pte Ltd</p>
     </div>
     <div class='column-table'>
        <p>Hup Chung Tentage System Pte. Ltd</p>
