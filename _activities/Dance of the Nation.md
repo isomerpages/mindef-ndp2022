@@ -8,7 +8,8 @@ description: ""
 Check out the dance moves for NDP 2022’s Dance of the Nation (DOTN)! Join August and Nila from Sport Singapore as we dance together as one nation! Submit a video of yourself performing the dance moves for this year’s Theme Song “Stronger Together”.
 
 By participating, you stand a chance to win a pair of NDP Show tickets or an August Plushie in our DOTN lucky draw! Here’s how you can qualify: 
-<br>**<font color="#ee3e35">Step 1</font>** Submit your video <a href="/activities/dotn" target="_blank">here</a> 
+
+**<font color="#ee3e35">Step 1</font>** Submit your video <a href="/activities/dotn" target="_blank">here</a> 
 <br>**<font color="#ee3e35">Step 2</font>** Post your DOTN video on your Facebook or Instagram page and tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah
 <br>**<font color="#ee3e35">Step 3</font>** Set your post/profile to public so we can watch your video 
 <br>**<font color="#ee3e35">Step 4</font>** Follow NDPeeps on Facebook or Instagram  
