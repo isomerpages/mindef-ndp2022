@@ -42,7 +42,7 @@ permalink: /sponsors/
     }
 
 .capital *{
-	text-transform: uppercase;
+	text-transform: uppercase !important;
 }
  </style>
  
