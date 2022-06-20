@@ -15,7 +15,7 @@ By participating, you stand a chance to win a pair of NDP Show tickets or an Aug
 
 **<font color="#ee3e35">Step 3</font>**: Set your post/profile to public so we can watch your video 
 
-**<font color="#ee3e35">Step 4</font>**: Follow NDPeeps on Facebook or Instagram  
+**<font color="#ee3e35">Step 4</font>**: Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>.
 
 
 #### Follow the instructions in the video to film yourself dancing to "Stronger Together"!
