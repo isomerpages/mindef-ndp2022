@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - Strength of Our Nation.md
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
