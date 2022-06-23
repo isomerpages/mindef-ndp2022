@@ -126,7 +126,7 @@ There will be 10 Youth Uniformed Group contingents, each consisting of 24 partic
 #### Q10-13.  Who are the Social and Economic Groups supporting contingents for NDP 2022 Parade and Ceremony?
  There will be 16 civilian contingents consisting of 624 participants, with each contingent commanded by one Contingent Commander. The companies and organisations involved are: 
  
-<u>**Economic Contingents**</u> <br>
+<u><b>Economic Contingents</b></u> <br>
 (1)	Singapore Airlines<br>
 (2)	Keppel Corporation Ltd<br>
 (3)	GRAB<br>
@@ -140,7 +140,7 @@ There will be 10 Youth Uniformed Group contingents, each consisting of 24 partic
 (11)	SMRT<br>
 (12)	ASME<br>
 
-<u>**Social Contingents**</u><br>
+<u><b>Social Contingents</b></u><br>
 (1)	National Trades Union Congress (NTUC)<br>
 (2)	PAP PCF<br>
 (3)	Sports SG<br>
