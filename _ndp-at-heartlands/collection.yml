@@ -1,4 +1,6 @@
 collections:
   ndp-at-heartlands:
     output: true
-    order: []
+    order:
+      - Overview.md
+      - Advisories.md
