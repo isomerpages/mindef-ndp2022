@@ -50,11 +50,11 @@ description: ""
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm8.jpg" alt="Image"></td>
          <td><br>The National Day Parade 2022 (NDP 2022) Show segment celebrates the resilience and adaptability of Singaporeans in overcoming the odds, as well as our spirit of unity in supporting each other to emerge from the pandemic.
-					 
+<br><br>
 This year, NDP 2022's show segment tells 'The Story Of Us' - the collective journey of Singaporeans over the last two years as we battled and gradually emerged from the pandemic together. More than 2,000 performers will participate in the live performance at The Float @ Marina Bay.
-
+<br><br>
 The five-chapter Show will pay tribute to the different sectors of society that have played a part in enabling Singaporeans to weather the pandemic. It will also celebrate the adaptability of Singaporeans who showed their resilience and pivoted to contribute in different ways when their industries were adversely affected.
-
+<br><br>
 Interwoven with the live performance is ‘Connections’, a film that shows the interconnectivity among individuals, families and communities who, though impacted by the pandemic in different ways, are united in their resolve to help one another tide over the crisis. It highlights the resilience and solidarity that Singaporeans have displayed over the last two years and shows how small acts of kindness can have big effects on those in need. Check out 'Connections' here.
 </td>
       </tr>
