@@ -7,6 +7,7 @@ permalink: /ticketing/
 #### Notification of Successful Ballots
 * Notification Period: **27 June 2022 to 1 July 2022**
 * Successful applicants will be notified via the personal emails provided during application. The notification email will be sent from [ndp2022@hapz.com](#).
+* No appeals will be allowed.
 
 
 #### Collection of Tickets 

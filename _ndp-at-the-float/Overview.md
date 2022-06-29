@@ -18,7 +18,7 @@ description: ""
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
-         <td><br>Tickets will be made available to the public for three shows at The Float @ Marina Bay. Click <a href="/ticketing/">here</a> for more ticketing information.
+         <td><br>Ticket Application is now closed. Click <a href="/ticketing/">here</a> for more ticketing information.
          </td>
       </tr>
       <tr>
@@ -27,16 +27,16 @@ description: ""
       </tr>
    </tbody>
 </table>
-### Part 1: Strength of Our Nation
+### Segment 1: Strength of Our Nation
 <table>
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm4.jpg" alt="Image"></td>
-         <td><br>This year, we will see the return of the Total Defence Display (TDD) comprising of 2 parts, 'Defending Our Country' and 'Securing Singapore Together'. The TDD for NDP 2022 is put together by the SAF and Home Team. More than 500 participants and 50 assets are involved in the TDD.<br><br>The First part of TDD, 'Defending Our Country' underscores the role of SAF in its efforts to protect Singapore's sovereignty and independence. This segment showcases an array of technologically advanced assets from the Singapore Army, the Republic of Singapore Navy (RSN), and the Republic of Singapore Air Force (RSAF).<br><br>The second part of TDD, 'Securing Singapore Together' showcases Singapore's inter-agency response to a range of peacetime contingency scenarios such as firefighting, first aid and counterterrorism operations.</td>
+         <td><br>This year, we will see the return of the Total Defence Display (TDD) comprising of 2 parts, 'Defending Our Country' and 'Securing Singapore Together'. The TDD for NDP 2022 is put together by the SAF and Home Team. More than 500 participants and 50 assets are involved in the TDD.<br><br>The first part of TDD, 'Defending Our Country' underscores the role of SAF in its efforts to protect Singapore's sovereignty and independence. This segment showcases an array of technologically advanced assets from the Singapore Army, the Republic of Singapore Navy (RSN), and the Republic of Singapore Air Force (RSAF).<br><br>The second part of TDD, 'Securing Singapore Together' showcases Singapore's inter-agency response to a range of peacetime contingency scenarios such as firefighting, first aid and counterterrorism operations.</td>
       </tr>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm6.jpg" alt="Image"></td>
-         <td><br>The Parade and Ceremony (P&C) segment this year will comprise over 2,000 participants from 37 virtual and physical contingents, and include the return of the physical Youth, Social and Economic Contingents.<br><br>As Singapore celebrates 55 years of National Service (NS55), the parade will also pay a special tribute to all National Servicemen in recognition of their service, sacrifices and continued support by their families and employers for NS.<br><br>One of the highlights of the P&C segment is the Military Tattoo, which will consist of a performance by the SAF Precision Drill Squad, SAF and SPF Combined Band, Combined School Bands and the Virtual Choir.<br><br>Audiences can expect to see traditional P&C favourites such as the Presidential Gun Salute and Feu-de-Joie in NDP 2022.</td>
+         <td><br>The Parade and Ceremony (P&C) this year will comprise over 2,000 participants from 37 virtual and physical contingents, and include the return of the physical Youth, Social and Economic Contingents.<br><br>As Singapore celebrates 55 years of National Service (NS55), the parade will also pay a special tribute to all National Servicemen in recognition of their service, sacrifices and continued support by their families and employers for NS.<br><br>One of the highlights of the P&C is the Military Tattoo, which will consist of a performance by the SAF Precision Drill Squad, SAF and SPF Combined Band, Combined School Bands and the Virtual Choir.<br><br>Audiences can expect to see traditional P&C favourites such as the Presidential Gun Salute and Feu-de-Joie in NDP 2022.</td>
       </tr>
 		       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm7.jpg" alt="Image"></td>
@@ -44,12 +44,19 @@ description: ""
       </tr>
    </tbody>
 </table>
-### Part 2: The Story of Us
+### Segment 2: The Story of Us
 <table>
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm8.jpg" alt="Image"></td>
-         <td><br>Live performances and a Show film that celebrate the strength and unity of Singaporeans, and call on us to rise together.</td>
+         <td><br>The National Day Parade 2022 (NDP 2022) Show segment celebrates the resilience and adaptability of Singaporeans in overcoming the odds, as well as our spirit of unity in supporting each other to emerge from the pandemic.
+<br><br>
+This year, NDP 2022's show segment tells 'The Story Of Us' - the collective journey of Singaporeans over the last two years as we battled and gradually emerged from the pandemic together. More than 2,000 performers will participate in the live performance at The Float @ Marina Bay.
+<br><br>
+The five-chapter Show will pay tribute to the different sectors of society that have played a part in enabling Singaporeans to weather the pandemic. It will also celebrate the adaptability of Singaporeans who showed their resilience and pivoted to contribute in different ways when their industries were adversely affected.
+<br><br>
+Interwoven with the live performance is ‘Connections’, a film that shows the interconnectivity among individuals, families and communities who, though impacted by the pandemic in different ways, are united in their resolve to help one another tide over the crisis. It highlights the resilience and solidarity that Singaporeans have displayed over the last two years and shows how small acts of kindness can have big effects on those in need. Check out 'Connections' <a href="https://www.youtube.com/watch?v=Z4oyNek_JRg" target="_blank">here</a>.
+</td>
       </tr>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm9.jpg" alt="Image"></td>
