@@ -29,8 +29,6 @@ There will be 4 GOH contingents, each comprising 72 personnel, a Contingent Comm
 There will be a Military Tattoo, which consists of a hybrid physical and virtual performance by the SAF Silent Precision Drill Squad, SAF and SPF Combined Band, Combined School Bands and the Virtual Choir. Audiences can also expect to see traditional P&C favourites such as the State Flag Flypast flown by the RSAF Chinook helicopter escorted by RSAF Apache Helicopters, a ‘Salute-To-The Nation’ bomb burst flown by F-16C/D fighter aircrafts, Presidential Gun Salute and Feu-de-Joie.
 
 #### Q10-6. What can I look forward to during the Total Defence Display (TDD)?
-The Lucky Draw will be held on Monday, 25th Jul 2022, at 3pm. Winners will be chosen at random, among entries received that fulfil the eligibility and submission criteria set out above. 
-
 TDD will consist of 2 parts - ‘Defending Our Country’ and ‘Securing Singapore Together’: 
 
 **Defending Our Country** – There will be a wide range of advanced military assets in action ranging from naval divers, fighter aircrafts, to the Army’s Hunter Armoured Fighting Vehicle.
