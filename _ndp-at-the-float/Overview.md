@@ -55,7 +55,7 @@ This year, NDP 2022's show segment tells 'The Story Of Us' - the collective jour
 <br><br>
 The five-chapter Show will pay tribute to the different sectors of society that have played a part in enabling Singaporeans to weather the pandemic. It will also celebrate the adaptability of Singaporeans who showed their resilience and pivoted to contribute in different ways when their industries were adversely affected.
 <br><br>
-Interwoven with the live performance is ‘Connections’, a film that shows the interconnectivity among individuals, families and communities who, though impacted by the pandemic in different ways, are united in their resolve to help one another tide over the crisis. It highlights the resilience and solidarity that Singaporeans have displayed over the last two years and shows how small acts of kindness can have big effects on those in need. Check out 'Connections' here.
+Interwoven with the live performance is ‘Connections’, a film that shows the interconnectivity among individuals, families and communities who, though impacted by the pandemic in different ways, are united in their resolve to help one another tide over the crisis. It highlights the resilience and solidarity that Singaporeans have displayed over the last two years and shows how small acts of kindness can have big effects on those in need. Check out 'Connections' <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">here</a>.
 </td>
       </tr>
       <tr>
