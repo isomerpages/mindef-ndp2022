@@ -5,31 +5,28 @@ description: ""
 ---
 ## 11. Show Segment: Story of Us
 
-#### Q11-1. Do I need tickets for NDP @ The Float and how can I get them?
-Ticket applications have closed as of 20 June 12.00pm. We no longer accept any applications for NDP tickets. 
+#### Q11-1. What is the name of the NDP 2022 Show?
+This year’s NDP is called “The Story of Us”, one that expresses gratitude to all Singaporeans. This year’s NDP is about us.
 
-#### Q11-2. How will this year's NDP @ The Float be like? 
-The celebrations at The Float @ Marina Bay will commence with the first segment titled “Strength of Our Nation”, which includes a Total Defence Display and the Parade and Ceremony. This will be followed by the second segment titled “The Story of Us”, which includes live performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
-
-Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
+#### Q11-2. What is the meaning and significance of the NDP 2022 Show?
+The NDP 2022 Show celebrates the resilience and adaptability of Singaporeans in overcoming the odds, and our spirit of unity in supporting each other to emerge from the pandemic. It signifies our country coming together to celebrate our Singapore spirit, strength, and solidarity.
 
 
-#### Q11-3. What can I expect for the Total Defence Display? 
-The Total Defence Display will comprise air, land and sea elements by the Singapore Armed Forces and the Home Team.
+#### Q11-3. What is the story behind the NDP 2022 Show? 
+The Show will present a collective journey of Singaporeans over the last two years as we battled and gradually emerged from the pandemic together.
 
-Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
-
-
-#### Q11-4. What can I expect for the Parade and Ceremony?
-The parade will comprise contingents from the Singapore Armed Forces, the Home Team and other agencies. The segment will be complemented by a virtual military tattoo and for the first time during the parade, a virtual choir performance of the NDP 2022 theme song “Stronger Together”.
-
-Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
+#### Q11-4. Who is the Creative Director of the NDP 2022 Show?
+The Creative Director is Adrian Pang. 
 
 
-#### Q11-5 What can I expect to see at the Show for NDP @ The Float?
-The Show segment will include five live chapter performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. The live chapters will be performed by agencies with special guest appearances by well-loved Singaporean artistes, with selected chapters complemented by satellite performances. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
+#### Q11-5 What is expected for the NDP 2022 Show?
+Live performances will be hosted by Joakim Gomez, Sonia Chew, Siti Khalijah and Rishi Budhrani with more than 2000 performers. You can also look forward to a five-chapter Show made by award-winning Singaporean filmmaker Ken Kwek. The chapters are:
 
-Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
+Chapter 1: This Is the life<br>
+Chapter 2: Lights in the dark<br>
+Chapter 3: Together<br>
+Chapter 4: FIGHT!<br>
+Chapter 5: Stronger Together, Majulah!
 
 
 #### Q11-6 Will there be NE Shows this year?
