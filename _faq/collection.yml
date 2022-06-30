@@ -2,7 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - "Show Segment: Story of Us.md"
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
@@ -13,3 +12,4 @@ collections:
       - General.md
       - Activities.md
       - Strength of Our Nation.md
+      - "Show Segment: Story of Us.md"
