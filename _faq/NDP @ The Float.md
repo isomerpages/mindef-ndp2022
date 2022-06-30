@@ -6,30 +6,30 @@ description: ""
 ## 3. NDP @ The Float
 
 #### Q3-1. Do I need tickets for NDP @ The Float and how can I get them?
-NDP 2022 will invite the public back to The Float @ Marina Bay, with the return of ticketed shows. Applications may be submitted through an online form via this <a href="https://form.gov.sg/6297778d1c3c73001248291c" target="_blank">link</a>.
+Ticket applications have closed as of 20 June 12.00pm. We no longer accept any applications for NDP tickets. 
 
 #### Q3-2. How will this year's NDP @ The Float be like? 
 The celebrations at The Float @ Marina Bay will commence with the first segment titled “Strength of Our Nation”, which includes a Total Defence Display and the Parade and Ceremony. This will be followed by the second segment titled “The Story of Us”, which includes live performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
 
-More details on this will be out soon! 😊
+Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
 
 
 #### Q3-3. What can I expect for the Total Defence Display? 
 The Total Defence Display will comprise air, land and sea elements by the Singapore Armed Forces and the Home Team.
 
-More details on this will be out soon! 😊
+Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
 
 
 #### Q3-4. What can I expect for the Parade and Ceremony?
 The parade will comprise contingents from the Singapore Armed Forces, the Home Team and other agencies. The segment will be complemented by a virtual military tattoo and for the first time during the parade, a virtual choir performance of the NDP 2022 theme song “Stronger Together”.
 
-More details on this will be out soon! 😊
+Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
 
 
 #### Q3-5 What can I expect to see at the Show for NDP @ The Float?
 The Show segment will include five live chapter performances and a Show film, depicting how Singapore, as a community and nation, emerges stronger from challenges that we have faced. The live chapters will be performed by agencies with special guest appearances by well-loved Singaporean artistes, with selected chapters complemented by satellite performances. Singaporeans can expect a meaningful show that celebrates the strength and unity of Singaporeans, and calls us to rise together. 
 
-More details on this will be out soon! 😊
+Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
 
 
 #### Q3-6 Will there be NE Shows this year?
