@@ -29,11 +29,17 @@ Chapter 4: FIGHT!<br>
 Chapter 5: Stronger Together, Majulah!
 
 
-#### Q11-6 Will there be NE Shows this year?
-National Education shows are returning to the Float this year.
+#### Q11-6 What are the highlights for NDP 2022 show?
+Highlights includes:
 
-#### Q11-7. Where and when will the fireworks be set off in NDP @ The Float?
-On 9 August, fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay.
+1. Large scale return of youth and students to the show<br>
+2. “Stage Wings” structure<br>	
+3. Interactive live/satellite components <br>
+4. Special CGI effects for home audiences
+
+
+#### Q11-7. What is the story that the five-chapter Show will tell?
+The five-chapter live performance will pay tribute to the different sectors of society that have played a part in enabling Singaporeans to weather the pandemic. It will also celebrate the adaptability and resilience of Singaporeans who contributed in different ways when their industries were adversely affected.
 
 
 #### Q11-8: What are the COVID-19 measures at the Float?
