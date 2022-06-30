@@ -53,6 +53,6 @@ Episode 4: The Nation Heals And Steps Out into the Sun
 
 #### Q11-9: Who is the team behind NDP 2022 show?
 Colonel (COL) Mikail Kalimuddin - Chairman of the Show committee<br>
-Adrian Peng - Creative Director<br>
+Adrian Pang - Creative Director<br>
 Ken Kwek - Show film Director/Writer<br>
 Benjamin Tan - Creative Producer<br>
