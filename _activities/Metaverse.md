@@ -3,7 +3,7 @@ title: Metaverse
 permalink: /activities/ndpmetaverse
 description: ""
 ---
-![](/images/GameOn-Nila-Cover-Image.jpg)
+![](/images/Finute.jpg)
 
 In celebration of this year’s National Day, we are inviting all Singaporeans to be part of NDP 2022’s Virtual Metaverse experience.
 
