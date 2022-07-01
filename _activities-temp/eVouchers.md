@@ -4,5 +4,5 @@ permalink: /activities-temp/evouchers
 description: ""
 ---
 <script>
-alert("test");
+    window.location.replace(" https://gdm-ndpcoupons.marketcloud.co/");
 </script>
