@@ -2,5 +2,6 @@ collections:
   ndp-at-the-float:
     output: true
     order:
+      - NDP 2022 Parade Guide.md
       - Overview.md
       - Advisories.md
