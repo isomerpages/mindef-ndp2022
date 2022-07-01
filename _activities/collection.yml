@@ -2,7 +2,7 @@ collections:
   activities:
     output: true
     order:
-      - Metaverse.md
-      - GameOn Nila.md
       - Voice of the Nation.md
       - Dance of the Nation.md
+      - GameOn Nila.md
+      - Metaverse.md
