@@ -18,12 +18,12 @@ sections:
         - title: Overview of NDP
           description: What to Expect for NDP22
           url: /about/what-to-expect
-        - title: Theme & Logo
-          description: About NDP 2022's theme & logo
-          url: /about/theme-and-logo
         - title: "#PledgeSG"
           description: Pledge and Do Good Today
           url: /pledge
+        - title: E-Vouchers
+          description: Check out Offers and Deals
+          url: " https://gdm-ndpcoupons.marketcloud.co/"
   - infobar:
       title: “Stronger Together” Music Video
       description: <iframe width="100%" frameborder="0" height="515"
