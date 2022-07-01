@@ -3,7 +3,7 @@ title: GameOn Nila
 permalink: /activities/gameonnila
 description: ""
 ---
-![](/images/DOTN-Cover.jpg)
+![](/images/GameOn-Nila-Cover-Image.jpg)
 
 Experience new and exciting trails this National Day with GameOn Nila!
 
