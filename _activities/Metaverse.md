@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Finute.jpg)
 
-*** Lion City in Finute Metaverse
+#### Lion City in Finute Metaverse
 
 In celebration of this year’s National Day, we are inviting all Singaporeans to be part of NDP 2022’s Virtual Metaverse experience.
 
