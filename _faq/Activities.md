@@ -8,7 +8,7 @@ description: ""
 ### <u>Voice of the Nation</u>
 
 #### Q9-1.  What is Voice of the Nation 22 about?
-Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to sing their hearts out to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in VOTN22, you stand a chance to: 1) be featured in the VOTN video montage; and 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> OR 3) win an August Plushie<sup>2</sup> in a lucky draw!
+Voice of the Nation 22 (VOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to sing their hearts out to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in VOTN22, you stand a chance to: 1) be featured in the VOTN video montage;  2) win a pair of tickets to one of the NDP Shows<sup>1</sup> OR 3) win an August Plushie<sup>2</sup> in a lucky draw!
 
 *<sup>1</sup> NDP Show Tickets are open only to Singaporeans and PRs residing in Singapore.*<br>
 *<sup>2</sup> August Plushies are open to anyone residing in Singapore.*
@@ -21,7 +21,7 @@ To participate, simply film yourself singing your hearts out to this year's Them
 Follow these 4 simple guidelines for your VOTN video submission!
 
 (1)	Film yourself in a **well-lit** and **quiet** environment.<br>
-(2)	Do adjust your camera resolution to **4K** or **HD**.<br>
+(2)	Adjust your camera resolution to **4K** or **HD**.<br>
 (3)	If you are recording with your phone, make sure to record it in landscape mode. <br>
 ***Tip**: Try to get a friend to film it for you or use a selfie stick/tripod.*<br>
 (4)	Position yourself near enough to the recording device or use an earpiece for your voices to be picked up clearly.<br> 
@@ -53,8 +53,8 @@ There are 22 pairs of tickets and 22 August plushies to be won!
 If you are below the age of 18, please seek your parents/guardian’s consent to take part in this video submission and lucky draw. Parents/guardians of winners under 18 years of age must be present to sign the acknowledgement receipt form upon collection of Prizes.
 
 
-#### Q9-9. Are there any limits to how many video submissions can a person make for VOTN22?
-Each participant may only submit one entry and duplicates will be excluded. You represent and warrant that the entry submitted by you and all its content is original and has not been previously published, and that you have the necessary rights and permissions to submit the video. 
+#### Q9-9. Are there any limits to how many video submissions a person can make for VOTN22?
+Each participant may only submit one entry; duplicates will be excluded. You represent and warrant that the entry submitted by you and all its content is original and has not been previously published, and that you have the necessary rights and permissions to submit the video. 
  
  
 #### Q9-10. When is the submission deadline for VOTN22?
@@ -63,7 +63,7 @@ Each participant may only submit one entry and duplicates will be excluded. You 
 ### <u>Dance of the Nation</u>
 
 #### Q9-11.  What is Dance of the Nation 22 about?
-Dance of the Nation 22 (DOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to dance together as one nation to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in DOTN22, you stand a chance to: 1) be featured in the DOTN video montage; and 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> or an August Plushie<sup>2</sup> in a lucky draw!
+Dance of the Nation 22 (DOTN22) is one of NDP22’s virtual engagement activities. We invite all Singaporeans to dance together as one nation to this year’s NDP Theme Song <a href="https://www.youtube.com/watch?v=IScTJbj_6kc" target="_blank">“Stronger Together”</a>. By participating in DOTN22, you stand a chance to: 1) be featured in the DOTN video montage; 2) win a pair of tickets to one of the NDP Shows<sup>1</sup> or 3) win an August Plushie<sup>2</sup> in a lucky draw!
 
 *<sup>1</sup> NDP Show Tickets are open only to Singaporeans and PRs residing in Singapore.*<br>
 *<sup>2</sup> August Plushies are open to anyone residing in Singapore.*
@@ -107,8 +107,74 @@ If you are below the age of 18, please seek your parents/guardian’s consent to
 
 
 #### Q9-19. Are there any limits to how many video submissions can a person make for DOTN22?
-Each participant may only submit one entry. Duplicates will be excluded. You represent and warrant that the entry submitted by you and all its content is original and has not been previously published, and that you have the necessary rights and permissions to submit the video. 
+Each participant may only submit one entry; duplicates will be excluded. You represent and warrant that the entry submitted by you and all its content is original and has not been previously published, and that you have the necessary rights and permissions to submit the video. 
  
  
 #### Q9-20. When is the submission deadline for DOTN22?
 Please note that the submissions for DOTN22 will start on **20 Jun 22, 7pm** and end on **24 Jul 22, 12pm**.
+
+### <u>GameOn Nila</u>
+
+#### Q9-21.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-22.  How do I join GameOn Nila Campaign as an individual?
+Tap on the ‘GameOn Nila! NDP 2022 Edition’ campaign card on the ‘Game On’ challenge page to select the campaign. Select ‘Individual’ and tap on the 'Join' button at the bottom of the Campaign Details page.
+
+#### Q9-23.  Who will be suitable to play GameOn Nila?
+GameOn Nila! is a digital game function in the All ages, regardless of fitness level, will be suitable to play GameOn Nila. 
+
+#### Q9-24.  How do I participate in GameOn Nila? How do I win the prizes?
+Visit the various locations, clock your steps, hunt and scan the QR codes located on the trail markers to level up and gain Active Points to ballot for prizes and WIN! 
+
+Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target="_blank">here</a> for more information.
+
+#### Q9-25.  What are the various trails with trail markers? 
+1. NDP 2022 Adventure<br>
+2. NS55 Interactive Trail "Cepat Jalan" (Launch on 1 August)<br>
+3. Marsiling-Yew Tee Discovery Trail<br>
+4. Yew Tee Discovery Trail<br>
+5. Bukit Batok Community Trail<br>
+6. Discover Wellness @ Boon Lay Trail 
+
+Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target="_blank">here</a> for more information.
+
+
+#### Q9-26.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-27.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-28.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-29.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-30.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-31.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-32.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-33.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-34.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-35.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-36.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-37.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+
+#### Q9-38.  What is GameOn Nila?
+GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
