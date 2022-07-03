@@ -19,6 +19,7 @@ permalink: /ticketing/
 * Tickets that are not collected by 17 July 2022 (Sunday), 8.30pm will be forfeited. There will be no appeals.
 
 #### Show Admission
+* Tickets are only valid for admission on the event and date specified on the ticket i.e. Preview Show 1 (23 Jul 2022), Preview Show 2 (30 Jul 2022), and NDP Show (9 Aug 2022).
 * In line with national guidelines, NDP 2022 will be an event with Vaccination Differentiated Safe Management Measures (VDS). All spectators must either be (i) a fully vaccinated<sup>1</sup> individual; or (ii) recovered from COVID-19 within the last 180 days.; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
 * Each ticket admits one spectator only. Children (including infants carried in arms) must have a valid ticket for admission to the show.
 * Advisory for attending the parade can be found <a href="/ndp-at-the-float/advisories

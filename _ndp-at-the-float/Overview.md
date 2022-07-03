@@ -18,7 +18,7 @@ description: ""
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ The Float Images 20May2022 2pm2.jpg" alt="Image"></td>
-         <td><br>Ticket Application is now closed. Click <a href="/ticketing/">here</a> for more ticketing information.
+         <td><br>Ticket Application is now closed. Check your e-mail for the status of your ticket application for Preview Show 1 (23 Jul 2022), Preview Show 2 (30 Jul 2022), and NDP Show (9 Aug 2022). Click <a href="/ticketing/">here</a> for more ticketing information.
          </td>
       </tr>
       <tr>
