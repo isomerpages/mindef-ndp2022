@@ -3,15 +3,14 @@ title: NDP in Metaverse
 permalink: /activities/metaverse
 description: ""
 ---
-
-
-
 ![](/images/Finute.jpg)
 
 #### Lion City in Finute Metaverse
 
-In celebration of this year’s National Day, we are inviting all Singaporeans to be part of NDP 2022’s Virtual Metaverse experience.
+Be part of NDP 2022’s Metaverse experience! Explore a metaverse-rendition of Singapore – drive an armoured vehicle, perform free-fall as a Red Lion, fly a F16 aircraft, wear different uniforms from the SAF and Home Team, and so much more! 
 
-Explore Finute’s Lion City in the Metaverse, drive a virtual armoured vehicle, jump out of a C130, fly a F16, wear different uniforms from the military and home team and so much more!
+If you enjoy the metaverse, do share screenshots of your gameplay experience on your social media and use hashtags #NDP2022 #StrongerTogether #Majulah #Finute
 
-If you enjoy the metaverse, remember to post screenshots of your gameplay experience on Instagram, Facebook or TikTok and use hashtags #NDP2022 #StrongerTogether #Finute
+
+
+Click <a href="https://www.roblox.com/games/4455133480/NDP-Event-Lion-City" target="_blank">here</a> to access Lion City in Finute Metaverse!
