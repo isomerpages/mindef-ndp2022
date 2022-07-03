@@ -2,7 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Activities (2)/.keep
       - Theme, Logo, Theme Song.md
       - NDP @ Heartlands.md
       - NDP @ The Float.md
@@ -12,5 +11,6 @@ collections:
       - NDP Packs.md
       - General.md
       - Activities.md
+      - Activities (2)/.keep
       - Strength of Our Nation.md
       - "Show Segment: Story of Us.md"
