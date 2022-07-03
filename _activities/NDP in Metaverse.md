@@ -7,7 +7,7 @@ description: ""
 
 #### Lion City in Finute Metaverse
 
-Be part of NDP 2022’s Metaverse experience! Explore a metaverse-rendition of Singapore – drive an armoured vehicle, perform free-fall as a Red Lion, fly a F16 aircraft, wear different uniforms from the SAF and Home Team, and so much more! 
+Be part of NDP 2022’s Metaverse experience! Explore a metaverse-rendition of Singapore – drive an armoured vehicle, perform free-fall as a Red Lion, fly an F16 aircraft, wear different uniforms from the SAF and Home Team, and so much more! 
 
 If you enjoy the metaverse, do share screenshots of your gameplay experience on your social media and use hashtags #NDP2022 #StrongerTogether #Majulah #Finute
 
