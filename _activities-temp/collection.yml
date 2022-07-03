@@ -2,5 +2,5 @@ collections:
   activities-temp:
     output: true
     order:
-      - Metaverse.md
+      - NDP in Metaverse.md
       - Overview.md
