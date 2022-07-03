@@ -41,3 +41,10 @@ On 9 August, fireworks will be set off in the heartlands, concurrent with that a
 
 #### Q3-8: What are the COVID-19 measures at the Float?
 The celebrations at the Float will adopt the prevailing national COVID Safe Management Measures (SMMs). More details will be shared subsequently.
+
+#### Q3-9: When are the dates for the NDP 2022 Previews and Actual Show? 
+The dates are as follows:
+
+Preview 1: 23 Jul 2022<br>
+Preview 2: 30 Jul 2022<br>
+Actual Show: 9 Aug 2022
