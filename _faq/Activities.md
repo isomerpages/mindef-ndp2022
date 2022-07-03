@@ -140,8 +140,17 @@ Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target
 Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target="_blank">here</a> for more information.
 
 
-#### Q9-26.  What is GameOn Nila?
-GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
+#### Q9-26.  What are the activities I can do to collect activity stars?
+1. Visit the trails and scan the QR codes at the list of locations around Singapore.<br>
+2. Book any ActiveSG facility via ActiveSG app or website.<sup>1</sup ><br>
+3. Complete Active Health Fitness & Health Assessment at the ActiveFIT kiosks.<br>
+4. Use Active Wallet (Scan & Pay).<sup>2</sup >
+
+Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target="_blank">here</a> for more information.
+<br><br>
+*<sup>1</sup>Pre-Registration required. Usage dates could be beyond the campaign period.<br>
+*<sup>2</sup>At any participating merchants or vending machine listed <a href="https://events.myactivesg.com/active-wallet" target="_blank">here</a>*
+
 
 #### Q9-27.  What is GameOn Nila?
 GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
