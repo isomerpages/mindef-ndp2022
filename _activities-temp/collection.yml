@@ -1,5 +1,0 @@
-collections:
-  activities-temp:
-    output: true
-    order:
-      - Overview.md

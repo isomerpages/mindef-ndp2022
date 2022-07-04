@@ -1,8 +1,9 @@
 ---
-title: NDP in Metaverse
+title: Finute Metaverse
 permalink: /activities/metaverse
 description: ""
 ---
+
 ![](/images/Finute1.jpg)
 
 #### Lion City in Finute Metaverse

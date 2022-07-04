@@ -1,0 +1,6 @@
+collections:
+  temp:
+    output: true
+    order:
+      - Activities (FAQ).md
+      - Overview (Activities).md
