@@ -14,10 +14,10 @@ GameOn Nila! is a digital game function in the ActiveSG mobile app that encourag
 #### Q9-22.  How do I join GameOn Nila! Campaign as an individual?
 Tap on the ‘GameOn Nila! NDP 2022 Edition’ campaign card on the ‘Game On’ challenge page to select the campaign. Select ‘Individual’ and tap on the 'Join' button at the bottom of the Campaign Details page.
 
-#### Q9-23.  Who will be suitable to play GameOn Nila! ?
+#### Q9-23.  Who is GameOn Nila! suited for?
 GameOn Nila! is a digital game function in the All ages, regardless of fitness level, will be suitable to play GameOn Nila!. 
 
-#### Q9-24.  How do I participate in GameOn Nila! ? How do I win the prizes?
+#### Q9-24.  How do I participate in GameOn Nila!, and how can I win the prizes?
 Visit the various locations, clock your steps, hunt and scan the QR codes located on the trail markers to level up and gain Active Points to ballot for prizes and WIN! 
 
 Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target="_blank">here</a> for more information.
@@ -45,7 +45,7 @@ Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target
 <sup>2</sup>At any participating merchants or vending machine listed <a href="https://events.myactivesg.com/active-wallet" target="_blank">here</a>*
 
 
-#### Q9-27.  How do I ballot for prizes on GameOn Nila! ?
+#### Q9-27.  How do I ballot for the GameOn Nila! prizes?
 
 1.	Tap on the Gift Box icon at the Campaign Details page to view available prizes<sup>3</sup> 
 2.	To be eligible for prizes, participant must attempt the challenge indicated in the prize’s description details. Winners will be determined through balloting. The higher the number of Active Points balloted for the prize, the higher the chances. You can ballot in any combination.
