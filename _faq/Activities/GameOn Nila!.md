@@ -45,7 +45,7 @@ Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target
 <sup>2</sup>At any participating merchants or vending machine listed <a href="https://events.myactivesg.com/active-wallet" target="_blank">here</a>*
 
 
-#### Q9-27.  How do I ballot for prizes on GameOn! Nila?
+#### Q9-27.  How do I ballot for prizes on GameOn Nila! ?
 
 1.	Tap on the Gift Box icon at the Campaign Details page to view available prizes<sup>3</sup> 
 2.	To be eligible for prizes, participant must attempt the challenge indicated in the prize’s description details. Winners will be determined through balloting. The higher the number of Active Points balloted for the prize, the higher the chances. You can ballot in any combination.
