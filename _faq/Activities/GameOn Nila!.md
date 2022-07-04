@@ -55,7 +55,7 @@ Click <a href="https://www.myactivesg.com/About-ActiveSG/GameOnNILAJul22" target
 <br><br>
 *<sup>3</sup>All prize images are for illustration purposes.*
 
-#### Q9-28.  When and how will the winners of GameOn Nila Ballot be informed?
+#### Q9-28.  When and how will the winners of GameOn Nila! Ballot be informed?
 Winners of NDP 2022 Preview Tickets (30 July) prize will be notified between 24 to 26 July 2022 via your registered email and mobile. Winners of all other prizes will be notified by **September - October 2022**. 
 
 #### Q9-29. What is the duration for GameOn Nila! NDP 2022 Edition campaign?
@@ -70,10 +70,10 @@ As an Individual or a Team member, you can level up by achieving the minimum req
 #### Q9-32.  How to sync your steps?
 You can sync your steps by setting up your health tracker to ActiveSG. You can tap on the settings icon on the top-right corner of the ‘Game On’ challenge page to access the Manage Tracker.
 
-#### Q9-33.  How to join GameOn Nila Campaign as a Team?
+#### Q9-33.  How to join GameOn Nila! Campaign as a Team?
 If you have already joined an Individual Campaign, select ‘Team’ and tap on the 'Create Team' button at the bottom of the Campaign Details page to participate concurrently in the Team category.
 
-If you have not joined the GameOn Nila Individual Campaign, you can join the Team Campaign right away by selecting ‘Team’ and tap on the 'Join' button at the bottom of the Campaign Details page. 
+If you have not joined the GameOn Nila! Individual Campaign, you can join the Team Campaign right away by selecting ‘Team’ and tap on the 'Join' button at the bottom of the Campaign Details page. 
 
 
 #### Q9-34.  How to add a Team member?
