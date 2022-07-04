@@ -1,5 +1,5 @@
 collections:
-  activities-temp:
+  temp:
     output: true
     order:
       - Activities Backup.md
