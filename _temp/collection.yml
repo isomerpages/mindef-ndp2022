@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Activities (FAQ).md
-      - Overview.md
+      - Overview (Activities).md
