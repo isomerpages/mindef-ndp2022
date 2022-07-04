@@ -8,7 +8,7 @@ third_nav_title: Activities
  
 ### <u>GameOn Nila!</u>
 
-#### Q9-21.  What is GameOn Nila! ?
+#### Q9-21.  What is GameOn Nila! about?
 GameOn Nila! is a digital game function in the ActiveSG mobile app that encourages members to stay active while exploring Singapore. Participants will have to download the ActiveSG mobile app and sign up as an ActiveSG member to access the game.
 
 #### Q9-22.  How do I join GameOn Nila! Campaign as an individual?
