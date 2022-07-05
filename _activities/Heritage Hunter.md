@@ -3,7 +3,7 @@ title: Heritage Hunter
 permalink: /activities/heritagehunter
 description: ""
 ---
-![](/images/Finute1.jpg)
+![](/images/NHB_HH_gif.gif)
 
 #### Heritage Hunter: The Way Home
 
