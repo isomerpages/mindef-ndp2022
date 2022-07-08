@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/parade_guide.jpg)
 
-Click <a href="https://doinggood.ndp.gov.sg/files/NE1PG.pdf" target="_blank">here</a> to download our NDP 2022 Parade Guide.
+Click <a href="https://file.go.gov.sg/paradeguide.pdf" target="_blank">here</a> to download our NDP 2022 Parade Guide.
