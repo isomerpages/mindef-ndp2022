@@ -23,7 +23,7 @@ sections:
           url: /pledge
         - title: E-Vouchers
           description: Check out Offers and Deals
-          url: " https://gdm-ndpcoupons.marketcloud.co/"
+          url: https://greendotmedia.com.sg/ndpcoupons
   - infobar:
       title: “Stronger Together” Music Video
       description: <iframe width="100%" frameborder="0" height="515"
