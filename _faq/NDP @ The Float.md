@@ -48,3 +48,6 @@ The dates are as follows:
 Preview 1: 23 Jul 2022<br>
 Preview 2: 30 Jul 2022<br>
 Actual Show: 9 Aug 2022
+
+#### Q3-10: Is NDP @ The Float wheelchair accessible?
+Yes, there are wheelchair accessible seats at the Float. Our staff are trained to assist you to your seats once they identify you. 
