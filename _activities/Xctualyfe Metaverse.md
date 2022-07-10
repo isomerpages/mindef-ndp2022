@@ -13,7 +13,7 @@ A metaverse like Xctualyfe allows Singaporeans and people from all over the worl
 
 1. 	Register an account <a href="https://xctualyfe.com/account/signup/" target="_blank">here</a> 
 2. 	Check your email and verify your email address
-3. 	Download the Xctualyfe Windows Desktop application here
+3. 	Download the Xctualyfe Windows Desktop application <a href="https://web.xctuality.com/xctualyfe/Xctualyfe_v1.11.zip" target="_blank">here</a>
 4. 	Login to Xctualyfe and head to the NDP level
 5. 	Explore the NDP Metaverse!
 6. 	Join our Discord community and get involved!
