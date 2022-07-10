@@ -11,7 +11,7 @@ A metaverse like Xctualyfe allows Singaporeans and people from all over the worl
 
 #### How to join the Metaverse?
 
-1. 	Register an account at https://xctualyfe.com/account/signup/ 
+1. 	Register an account <a href="https://xctualyfe.com/account/signup/" target="_blank">here</a> 
 2. 	Check your email and verify your email address
 3. 	Download the Xctualyfe Windows Desktop application here
 4. 	Login to Xctualyfe and head to the NDP level
