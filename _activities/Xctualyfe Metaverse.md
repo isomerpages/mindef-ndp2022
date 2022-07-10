@@ -3,7 +3,7 @@ title: Xctualyfe Metaverse
 permalink: /activities/xctualyfemetaverse
 description: ""
 ---
-![](/images/Finute1.jpg)
+![](/images/xctualyfe_cover.jpg)
 
 #### NDP in the Xctualyfe Metaverse
 
@@ -20,4 +20,3 @@ A metaverse like Xctualyfe allows Singaporeans and people from all over the worl
 
 
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/xWXxUBP4p5I" title="NDP in the Xctualyfe Metaverse" frameborder="0" allowfullscreen></iframe>
-
