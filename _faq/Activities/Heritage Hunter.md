@@ -1,9 +1,10 @@
 ---
 title: Heritage Hunter
-permalink: /faq/activities/heritagehunter
+permalink: /faq/heritagehunter
 description: ""
 third_nav_title: Activities
 ---
+
 ## 9. Activities
  
 ### <u>Heritage Hunter</u>

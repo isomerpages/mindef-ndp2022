@@ -1,9 +1,10 @@
 ---
 title: Finute Metaverse
-permalink: /faq/metaverse
+permalink: /faq/finutemetaverse
 description: ""
 third_nav_title: Activities
 ---
+
 
 
 ## 9. Activities
