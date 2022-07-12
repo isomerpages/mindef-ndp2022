@@ -3,7 +3,7 @@ title: Carnival @ South West
 permalink: /heartlands/southwest
 description: ""
 ---
-#### Celebrate with Our Stars @ South West
+## Celebrate with Our Stars @ South West
 
 **Location:** Open Field next to Buona Vista MRT Station
 
