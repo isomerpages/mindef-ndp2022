@@ -18,7 +18,7 @@ description: ""
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
 * SAF and Home Team Vehicles Static Display
 
-Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
+Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
 <p><img style="width:80%!important;" src="/images/Wisma-Geylang-Serai.jpg" alt="" /></p>
 
