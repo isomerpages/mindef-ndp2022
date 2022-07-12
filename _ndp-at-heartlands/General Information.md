@@ -41,7 +41,13 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm8.jpg" alt="Image"></td>
-         <td><br>The Red Lions will be performing two jumps over two heartland locations.</td>
+         <td><br>The Red Lions will be performing free-fall jumps over two heartland locations <b>[Non-Ticketed Event]</b>
+<ul>
+	<li style="font-size:1rem">Beside Bishan MRT: 7 Aug 22, 8:40am to 9:30am</li>
+	<li style="font-size:1rem">Opposite Ghim Moh Market: 7 Aug 22, 9:10am to 10:00am</li>
+					 </ul>
+Click <a href="/heartlands/red-lions" target="_blank">here</a> for more information. 
+</td>
       </tr>
    </tbody>
 </table>
