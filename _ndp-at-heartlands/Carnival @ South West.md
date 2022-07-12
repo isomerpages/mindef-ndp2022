@@ -17,7 +17,7 @@ description: ""
 * August Meet-and-Greet
 * SAF and Home Team Vehicles Static Display
 
-Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
+Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
 <p><img style="width:80%!important;" src="/images/Buona-Vista.jpg" alt="" /></p>
 
