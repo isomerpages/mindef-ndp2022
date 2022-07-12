@@ -4,8 +4,9 @@ permalink: /heartlands/fireworks-at-central
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-**Ang Mo Kio (Open space next to Ang Mo Kio Library)** 
 <p><img style="width:80%!important;" src="/images/AMK-FW.jpg" alt="" /></p>
+
+**Ang Mo Kio (Open space next to Ang Mo Kio Library)** 
 
 **Directions**<br>
 **By Bus**<br>
@@ -22,4 +23,4 @@ NS16 Ang Mo Kio (~ 1 km)
 Parking is available at Ang Mo Kio Carpark AMA55
 
 **By Private Transport**<br>
-Public can drop off inside the HDB carpark, near COURTS Ang Mo Kio. 
+Public can drop off inside the HDB carpark, near COURTS Ang Mo Kio.
