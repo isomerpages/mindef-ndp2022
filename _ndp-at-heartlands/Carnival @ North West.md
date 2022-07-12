@@ -3,20 +3,18 @@ title: Carnival @ North West
 permalink: /heartlands/northwest
 description: ""
 ---
-#### ONE Heart @ North East
+#### Family Bliss @ North West
 
-**Location:** Punggol Open Field next to Waterway Point
+**Location:** Open Space next to Sembawang MRT Station
 
 **Date and time:** 6 Aug 2022 (Sat), 4pm to 9 pm
 
 **Highlights:**
-* One Heart Concert (ft. Haohao, Bao Bei Jie Mei, Hazy Mirza, Sunny Jackson, Sharon Shobana, Supersonic and more)
-* Special Performance by Singer for NDP 2022 Theme Song “Stronger Together” – Taufik Batisah
-* Food Street
-* Carnival Games
-* Augmented Reality Booths 
-* Roving Performances (Stilt walkers, Mascots and more)
+* Live Performances by Singer for NDP 2022 Theme Song “Stronger Together” - Taufik Batisah, and SPOP (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng)
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board, SportSG, and more
+* Carnival Rides and Games
+* Food Stalls
+* Family Bliss Race @ North-West
 * SAF and Home Team Vehicles Static Display
 
 
@@ -26,17 +24,19 @@ Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing info
 
 **Directions**<br>
 **By Bus**<br>
-Punggol Station/Waterway Point (65251)<br>
-39, 381<br>
-Punggol Station/Interchange (65259)<br>
-39, 43, 43M, 43e, 117, 117M, 118, 381, 384
+Sembawang Interchange (58009)<br>
+117, 117M, 167, 859, 859A, 859B, 859T, 882, 882A, 883, 883M, 980, 981<br>
+Sembawang Station (58211)<br>
+117, 117M, 858, 859, 859B, 882, 883, 883M, 981<br>
+Opposite Sembawang Station (58219)<br>
+117, 117M, 858, 858A, 859, 859A, 859T, 882, 882A, 883, 883M, 981
 
 
 **By MRT**<br>
-NE17 Punggol (~100 m)
+NS11 Sembawang (~50m)
 
 **By Car**<br>
-Parking is available at nearby HDB carparks along Punggol Central
+Parking is available at nearby HDB carparks or at Sun Plaza
 
 **By Private Transport**<br>
-Visitors may opt to drop-off at Waterway Point, or at any of the nearby HDB blocks before walking over
+Visitors may opt to drop-off at Sun Plaza or at Taxi Stand H13 located near the MRT
