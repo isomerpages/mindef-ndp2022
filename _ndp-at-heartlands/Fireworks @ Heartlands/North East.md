@@ -4,9 +4,8 @@ permalink: /heartlands/fireworks-at-northeast
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-<p><img style="width:80%!important;" src="/images/Former-TPJC.jpg" alt="" /></p>
-
 **Tampines (Former TPJC)** 
+<p><img style="width:80%!important;" src="/images/Former-TPJC.jpg" alt="" /></p>
 
 **Directions**<br>
 **By Bus**<br>
