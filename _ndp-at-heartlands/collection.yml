@@ -2,5 +2,5 @@ collections:
   ndp-at-heartlands:
     output: true
     order:
-      - Overview.md
+      - General Information.md
       - Advisories.md
