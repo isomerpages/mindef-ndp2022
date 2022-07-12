@@ -57,7 +57,19 @@ Click <a href="/heartlands/red-lions" target="_blank">here</a> for more informat
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm9.jpg" alt="Image"></td>
-         <td><br>Look forward to a dazzling display of fireworks <span class="red-ttesxt">in the heartlands</span> on 9 August 2022.</td>
+         <td><br>Watch a dazzling display of fireworks at five heartland locations <b>[Non-Ticketed Event]</b>
+Locations:
+<ul>
+	<li style="font-size:1rem">Central Singapore: Open Field beside Ang Mo Kio Library</li>
+	<li style="font-size:1rem">North East: Old Tampines Junior College</li>
+<li style="font-size:1rem">North West: Woodlands Stadium</li>
+<li style="font-size:1rem">South West: Jurong West Stadium</li>
+	<li style="font-size:1rem">South East: Bedok Stadium</li>
+					 </ul>
+Entry into the stadiums starts from 6 pm onwards, subject to capacity limits.<br>
+Estimated Time of Fireworks: Between 8:15 pm to 8:25 pm<br>
+Click <a href="/heartlands/fireworks" target="_blank">here</a> for more information
+</td>
       </tr>
    </tbody>
 </table>
