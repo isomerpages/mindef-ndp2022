@@ -22,7 +22,7 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
    <tbody>
       <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm3.jpg" alt="Image"></td>
-         <td><br>Five carnival locations across the island on 6 and 7 August **[Ticketed Event]**
+				<td><br>Five carnival locations across the island on 6 and 7 August <b>[Ticketed Event]</b>
 				</td>
       </tr>
       <tr>
