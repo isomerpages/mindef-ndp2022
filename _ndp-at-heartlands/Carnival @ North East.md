@@ -3,8 +3,6 @@ title: Carnival @ North East
 permalink: /heartlands/northeast
 description: ""
 ---
-<p><img style="width:80%!important;" src="/images/Punggol.jpg" alt="" /></p>
-
 #### ONE Heart @ North East
 
 **Location:** Punggol Open Field next to Waterway Point
