@@ -30,4 +30,4 @@ Application for tickets to the five National Day Heartland Carnivals will be don
 * A confirmation email will be sent to the registered email address, which can be used to grant entry into the carnival site.
 * Ticket application will commence on 23 July 2022, 10am.
 
-#### Questions? Click [here](/faq/heartlands) for FAQs.
+#### Questions? Click [here](/faq/ndp-at-heartlands) for FAQs.
