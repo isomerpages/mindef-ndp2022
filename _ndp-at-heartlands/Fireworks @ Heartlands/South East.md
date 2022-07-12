@@ -4,7 +4,7 @@ permalink: /heartlands/fireworks-at-southeast
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-**Bedok (Bedok Stadium) ** 
+**Bedok (Bedok Stadium)** 
 <p><img style="width:80%!important;" src="/images/Bedok-FW.jpg" alt="" /></p>
 
 **Directions**<br>
