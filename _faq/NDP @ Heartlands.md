@@ -29,20 +29,21 @@ On the morning of 7 August, the Red Lions will conduct free-fall jumps at Bishan
 #### Q2-4. Where and when are the Heartlands Fireworks happening?
 On 9 August, there will be five heartland sites featuring fireworks displays between 8:15pm to 8:25pm, concurrent with the fireworks medley at The Float @ Marina Bay. The five sites are: (i) Open field next to Ang Mo Kio Public Library; (ii) Bedok Stadium; (iii) Former Tampines JC; (iv) Woodlands Stadium; and (v) Jurong West Stadium. The stadiums and former TPJC will be open to the public for viewing of the fireworks from 6:00pm onwards.
 
-#### Q2-5. Do I need tickets for the Heartland Celebrations and how can I get them?
+#### Q2-5. Do I need tickets for the Heartland Celebrations?
 
 The five Heartland Carnivals are ticketed events. The Red Lions and Heartland Fireworks are non-ticketed events. 
 
-#### Q2-7: Where and when will the state flags fly-past?
-On 9 August, the state flag carried by the Chinook will soar around the island.
+#### Q2-6: How do I get a ticket for the Heartland Celebrations?
+Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the Heartland Carnival sites. Application for tickets can be done via two modes: (i) physical collection at selected Community Clubs (CC); or (ii) online application via the NDP website. From 14 July, tickets will be made available at identified CCs. Tickets collected at the CCs will come with site-specific coupons and entitle visitors to one NDP pack, which can be redeemed at the event site. For the full list of identified CCs, please refer to the NDP website. 
 
-More details will be out soon! 😊
+From 23 July, the public can apply online for entry-only tickets via the BookingSG link on the NDP website. Entry-only tickets will not have site-specific coupons nor the NDP pack. Upon successful application, a confirmation email will be sent to the registered email address. Visitors can present this confirmation email to gain entry into the Heartland Carnival sites. 
 
 
-#### Q2-8: Where and when will the F-16 fighter jets fly-past?
-On 9 August, our F-16 fighter jets will fly past homes across the nation. 
+#### Q2-6: How many tickets can I register for?
+Each Singaporean/ PR can apply for 2 tickets only.
 
-More details will be out soon! 😊
+#### Q2-8: Do infants require tickets?
+Infants accompanied by an adult with a valid ticket will be allowed entry into the site.  
 
 #### Q2-9: What are the COVID-19 measures at the heartland sites?
 In line with the national guidelines, visitors of the five Heartland Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. As Heartlands Celebrations will be outdoors, **mask wearing is optional but strongly encouraged. **
