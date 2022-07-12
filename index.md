@@ -15,13 +15,13 @@ sections:
       button: MAKE A PLEDGE TODAY
       url: /pledge/
       key_highlights:
-        - title: Overview of NDP
-          description: What to Expect for NDP22
+        - title: Road Closure
+          description: Road Closures at Vicinity of Float
           url: /about/what-to-expect
-        - title: "#PledgeSG"
-          description: Pledge and Do Good Today
-          url: /pledge
-        - title: E-Vouchers
+        - title: Heartland Celebrations
+          description: NDP Celebration at our Heartlands
+          url: /ndp-at-heartlands
+        - title: E-Coupons
           description: Check out Offers and Deals
           url: https://greendotmedia.com.sg/ndpcoupons
   - infobar:
