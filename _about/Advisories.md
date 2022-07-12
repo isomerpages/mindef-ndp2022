@@ -9,7 +9,7 @@ For motorists and commuters who are intending to travel to the Marina Bay area, 
 
 #### Admission Advisory for Preview Shows
 
-For those attending the Preview Shows, please click here for essential information on getting there, things to bring, vaccination-differentiated measures and more. Click <a href="/files/NDP%2022%20PREVIEW%20SHOW%20Advisory%20Caa%20030722.pdf" target="_blank">here</a> for details.
+For those attending the Preview Shows, please click here for essential information on getting there, things to bring, vaccination-differentiated measures and more. Click <a href="/files/NDP 22 Preview Advisory.pdf" target="_blank">here</a> for details.
 
 #### Admission Advisory for NE Shows
 
