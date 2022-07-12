@@ -2,11 +2,11 @@ collections:
   ndp-at-heartlands:
     output: true
     order:
-      - Heartland Aerial Activities.md
       - General Information.md
       - Carnival @ Central.md
       - Carnival @ North East.md
       - Carnival @ North West.md
       - Carnival @ South West.md
       - Carnival @ South East.md
+      - Heartland Aerial Activities.md
       - Advisories.md
