@@ -2,6 +2,7 @@ collections:
   ndp-at-heartlands:
     output: true
     order:
+      - Carnival @ South East.md
       - Carnival @ South West.md
       - Carnival @ North West.md
       - Carnival @ North East.md
