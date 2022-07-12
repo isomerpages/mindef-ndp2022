@@ -3,33 +3,37 @@ title: Carnival @ Central
 permalink: /heartlands/central
 description: ""
 ---
-![](/images/votn_montage.jpg)
+![](/images/Bishan-AMK.jpg)
+#### Celebration in the Park
 
-In celebration of this year's National Day, we are inviting all Singaporeans to be part of NDP 2022's Voice of the Nation (VOTN)! Simply film yourself singing your hearts out to this year's Theme Song “Stronger Together”!
+Location: Bishan-Ang Mo Kio Park, Ficus Green
+Date and time: 6 Aug 2022 (Sat), 4pm to 9 pm
+Highlights:
+•	Live Performances by Liu Ling Ling and SPOP WAVE! Finalists (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng)
+•	Activities such as Bubble Football, Archery Tag, Saber Tag, Square Stepping
+•	SAF and Home Team Vehicles Static Display
+•	Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
+•	SG Family Interactive Exhibitions and Games
+•	Celebrative Stage & Carnival Performances
+Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
-By participating, you stand a chance to: 
-<br>(1) Be featured in the **<font color="#ee3e35">VOTN montage video</font>** and 
-<br>(2) Win a pair of tickets to one of the **<font color="#ee3e35">NDP Shows*</font>** or an **<font color="#ee3e35">August Plushie</font>** in a lucky draw!
+Directions<br>
+By Bus<br>
+Opposite Ang Mo Kio Swimming Complex (54089)<br>
+71, 133, 136, 262<br>
+Teck Ghee Ct (54081)<br>
+71, 133, 136, 262
 
-#### Follow the instructions in the video to film yourself singing:
+By MRT<br>
+NS16 Ang Mo Kio<br> 
+(Bus to Take from station to Bishan-Ang Mo Kio Park: 133, 136)	
+NS17 CC15 Bishan<br>
+(Bus to take from station to Bishan-Ang Mo Kio Park: 50, 58, 71. 156)
 
-<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/IIM0Y1zHmbQ" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
+By Car<br>
+Parking is available at nearby HDB carparks along Bishan St 22 and Ang Mo Kio Ave 1<br>
+(Note: Carpark A of Bishan-AMK Park will be closed)
 
-#### Follow these 4 simple steps to qualify for the lucky draw:
-**<font color="#ee3e35">Step 1</font>**: Submit your video <a href="https://unearthedproductions.com.sg/ndp-2022-votn/" target="_blank">here</a>.
+By Private Transport<br>
+Drop-off will not be available at Bishan-AMK Park. Visitors are advised to alight at 341 Teck Ghee Market and Food Centre or Block 251 Bishan St 22
 
-**<font color="#ee3e35">Step 2</font>**: Post your video on your personal Facebook or Instagram page, tag NDPeeps and use hashtags #NDP2022 #StrongerTogether #Majulah.
-
-**<font color="#ee3e35">Step 3</font>**: Set your profile/post to public so that we can watch your video!
-
-**<font color="#ee3e35">Step 4</font>**: Follow NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a> or <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a>.
-
-
-#### Submission Period
-From <u>13 June 2022, 7pm</u> to <u>31 July 2022, 12pm</u>. Only one submission per person. 
-
-#### Notification of Lucky Draw Winners 
-
-Winners will be contacted during the period of 1 to 2 August 2022 via email ([NDPeeps@defence.gov.sg](#)).
-
-**NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
