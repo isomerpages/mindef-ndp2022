@@ -79,7 +79,7 @@ Click <a href="/heartlands/fireworks" target="_blank">here</a> for more informat
    <tbody>
 		  <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands State Flag Flypast Icon 26May2022 9am.jpg" alt="Image"></td>
-         <td><br> Fighter Island Flypast and Fly-Our-Flag in the heartlands.</td>
+         <td><br> Catch the Fighter Island Flypast and the Fly-Our-Flag by our F-16s, Chinooks and Apache Helicopters as they make their way through the Heartlands on 9 Aug, from 5.25 pm to 6.15pm.</td>
       </tr>
    </tbody>
 </table>
