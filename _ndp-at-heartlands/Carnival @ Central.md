@@ -17,7 +17,7 @@ description: ""
 * SG Family Interactive Exhibitions and Games
 * Celebrative Stage & Carnival Performances
 
-Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
+Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
 <p><img style="width:80%!important;" src="/images/Bishan-AMK.jpg" alt="" /></p>
 
