@@ -29,6 +29,7 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
 <li>North West (Open Space next to Sembawang MRT Station): 6 Aug 22 (Sat), 4pm to 9pm</li>
 <li>South West (Open Field next to Buona Vista MRT Station): 6 Aug 22 (Sat), 4pm to 9pm</li>
 <li>South East (Wisma Geylang Serai): 7 Aug 22 (Sun), 4pm to 9pm</li>
+	Click <a href="/heartlands" target="_blank">here</a> for ticketing information.
 					</ul>
 				</td>
       </tr>
