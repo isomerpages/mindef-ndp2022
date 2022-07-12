@@ -3,7 +3,6 @@ title: Carnival @ North West
 permalink: /heartlands/northwest
 description: ""
 ---
-
 #### ONE Heart @ North East
 
 **Location:** Punggol Open Field next to Waterway Point
@@ -23,7 +22,7 @@ description: ""
 
 Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
-<p><img style="width:80%!important;" src="/images/Punggol.jpg" alt="" /></p>
+<p><img style="width:80%!important;" src="/images/Sembawang.jpg" alt="" /></p>
 
 **Directions**<br>
 **By Bus**<br>
