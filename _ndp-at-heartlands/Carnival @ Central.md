@@ -3,8 +3,6 @@ title: Carnival @ Central
 permalink: /heartlands/central
 description: ""
 ---
-<p><img style="width:80%!important;" src="/images/Bishan-AMK.jpg" alt="" /></p>
-
 #### Celebration in the Park
 
 **Location:** Bishan-Ang Mo Kio Park, Ficus Green
