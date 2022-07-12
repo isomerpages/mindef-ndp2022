@@ -4,7 +4,9 @@ permalink: /heartlands
 description: ""
 ---
 ![](/images/NDP%20@%20Heartlands%20KV%202Jun2022%2012pm.jpg)
-#### NDP @ Heartlands
+### NDP @ Heartlands
+This National Day, join us in celebrating Singapore’s 57th birthday at 12 locations in the Heartland. On 6 and 7 Aug at five carnival locations, Singaporeans can look forward to family activities, engaging exhibitions, musical and dance performances, and a static display of assets by the SAF and the Home Team. On 7 Aug, the Red Lions will perform free-fall jumps over two heartland sites. On 9 Aug, there will be Fighter Island Flypast and Fly-Our-Flag by the RSAF, and a dazzling display of fireworks at five locations in the evening. 
+
 <style>
    @media all and (max-width: 768px) {
    tr > td:first-child {
