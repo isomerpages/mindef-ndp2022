@@ -4,9 +4,8 @@ permalink: /heartlands/fireworks-at-central
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-<p><img style="width:80%!important;" src="/images/AMK-FW.jpg" alt="" /></p>
-
 **Ang Mo Kio (Open space next to Ang Mo Kio Library)** 
+<p><img style="width:80%!important;" src="/images/AMK-FW.jpg" alt="" /></p>
 
 **Directions**<br>
 **By Bus**<br>
