@@ -3,8 +3,8 @@ title: General Information
 permalink: /heartlands
 description: ""
 ---
-
 ![](/images/NDP%20@%20Heartlands%20KV%202Jun2022%2012pm.jpg)
+#### NDP @ Heartlands
 <style>
    @media all and (max-width: 768px) {
    tr > td:first-child {
