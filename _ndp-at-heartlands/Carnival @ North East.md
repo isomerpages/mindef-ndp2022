@@ -20,7 +20,7 @@ description: ""
 * SAF and Home Team Vehicles Static Display
 
 
-Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
+Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
 <p><img style="width:80%!important;" src="/images/Punggol.jpg" alt="" /></p>
 
