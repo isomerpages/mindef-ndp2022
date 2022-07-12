@@ -39,7 +39,7 @@ Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the
 From 23 July, the public can apply online for entry-only tickets via the BookingSG link on the NDP website. Entry-only tickets will not have site-specific coupons nor the NDP pack. Upon successful application, a confirmation email will be sent to the registered email address. Visitors can present this confirmation email to gain entry into the Heartland Carnival sites. 
 
 
-#### Q2-6: How many tickets can I register for?
+#### Q2-7: How many tickets can I register for?
 Each Singaporean/ PR can apply for 2 tickets only.
 
 #### Q2-8: Do infants require tickets?
@@ -49,4 +49,4 @@ Infants accompanied by an adult with a valid ticket will be allowed entry into t
 In line with the national guidelines, visitors of the five Heartland Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. As Heartlands Celebrations will be outdoors, **mask wearing is optional but strongly encouraged. **
 
 <br><br>
-*<sup>1</sup>An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days. *
+*<sup>1</sup>An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days.*
