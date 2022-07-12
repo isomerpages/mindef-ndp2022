@@ -2,5 +2,6 @@ collections:
   ndp-at-heartlands:
     output: true
     order:
+      - Carnival @ Central.md
       - General Information.md
       - Advisories.md
