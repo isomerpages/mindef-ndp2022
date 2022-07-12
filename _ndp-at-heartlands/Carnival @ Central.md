@@ -3,7 +3,7 @@ title: Carnival @ Central
 permalink: /heartlands/central
 description: ""
 ---
-#### Celebration in the Park
+## Celebration in the Park
 
 **Location:** Bishan-Ang Mo Kio Park, Ficus Green
 
