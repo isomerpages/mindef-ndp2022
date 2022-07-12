@@ -2,5 +2,5 @@ collections:
   ticketing:
     output: true
     order:
-      - ticketing.md
       - NDP @ Heartlands2.md
+      - ticketing.md
