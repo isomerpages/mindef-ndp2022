@@ -6,8 +6,6 @@ third_nav_title: Red Lions @ Heartlands
 ---
 <p><img style="width:80%!important;" src="/images/Bishan-RL.jpg" alt="" /></p>
 
-#### Celebrating Togetherness @ South East
-
 On 7 Aug, the Red Lions will be conducting free-fall jumps over two heartland locations – (1) next to Bishan MRT; and (2) opposite Ghim Moh Market.
 
 **Location #1 – Bishan (Open field next to Bishan MRT Station), 8:40 am to 9:30 am** 
