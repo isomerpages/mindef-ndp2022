@@ -19,7 +19,7 @@ Highlights:
 * Celebrative Stage & Carnival Performances
 
 Click <a href="ticketing/heartlands" target="_blank">here</a> for ticketing information.
-
+![](/images/Bishan-AMK.jpg)
 Directions<br>
 By Bus<br>
 Opposite Ang Mo Kio Swimming Complex (54089)<br>
