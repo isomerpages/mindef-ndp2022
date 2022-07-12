@@ -24,7 +24,7 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
          <td style="width: 156px"><img src="/images/NDP @ Heartlands Images 20May2022 1pm3.jpg" alt="Image"></td>
 				<td><br>Five carnival locations across the island on 6 and 7 August <b>[Ticketed Event]</b>
 <ul>
-<li>Central Singapore (Bishan-Ang Mo Kio Park, Ficus Green): 6 Aug 22 (Sat), 4pm to 9pm</li>
+<li style="font-size:1rem">Central Singapore (Bishan-Ang Mo Kio Park, Ficus Green): 6 Aug 22 (Sat), 4pm to 9pm</li>
 <li>North East (Punggol Open Field beside Waterway Point): 6 Aug 22 (Sat), 4pm to 9pm</li>
 <li>North West (Open Space next to Sembawang MRT Station): 6 Aug 22 (Sat), 4pm to 9pm</li>
 <li>South West (Open Field next to Buona Vista MRT Station): 6 Aug 22 (Sat), 4pm to 9pm</li>
