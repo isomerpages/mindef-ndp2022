@@ -4,22 +4,22 @@ permalink: /heartlands/fireworks-at-northeast
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-**Ang Mo Kio (Open space next to Ang Mo Kio Library)** 
-<p><img style="width:80%!important;" src="/images/AMK-FW.jpg" alt="" /></p>
+<p><img style="width:80%!important;" src="/images/Former-TPJC.jpg" alt="" /></p>
+
+**Tampines (Former TPJC)** 
 
 **Directions**<br>
 **By Bus**<br>
-Courts Ang Mo Kio (54049)<br>
-13, 86, 138, 162, 162M, 851, 851e, 852, 853, 853M<br>
-Before Ang Mo Kio Library (54059)<br>
-13, 86, 138, 162, 162M, 851, 851e, 852, 853, 853M
-
+Opp Block 390 (76231)<br>
+3, 3A, 4, 9, 9A, 12, 12e, 17, 18, 19, 21, 29, 29A, 34, 37, 39, 59, 81, 293, 518<br>
+Block 390 (76239)<br>
+3, 4, 9, 9A, 12, 12e, 17, 18, 19, 21, 29, 34, 37, 39, 59, 81, 293, 518
 
 **By MRT**<br>
-NS16 Ang Mo Kio (~ 1 km)
+DT33 Tampines East (~ 750m)
 
 **By Car**<br>
-Parking is available at Ang Mo Kio Carpark AMA55
+Parking is available at nearby HDB carparks
 
 **By Private Transport**<br>
-Public can drop off inside the HDB carpark, near COURTS Ang Mo Kio. 
+Public can drop off at DT33 Tampines East MRT drop-off point or nearby HDB blocks
