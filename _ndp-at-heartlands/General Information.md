@@ -35,6 +35,7 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
       </tr>
    </tbody>
 </table>
+
 ### Red Lions
 <table>
    <tbody>
@@ -44,7 +45,8 @@ This National Day, join us in celebrating Singapore’s 57th birthday at 12 loca
       </tr>
    </tbody>
 </table>
-Fireworks @ Heartlands
+
+### Fireworks @ Heartlands
 <table>
    <tbody>
       <tr>
@@ -53,6 +55,7 @@ Fireworks @ Heartlands
       </tr>
    </tbody>
 </table>
+
 ### Fly-Our-Flag and Fighter Island Flypast
 <table>
    <tbody>
