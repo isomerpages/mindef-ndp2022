@@ -84,5 +84,3 @@ Click <a href="/heartlands/fireworks" target="_blank">here</a> for more informat
    </tbody>
 </table>
 
-Stay tuned for more information in July 2022.
-**Watch this space and follow us @NDPeeps on [Facebook](https://www.facebook.com/NDPeeps), [YouTube](https://www.youtube.com/user/NDPeeps), [Instagram](https://www.instagram.com/ndpeeps/?hl=en) and [Tiktok](https://www.tiktok.com/@ndpeeps?lang=en)**
