@@ -4,22 +4,23 @@ permalink: /heartlands/fireworks-at-southwest
 description: ""
 third_nav_title: Fireworks @ Heartlands
 ---
-**Ang Mo Kio (Open space next to Ang Mo Kio Library)** 
-<p><img style="width:80%!important;" src="/images/AMK-FW.jpg" alt="" /></p>
+**Jurong (Jurong West Stadium)** 
+<p><img style="width:80%!important;" src="/images/Jurong-FW.jpg" alt="" /></p>
 
 **Directions**<br>
 **By Bus**<br>
-Courts Ang Mo Kio (54049)<br>
-13, 86, 138, 162, 162M, 851, 851e, 852, 853, 853M<br>
-Before Ang Mo Kio Library (54059)<br>
-13, 86, 138, 162, 162M, 851, 851e, 852, 853, 853M
+Opposite Block 643 (22451)<br>
+179, 185, 193, 241,502, 502A<br>
+Block 643 (22459)<br>
+179, 185, 193, 241,502
+
 
 
 **By MRT**<br>
-NS16 Ang Mo Kio (~ 1 km)
+EW28 Pioneer (~ 300m)
 
 **By Car**<br>
-Parking is available at Ang Mo Kio Carpark AMA55
+Parking is available at nearby HDB carparks
 
 **By Private Transport**<br>
-Public can drop off inside the HDB carpark, near COURTS Ang Mo Kio. 
+Public can drop off at Jurong West ActiveSG Sports Centre
