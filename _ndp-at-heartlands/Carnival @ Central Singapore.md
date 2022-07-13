@@ -32,7 +32,7 @@ Teck Ghee Ct (54081)<br>
 NS16 Ang Mo Kio<br> 
 (Bus to take from station to Bishan-Ang Mo Kio Park: 133, 136)<br>
 NS17 CC15 Bishan<br>
-(Bus to take from station to Bishan-Ang Mo Kio Park: 50, 58, 71, 156)
+(Bus to take from station to Bishan-Ang Mo Kio Park: 50, 58, 71a, 156)
 
 **By Car**<br>
 Parking will be available at HDB Carpark at Blk 338 Ang Mo Kio Ave 1 and Blk 241 Bishan Street 22 and the nearby blocks<br>
