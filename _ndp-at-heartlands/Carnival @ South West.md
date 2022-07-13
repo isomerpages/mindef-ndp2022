@@ -7,7 +7,7 @@ description: ""
 
 **Location:** Open Field next to Buona Vista MRT Station
 
-**Date and time:** 6 Aug 2022 (Sat), 4pm to 9 pm
+**Date and time:** 6 Aug 2022 (Sat), 4pm to 9pm
 
 **Highlights:**
 * Live Performances by Liu Ling Ling and SPOP (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng) and District Community Performers
