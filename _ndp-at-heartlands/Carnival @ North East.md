@@ -7,7 +7,7 @@ description: ""
 
 **Location:** Punggol Open Field next to Waterway Point
 
-**Date and time:** 6 Aug 2022 (Sat), 4pm to 9 pm
+**Date and time:** 6 Aug 2022 (Sat), 4pm to 9pm
 
 **Highlights:**
 * One Heart Concert (ft. Haohao, Bao Bei Jie Mei, Hazy Mirza, Sunny Jackson, Sharon Shobana, Supersonic and more)
