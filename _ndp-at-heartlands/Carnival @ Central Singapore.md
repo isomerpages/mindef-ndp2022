@@ -30,7 +30,7 @@ Teck Ghee Ct (54081)<br>
 
 **By MRT**<br>
 NS16 Ang Mo Kio<br> 
-(Bus to Take from station to Bishan-Ang Mo Kio Park: 133, 136)	
+(Bus to Take from station to Bishan-Ang Mo Kio Park: 133, 136)<br>
 NS17 CC15 Bishan<br>
 (Bus to take from station to Bishan-Ang Mo Kio Park: 50, 58, 71. 156)
 
