@@ -23,7 +23,7 @@ By participating, you stand a chance to win a pair of NDP Show tickets or an Aug
 <iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/uoOK-y3YsHk" title="VOTN Instructions" frameborder="0" allowfullscreen></iframe>
 
 #### Submission Period
-From <u>20 June 2022, 7pm</u> to <u>24 July 2022, 12pm</u>. We look forward to receiving your videos!
+From <u>20 June 2022, 7pm</u> to <u>31 July 2022, 12pm</u>. We look forward to receiving your videos!
 
 #### Safety
 Participants should ensure that the area used for the exercise is spacious and free from objects. Participants encountering the following symptoms during the exercise should stop immediately and seek medical attention.
@@ -34,6 +34,6 @@ Participants should ensure that the area used for the exercise is spacious and f
 
 #### Notification of Lucky Draw Winners 
 
-Winners will be contacted during the period of 25 to 26 Jul 2022 via email ([NDPeeps@defence.gov.sg](#)).
+Winners will be contacted during the period of 1 to 2 August 2022 via email ([NDPeeps@defence.gov.sg](#)).
 
 **NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*

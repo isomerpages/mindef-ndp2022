@@ -9,19 +9,18 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: "Join us in expressing your hopes and wishes for Singapore, and make
-        them a reality through your actions. #PledgeSG"
+      subtitle: Join us for this year's NDP 2022 Heartlands Celebrations!
       background: /images/NDP22-Website-Homepage-KV-5Jun2022-11am.jpg
-      button: MAKE A PLEDGE TODAY
-      url: /pledge/
+      button: Click here to find out more
+      url: /heartlands
       key_highlights:
-        - title: Overview of NDP
-          description: What to Expect for NDP22
-          url: /about/what-to-expect
+        - title: Road Closure
+          description: Road Closures at Vicinity of Float
+          url: /ndp-at-the-float/advisories
         - title: "#PledgeSG"
-          description: Pledge and Do Good Today
+          description: Make a Pledge today
           url: /pledge
-        - title: E-Vouchers
+        - title: E-Coupons
           description: Check out Offers and Deals
           url: https://greendotmedia.com.sg/ndpcoupons
   - infobar:
@@ -35,7 +34,7 @@ sections:
         Lions, fireworks and more will be brought closer to you in the
         heartlands on 6 & 7 August.
       button: Find out more
-      url: /ndp-at-heartlands/
+      url: /heartlands/
       alt: National Day at Heartlands
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:

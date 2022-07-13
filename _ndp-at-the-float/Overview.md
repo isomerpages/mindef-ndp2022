@@ -27,7 +27,8 @@ description: ""
       </tr>
    </tbody>
 </table>
-### Segment 1: Strength of Our Nation
+
+#### Segment 1: Strength of Our Nation
 <table>
    <tbody>
       <tr>
@@ -44,7 +45,8 @@ description: ""
       </tr>
    </tbody>
 </table>
-### Segment 2: The Story of Us
+
+#### Segment 2: The Story of Us
 <table>
    <tbody>
       <tr>

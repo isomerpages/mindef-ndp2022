@@ -3,13 +3,13 @@ links:
   - title: About
     collection: about
   - title: NDP @ Heartlands
-    url: /ndp-at-heartlands/
+    collection: ndp-at-heartlands
   - title: NDP @ The Float
     collection: ndp-at-the-float
   - title: Pledge & Do Good
     collection: pledge-and-do-good
   - title: Ticketing
-    url: /ticketing
+    collection: ticketing
   - title: Activities
     collection: activities
   - title: Resources

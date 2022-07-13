@@ -1,8 +1,10 @@
 ---
-title: NDP @ Heartlands
-permalink: /ndp-at-heartlands/
+title: NDP @ Heartlands (backup)
+permalink: /ndp-at-heartlands-old/
 description: ""
 ---
+
+
 ![](/images/NDP%20@%20Heartlands%20KV%202Jun2022%2012pm.jpg)
 <style>
    @media all and (max-width: 768px) {

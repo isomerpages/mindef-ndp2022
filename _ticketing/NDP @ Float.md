@@ -1,7 +1,10 @@
 ---
-title: Ticketing
+title: NDP @ Float
 permalink: /ticketing/
+description: ""
 ---
+
+
 <div style="text-align:center;"><h4>Ticket Application has Closed!</h4></div>
 
 #### Notification of Successful Ballots
