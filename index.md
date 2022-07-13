@@ -17,9 +17,9 @@ sections:
         - title: Road Closure
           description: Road Closures at Vicinity of Float
           url: /ndp-at-the-float/advisories
-        - title: Heartland Celebrations
-          description: NDP Celebration at our Heartlands
-          url: /heartlands
+        - title: "#PledgeSG"
+          description: Make a Pledge today
+          url: /pledge
         - title: E-Coupons
           description: Check out Offers and Deals
           url: https://greendotmedia.com.sg/ndpcoupons
