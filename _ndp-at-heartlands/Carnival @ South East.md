@@ -7,7 +7,7 @@ description: ""
 
 **Location:** Wisma Geylang Serai
 
-**Date and time:** 7 Aug 2022 (Sun), 4pm to 9 pm
+**Date and time:** 7 Aug 2022 (Sun), 4pm to 9pm
 
 **Highlights:**
 * Live performances by local artistes such as Rahimah Rahim
