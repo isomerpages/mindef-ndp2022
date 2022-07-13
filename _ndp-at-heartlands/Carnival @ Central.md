@@ -7,7 +7,7 @@ description: ""
 
 **Location:** Bishan-Ang Mo Kio Park, Ficus Green
 
-**Date and time:** 6 Aug 2022 (Sat), 4pm to 9 pm
+**Date and time:** 6 Aug 2022 (Sat), 4pm to 9pm
 
 **Highlights:**
 * Live Performances by Liu Ling Ling and SPOP WAVE! Finalists (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng)
