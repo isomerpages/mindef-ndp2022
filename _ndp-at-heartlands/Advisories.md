@@ -3,7 +3,7 @@ title: Advisories
 permalink: /ndp-at-heartlands/advisories
 description: ""
 ---
-## Admission Advisory for Heartland Carnivals and Fireworks
+## Advisories for Heartlands Celebrations
 
 #### Road Closures for Heartlands Celebrations
 
