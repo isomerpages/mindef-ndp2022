@@ -20,7 +20,7 @@ sections:
           url: /files/Road%20Closure%20Infographic%20caa%20010722.pdf
         - title: Heartland Celebrations
           description: NDP Celebration at our Heartlands
-          url: /ndp-at-heartlands
+          url: /heartlands
         - title: E-Coupons
           description: Check out Offers and Deals
           url: https://greendotmedia.com.sg/ndpcoupons
