@@ -12,8 +12,8 @@ sections:
       subtitle: "Join us in expressing your hopes and wishes for Singapore, and make
         them a reality through your actions. #PledgeSG"
       background: /images/NDP22-Website-Homepage-KV-5Jun2022-11am.jpg
-      button: Find Out more about the Heartlands
-      url: /heartlands/
+      button: MAKE A PLEDGE TODAY
+      url: /pledge/
       key_highlights:
         - title: Road Closure
           description: Road Closures at Vicinity of Float
