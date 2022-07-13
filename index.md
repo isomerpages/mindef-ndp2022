@@ -35,7 +35,7 @@ sections:
         Lions, fireworks and more will be brought closer to you in the
         heartlands on 6 & 7 August.
       button: Find out more
-      url: /ndp-at-heartlands/
+      url: /heartlands/
       alt: National Day at Heartlands
       image: /images/NDP22 Website Homepage Images 20May2022 11am2.jpg
   - infopic:
