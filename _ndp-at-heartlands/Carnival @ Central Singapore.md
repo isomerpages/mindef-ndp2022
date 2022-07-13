@@ -15,7 +15,7 @@ description: ""
 * SAF and Home Team Vehicles Static Display
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
 * SG Family Interactive Exhibitions and Games
-* Celebrate Stage Performances
+* Celebrative Stage Performances
 
 Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
