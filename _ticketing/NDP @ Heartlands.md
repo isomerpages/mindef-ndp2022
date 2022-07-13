@@ -5,8 +5,8 @@ description: ""
 ---
 ## NDP @ Heartlands Tickets
 Members of the public can apply for tickets to visit the five National Day Heartland Celebration Carnivals: 
-* Central Singapore: Bishan-Ang Mo Kio, Ficus Green (6 Aug 2022, 4pm – 9pm)
-* North East: Open Field beside Waterway Point (6 Aug 2022, 4pm– 9pm)
+* Central Singapore: Bishan-Ang Mo Kio Park, Ficus Green (6 Aug 2022, 4pm – 9pm)
+* North East: Punggol Open Field beside Waterway Point (6 Aug 2022, 4pm– 9pm)
 * North West: Open Space next to Sembawang MRT Station (6 Aug 2022, 4pm– 9pm)
 * South West: Open Field next to Buona Vista MRT Station (6 Aug 2022, 4pm– 9pm)
 * South East: Wisma Geylang Serai (7 Aug 2022, 4pm– 9pm)
@@ -16,7 +16,7 @@ All Singapore Citizens and Permanent Residents are eligible to apply for tickets
 This is a VDS event. Visitors must be (i) a fully vaccinated individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
 
 #### Ticketing Information 
-Application for tickets to the five National Day Heartland Carnivals will be done in two phases:
+Application for tickets to the five National Day Heartland Celebration Carnivals will be done in two phases:
 
 **Phase 1: Application for Physical Tickets at Community Clubs (CCs)**
 * Singaporeans/ PRs may apply for tickets at the CCs from 14 Jul 22, 10 am, while stocks last. Tickets will be released on a first-come, first-serve basis.
