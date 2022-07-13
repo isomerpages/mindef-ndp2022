@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/NDP-Overview-page-Infographic.jpg)
 ## NDP @ Heartlands
-This National Day, join us in celebrating Singapore’s 57th birthday at 12 locations in the Heartland. On 6 and 7 Aug at five carnival locations, Singaporeans can look forward to family activities, engaging exhibitions, musical and dance performances, and a static display of assets by the SAF and the Home Team. On 7 Aug, the Red Lions will perform free-fall jumps over two heartland sites. On 9 Aug, there will be Fighter Island Flypast and Fly-Our-Flag by the RSAF, and a dazzling display of fireworks at five locations in the evening. 
+This National Day, join us in celebrating Singapore’s 57th birthday at 12 locations in the Heartland. On 6 and 7 Aug at five carnival locations, Singaporeans can look forward to family activities, engaging exhibitions, musical and dance performances, and a static display of assets by the SAF and the Home Team. On 7 Aug, the Red Lions will perform free-fall jumps over two heartland sites. On 9 Aug, there will be Fighter Island Flypast and Fly Our Flag by the RSAF, and a dazzling display of fireworks at five locations in the evening. 
 
 <style>
    @media all and (max-width: 768px) {
@@ -74,12 +74,12 @@ Click <a href="/heartlands/fireworks" target="_blank">here</a> for more informat
    </tbody>
 </table>
 
-#### Fly-Our-Flag and Fighter Island Flypast
+#### Fly Our Flag and Fighter Island Flypast
 <table>
    <tbody>
 		  <tr>
          <td style="width: 156px"><img src="/images/NDP @ Heartlands State Flag Flypast Icon 26May2022 9am.jpg" alt="Image"></td>
-         <td><br> Catch the Fighter Island Flypast and the Fly-Our-Flag by our F-16s, Chinooks and Apache Helicopters as they make their way through the Heartlands on 9 Aug, from 5.25 pm to 6.15pm.</td>
+         <td><br> Catch the Fighter Island Flypast and the Fly Our Flag by our F-16s, Chinooks and Apache Helicopters as they make their way through the Heartlands on 9 Aug, from 5.25 pm to 6.15pm.</td>
       </tr>
    </tbody>
 </table>
