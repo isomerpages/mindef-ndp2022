@@ -34,7 +34,7 @@ On 9 August, there will be five heartland sites featuring fireworks displays bet
 The five Heartland Carnivals are ticketed events. The Red Lions and Heartland Fireworks are non-ticketed events. 
 
 #### Q2-6: How do I get a ticket for the Heartland Celebrations?
-Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the Heartland Carnival sites. Application for tickets can be done via two modes: (i) physical collection at selected Community Clubs (CC); or (ii) online application via the NDP website. From 14 July, tickets will be made available at identified CCs. Tickets collected at the CCs will come with site-specific coupons and entitle visitors to one NDP pack, which can be redeemed at the event site. For the full list of identified CCs, please click here. 
+Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the Heartland Carnival sites. Application for tickets can be done via two modes: (i) physical collection at selected Community Clubs (CC); or (ii) online application via the NDP website. From 14 July, tickets will be made available at identified CCs. Tickets collected at the CCs will come with site-specific coupons and entitle visitors to one NDP pack, which can be redeemed at the event site. For the full list of identified CCs, please click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a>. 
 
 From 23 July, the public can apply online for entry-only tickets via the BookingSG link on the NDP website. Entry-only tickets will not have site-specific coupons nor the NDP pack. Upon successful application, a confirmation email will be sent to the registered email address. Visitors can present this confirmation email to gain entry into the Heartland Carnival sites. 
 
