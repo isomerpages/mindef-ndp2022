@@ -31,10 +31,10 @@ On 9 August, there will be five heartland sites featuring fireworks displays bet
 
 #### Q2-5. Do I need tickets for the Heartland Celebrations?
 
-The five Heartland Carnivals are ticketed events. The Red Lions and Heartland Fireworks are non-ticketed events. 
+The five Heartland Celebration Carnivals are ticketed events. The Red Lions and Heartland Fireworks are non-ticketed events. 
 
-#### Q2-6: How do I get a ticket for the Heartland Celebrations?
-Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the Heartland Carnival sites. Application for tickets can be done via two modes: (i) physical collection at selected Community Clubs (CC); or (ii) online application via BookingSG. From 14 July, tickets will be made available at identified CCs. Tickets collected at the CCs will come with site-specific coupons and entitle visitors to one NDP pack, which can be redeemed at the event site. For the full list of identified CCs, please click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a>. 
+#### Q2-6: How do I get a ticket for the Heartland Celebration Carnivals?
+Singaporeans/ Permanent Residents are eligible to apply for tickets to visit the Heartland Celebration Carnival sites. Application for tickets can be done via two modes: (i) physical collection at selected Community Clubs (CC); or (ii) online application via BookingSG. From 14 July, tickets will be made available at identified CCs. Tickets collected at the CCs will come with site-specific coupons and entitle visitors to one NDP pack, which can be redeemed at the event site. For the full list of identified CCs, please click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a>. 
 
 From 23 July, the public can apply online for entry-only tickets via the BookingSG link which can be found in the ticketing tab <a href="ticketing/heartlands" target="_blank">here</a>. Entry-only tickets will not have site-specific coupons nor the NDP pack. Upon successful application, a confirmation email will be sent to the registered email address. Visitors can present this confirmation email to gain entry into the Heartland Carnival sites. 
 
@@ -46,7 +46,7 @@ Each Singaporean/ PR can apply for 2 tickets only.
 Infants accompanied by an adult with a valid ticket will be allowed entry into the site.  
 
 #### Q2-9: What are the COVID-19 measures at the heartland sites?
-In line with the national guidelines, visitors of the five Heartland Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. **Mask wearing at the Heartland Celebrations is strongly encouraged.**
+In line with the national guidelines, visitors of the five Heartland Celebration Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. **Mask wearing at the Heartland Celebrations is strongly encouraged.**
 
 <br>
 *<sup>1</sup>An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days.*
