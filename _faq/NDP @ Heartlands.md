@@ -48,5 +48,5 @@ Infants accompanied by an adult with a valid ticket will be allowed entry into t
 #### Q2-9: What are the COVID-19 measures at the heartland sites?
 In line with the national guidelines, visitors of the five Heartland Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. As Heartlands Celebrations will be outdoors, **mask wearing is optional but strongly encouraged.**
 
-<br><br>
+<br>
 *<sup>1</sup>An individual is considered fully vaccinated by national guidelines if he/she has (i) received the full regimen of a World Health Organisation Emergency Use Listing vaccine, including the respective duration post-vaccination for the vaccine to be fully effective and boosters for eligible individuals; or (ii) recovered from COVID-19 within the last 180 days.*
