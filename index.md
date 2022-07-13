@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Road Closure
           description: Road Closures at Vicinity of Float
-          url: /files/Road%20Closure%20Infographic%20caa%20010722.pdf
+          url: /ndp-at-the-float/advisories
         - title: Heartland Celebrations
           description: NDP Celebration at our Heartlands
           url: /heartlands
