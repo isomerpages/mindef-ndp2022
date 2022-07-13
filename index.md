@@ -9,11 +9,10 @@ permalink: /
 sections:
   - hero:
       title: Stronger Together, Majulah!
-      subtitle: "Join us in expressing your hopes and wishes for Singapore, and make
-        them a reality through your actions. #PledgeSG"
+      subtitle: Join us for this year's NDP 2022 Heartlands Celebrations!
       background: /images/NDP22-Website-Homepage-KV-5Jun2022-11am.jpg
-      button: MAKE A PLEDGE TODAY
-      url: /pledge/
+      button: Click here to find out more
+      url: /heartlands
       key_highlights:
         - title: Road Closure
           description: Road Closures at Vicinity of Float
