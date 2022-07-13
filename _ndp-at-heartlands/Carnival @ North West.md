@@ -7,7 +7,7 @@ description: ""
 
 **Location:** Open Space next to Sembawang MRT Station
 
-**Date and time:** 6 Aug 2022 (Sat), 4pm to 9 pm
+**Date and time:** 6 Aug 2022 (Sat), 4pm to 9pm
 
 **Highlights:**
 * Live Performances by Singer for NDP 2022 Theme Song “Stronger Together” - Taufik Batisah, and SPOP (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng)
