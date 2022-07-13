@@ -4,7 +4,7 @@ permalink: /heartlands/heartlands-aerial-activities
 description: ""
 ---
 ## Heartlands Aerial Activities
-#### Fly-Our-Flag
+#### Fly Our Flag
 ![](/images/Fly_Our_Flag-diagram.jpg)
 Two Chinook helicopters, each carrying the state flag and accompanied by a pair of Apache helicopters, will be flying through the heartlands via two routes on national day.
 
