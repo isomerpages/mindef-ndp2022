@@ -13,7 +13,7 @@ On 9 August, aerial elements will also make its way into the heartlands. The sta
 
 
 #### Q2-2. Where are the locations of the Heartland Celebration Carnivals?
-These are the five locations and dates for the Heartland Carnivals:
+These are the five locations and dates for the Heartlands Celebration Carnivals:
 
 * Central Singapore (Bishan-Ang Mo Kio Park, Ficus Green): 6 Aug 22 (Sat), 4pm to 9pm
 * North East (Punggol Open Field beside Waterway Point): 6 Aug 22 (Sat), 4pm to 9pm
