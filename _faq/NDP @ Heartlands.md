@@ -42,8 +42,8 @@ From 23 July, the public can apply online for entry-only tickets via the Booking
 #### Q2-7: How many tickets can I register for?
 Each Singaporean/ PR can apply for 2 tickets only.
 
-#### Q2-8: Do infants require tickets?
-Infants accompanied by an adult with a valid ticket will be allowed entry into the site.  
+#### Q2-8: Does my Child require tickets?
+Children 2 years old and below do not require a ticket for entry. Visitors of all other ages must have a valid ticket to enter the Heartlands Celebration Carnivals.  
 
 #### Q2-9: What are the COVID-19 measures at the heartland sites?
 In line with the national guidelines, visitors of the five Heartland Celebration Carnival sites, stadiums and former TPJC will be subjected to Vaccination Differentiated Safe Management Measures (VDS). All visitors must either be (i) **a fully vaccinated**<sup>1</sup>  individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status. **Mask wearing at the Heartland Celebrations is strongly encouraged.**
