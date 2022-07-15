@@ -145,7 +145,7 @@ permalink: /sponsors/
     <div class='column-table'><a href='https://www.galmon.com/    '><img src="/images/Galmon.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.facebook.com/FriendsofGardenia    '><img src="/images/Gardenia Food (S) Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://www.hdb.gov.sg/'><img src="/images/HDB.png" alt="Image"></a></div>
-    <div class='column-table'><a href='https://www.hiaptong.com/    '><img src="/images/Hiap Tong Crane_Transport Pte Ltd.png" alt="Image"></a></div>
+    <div class='column-table'><a href='https://www.hiaptong.com/    '><img src="/images/Hiap Tong Logo.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://ecosam.sg/'><img src="/images/Inkjet Systems Pte Ltd.png" alt="Image"></a></div>
     <div class='column-table'><a href='http://www.it-dns.sg/    '><img src="/images/iT-DnS Pte Ltd2.png" alt="Image"></a></div>
     <div class='column-table'><a href='https://jeanyipgroup.com/    '><img src="/images/Jean Yip.png" alt="Image"></a></div>
