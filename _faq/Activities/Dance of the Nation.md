@@ -4,7 +4,6 @@ permalink: /faq/dotn
 description: ""
 third_nav_title: Activities
 ---
-
 ## 9. Activities
  
 ### <u>Dance of the Nation</u>
@@ -17,7 +16,7 @@ Dance of the Nation 22 (DOTN22) is one of NDP22’s virtual engagement activitie
 
 
 #### Q9-12.  How do I participate in DOTN22?
-To participate, simply film yourself performing the dance moves for this year's Theme Song “**Stronger Together**”! Filming guidelines can be found <a href="/activities/dotn" target="_blank">here</a>. After which, submit your video submission <a href="https://unearthedproductions.com.sg/ndp-2022-dotn/" target="_blank">here</a>. You may submit videos for DOTN22 from **20 Jun 22, 7pm** to **24 Jul 22, 12pm**.
+To participate, simply film yourself performing the dance moves for this year's Theme Song “**Stronger Together**”! Filming guidelines can be found <a href="/activities/dotn" target="_blank">here</a>. After which, submit your video submission <a href="https://unearthedproductions.com.sg/ndp-2022-dotn/" target="_blank">here</a>. You may submit videos for DOTN22 from **20 Jun 22, 7pm** to **31 Jul 22, 12pm**.
 
 #### Q9-13.  Are there any video guidelines or specifications for DOTN22?
 Follow these 3 simple guidelines for your DOTN video submission!
@@ -39,10 +38,10 @@ Follow these 3 simple guidelines for your DOTN video submission!
 
 
 #### Q9-15.  When and how will I be notified if I win the lucky draw?
-Winners will be contacted during the period of 25 to 26 July 2022 via email ([ndpeeps@defence.gov.sg](#)). Terms and conditions will apply for lucky draw winners.
+Winners will be contacted during the period of 2 to 3 August 2022 via email ([ndpeeps@defence.gov.sg](#)). Terms and conditions will apply for lucky draw winners.
 
 #### Q9-16. When will the lucky draw be held?
-The Lucky Draw will be held on Monday, 25th Jul 2022, at 3pm. Winners will be chosen at random, among entries received that fulfil the eligibility and submission criteria set out above. 
+The Lucky Draw will be held on Monday, 1st August 2022, at 3pm. Winners will be chosen at random, among entries received that fulfil the eligibility and submission criteria set out above. 
 
 
 #### Q9-17. How many pairs of NDP tickets and August Plushies are there to be won in the lucky draw?
@@ -58,4 +57,4 @@ Each participant may only submit one entry; duplicates will be excluded. You rep
  
  
 #### Q9-20. When is the submission deadline for DOTN22?
-Please note that the submissions for DOTN22 will start on **20 Jun 22, 7pm** and end on **24 Jul 22, 12pm**.
+Please note that the submissions for DOTN22 will start on **20 Jun 22, 7pm** and end on **31 Jul 22, 12pm**.
