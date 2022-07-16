@@ -34,6 +34,6 @@ Participants should ensure that the area used for the exercise is spacious and f
 
 #### Notification of Lucky Draw Winners 
 
-Winners will be contacted during the period of 1 to 2 August 2022 via email ([NDPeeps@defence.gov.sg](#)).
+Winners will be contacted during the period of 2 to 3 August 2022 via email ([NDPeeps@defence.gov.sg](#)).
 
 **NDP 2022 Tickets is open to Singaporeans and PRs residing in Singapore only.*
