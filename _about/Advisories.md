@@ -7,6 +7,10 @@ description: ""
 
 For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for details. 
 
+#### Terms & Conditions for visitors to Heartland Celebration Carnivals
+
+Refer <a href="/files/Terms and Conditions for Heartland Celebration Carnivals.pdf" target="_blank">here</a> for the full terms and conditions for the Heartland Celebration Carnivals.  
+
 #### Road Closures for Heartlands Celebrations
 
 The following roads will be closed:<br>
@@ -14,6 +18,9 @@ The following roads will be closed:<br>
 Ang Mo Kio Ave 1 - Lanes 2 and 3 
 * 4 Aug 2022 (Thu) 2300hrs to 5 Aug 2022 (Fri) 0600hrs
 *	6 Aug 2022 (Sat) 2300hrs to 7 Aug 2022 (Sun) 0600hrs
+
+**Bishan Pl:**<br>
+*	7 Aug 2022 (Sat) 0800hrs to 7 Aug 2022 (Sat) 1100hrs
 
 **Buona Vista:**<br>
 Rochester Drive and Vista Exchange Green
