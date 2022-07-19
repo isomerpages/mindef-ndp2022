@@ -11,7 +11,7 @@ For visitors to the Heartland Celebration Carnivals, please click here for essen
 
 #### Terms & Conditions for visitors to Heartland Celebration Carnivals
 
-Refer <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for the full terms and conditions for the Heartland Celebration Carnivals.  
+Refer <a href="/files/Terms and Conditions for Heartland Celebration Carnivals.pdf" target="_blank">here</a> for the full terms and conditions for the Heartland Celebration Carnivals.  
 
 #### Road Closures for Heartlands Celebrations
 
