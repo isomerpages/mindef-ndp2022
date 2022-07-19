@@ -9,6 +9,10 @@ description: ""
 
 For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for details. 
 
+#### Terms & Conditions for visitors to Heartland Celebration Carnivals
+
+Refer <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for the full terms and conditions for the Heartland Celebration Carnivals.  
+
 #### Road Closures for Heartlands Celebrations
 
 The following roads will be closed:<br>
