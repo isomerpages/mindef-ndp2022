@@ -31,7 +31,7 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * Each application will come with 2 e-tickets. E-tickets DO NOT come with event coupons nor coupons for the redemption of NDP packs. 
 * A confirmation email will be sent to the registered email address, which can be used to grant entry into the carnival site.
 
-<div style="text-align:center;"><a href="https://www.booking.gov.sg/public/services/Bwl1A4lq/list?anonymous=true" style="margin:0 auto;
+<div style="text-align:center;"><a href="https://www.booking.gov.sg/public/services/Bwl1A4lq/list?anonymous=true" target="_blank" style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #ee3e35!important;
     color: #fff!important;
