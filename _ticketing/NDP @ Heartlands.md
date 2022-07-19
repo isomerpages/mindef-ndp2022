@@ -15,8 +15,6 @@ All Singapore Citizens and Permanent Residents are eligible to apply for tickets
 
 This is a VDS event. Visitors must be (i) a fully vaccinated individual; (ii) an individual certified to be medically ineligible for all vaccines under the National Vaccination Programme; or (iii) a child 12 years old and under, regardless of vaccination status.
 
-For more information on what to prepare and vaccination-differentiated measures, please refer to the advisory tab <a href="/ndp-at-heartlands/advisories" target="_blank">here</a>.
-
 #### Ticketing Information 
 Application for tickets to the five National Day Heartland Celebration Carnivals will be done in two phases:
 
