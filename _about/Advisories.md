@@ -3,6 +3,45 @@ title: Advisories
 permalink: /about/advisories
 description: ""
 ---
+#### Advisory for Visitors to Heartland Celebration Carnivals
+
+For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for details. 
+
+#### Terms & Conditions for visitors to Heartland Celebration Carnivals
+
+Refer <a href="/files/Terms and Conditions for Heartland Celebration Carnivals.pdf" target="_blank">here</a> for the full terms and conditions for the Heartland Celebration Carnivals.  
+
+#### Road Closures for Heartlands Celebrations
+
+The following roads will be closed:<br>
+**Bishan – Ang Mo Kio:**<br>
+Ang Mo Kio Ave 1 - Lanes 2 and 3 
+* 4 Aug 2022 (Thu) 2300hrs to 5 Aug 2022 (Fri) 0600hrs
+*	6 Aug 2022 (Sat) 2300hrs to 7 Aug 2022 (Sun) 0600hrs
+
+Bishan Pl<br>
+*	7 Aug 2022 (Sat) 0800hrs to 7 Aug 2022 (Sat) 1100hrs
+
+**Buona Vista:**<br>
+Rochester Drive and Vista Exchange Green
+* 4 Aug 2022 (Thu) 2300hrs to 5 Aug 2022 (Fri) 0600hrs
+* 6 Aug 2022 (Sat) 2300hrs to 7 Aug 2022 (Sun) 0600hrs
+
+**Sembawang:**<br> 
+Sembawang Vista - Lane 2
+* 5 Aug 2022 (Fri) 0100hrs to 0530hrs
+* 7 Aug 2022 (Sun) 0100hrs to 0530hrs
+
+**Punggol:**<br>
+Punggol Central – Lanes 1 and F
+* 5 Aug 2022 (Fri) 0100hrs to 0530hrs
+* 7 Aug 2022 (Sun) 0100hrs to 0530hrs
+
+**Wisma Geylang Serai:**<br>
+Sims Avenue – Lanes 1 and 2
+* 5 Aug 2022 (Fri) 2300hrs to 6 Aug 2022 (Sat) 0600hrs
+* 7 Aug 2022 (Sun) 2300hrs to 8 Aug 2022 (Mon) 0600hrs
+
 #### Road Closures in the Vicinity of The Float @ Marina Bay
 
 For motorists and commuters who are intending to travel to the Marina Bay area, please note that there will be road closures in the vicinity of the Float every Saturday from 18 Jun 2022 to 23 Jul 2022. Click <a href="/files/Road Closure Infographic.pdf" target="_blank">here</a> for details.
