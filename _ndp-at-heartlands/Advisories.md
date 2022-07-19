@@ -21,7 +21,7 @@ Ang Mo Kio Ave 1 - Lanes 2 and 3
 * 4 Aug 2022 (Thu) 2300hrs to 5 Aug 2022 (Fri) 0600hrs
 *	6 Aug 2022 (Sat) 2300hrs to 7 Aug 2022 (Sun) 0600hrs
 
-**Bishan Pl:**<br>
+Bishan Pl<br>
 *	7 Aug 2022 (Sat) 0800hrs to 7 Aug 2022 (Sat) 1100hrs
 
 
