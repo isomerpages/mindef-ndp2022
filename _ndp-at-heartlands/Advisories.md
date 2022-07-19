@@ -7,7 +7,7 @@ description: ""
 
 #### Advisory for Visitors to Heartland Celebration Carnivals
 
-For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="/files/Final Advisory.pdf" target="_blank">here</a> for details. 
+For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="/files/Heartlands Celebration Carnival Admission Advisory.pdf" target="_blank">here</a> for details. 
 
 #### Road Closures for Heartlands Celebrations
 
