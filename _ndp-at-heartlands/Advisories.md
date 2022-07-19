@@ -5,6 +5,10 @@ description: ""
 ---
 ## Advisories for Heartlands Celebrations
 
+#### Advisory for Visitors to Heartland Celebration Carnivals
+
+For visitors to the Heartland Celebration Carnivals, please click here for essential information on what to prepare for your visit and the vaccination-differentiated measures. Click <a href="" target="_blank">here</a> for details. 
+
 #### Road Closures for Heartlands Celebrations
 
 The following roads will be closed:<br>
