@@ -60,7 +60,7 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 		text-decoration: none;">CLICK HERE TO APPLY</a>
 	</div>
 	
-* Singaporeans/ PRs may apply for Entry-Only tickets via BookingSG from 23 Jul 22, 10am onwards, while stocks last. The link will be released here at a later date. Tickets will be released on a first-come, first-serve basis.
+* Singaporeans/ PRs may apply for Entry-Only tickets via BookingSG from 23 Jul 22, 10am onwards, while stocks last. Click the link above to book your tickets now. Tickets will be released on a first-come, first-serve basis.
 * Each application will come with 2 e-tickets. E-tickets DO NOT come with event coupons nor coupons for the redemption of NDP packs. 
 * A confirmation email will be sent to the registered email address, which can be used to grant entry into the carnival site.
 
