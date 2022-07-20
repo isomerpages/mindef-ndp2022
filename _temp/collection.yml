@@ -2,5 +2,6 @@ collections:
   temp:
     output: true
     order:
+      - NDP @ Heartlands.md
       - Heartlands Ticketing.md
       - Overview (Activities).md
