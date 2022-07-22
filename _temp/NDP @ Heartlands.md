@@ -64,6 +64,9 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * Each application will come with 2 e-tickets. E-tickets DO NOT come with event coupons nor coupons for the redemption of NDP packs. 
 * A confirmation email will be sent to the registered email address, which can be used to grant entry into the carnival site.
 
+#### Admission Advisory for NE Shows
+
+For those attending the NE Shows, please click here for essential information on getting there, things to bring, vaccination-differentiated measures and more. Click <a href="/files/NDP%2022%20Advisory%20NE.pdf" target="_blank">here</a> for details.
 
 
 
