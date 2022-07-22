@@ -68,6 +68,7 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 
 For those attending the NE Shows, please click here for essential information on getting there, things to bring, vaccination-differentiated measures and more. Click <a href="/files/NDP%2022%20Advisory%20NE.pdf" target="_blank">here</a> for details.
 
-
+#### Q3-6 Will there be NE Shows this year?
+National Education shows are returning to the Float this year.
 
 #### Questions? Click [here](/faq/ndp-at-heartlands) for FAQs.
