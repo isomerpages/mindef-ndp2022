@@ -32,22 +32,19 @@ The Show segment will include five live chapter performances and a Show film, de
 Follow us @NDPeeps on <a href="https://www.facebook.com/NDPeeps" target="_blank">Facebook</a>, <a href="https://www.youtube.com/user/NDPeeps" target="_blank">YouTube</a>, <a href="https://www.instagram.com/ndpeeps/?hl=en" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@ndpeeps?lang=en" target="_blank">Tiktok</a>!
 
 
-#### Q3-6 Will there be NE Shows this year?
-National Education shows are returning to the Float this year.
-
-#### Q3-7. Where and when will the fireworks be set off in NDP @ The Float?
+#### Q3-6. Where and when will the fireworks be set off in NDP @ The Float?
 On 9 August, fireworks will be set off in the heartlands, concurrent with that at The Float @ Marina Bay.
 
 
-#### Q3-8: What are the COVID-19 measures at the Float?
+#### Q3-7: What are the COVID-19 measures at the Float?
 The celebrations at the Float will adopt the prevailing national COVID Safe Management Measures (SMMs). More details will be shared subsequently.
 
-#### Q3-9: When are the dates for the NDP 2022 Previews and Actual Show? 
+#### Q3-8: When are the dates for the NDP 2022 Previews and Actual Show? 
 The dates are as follows:
 
 Preview 1: 23 Jul 2022<br>
 Preview 2: 30 Jul 2022<br>
 Actual Show: 9 Aug 2022
 
-#### Q3-10: Is NDP @ The Float wheelchair accessible?
-Yes, there are wheelchair accessible seats at the Float. Our staff are trained to assist you to your seats once they identify you. 
+#### Q3-9: Is NDP @ The Float wheelchair accessible?
+Yes, there are wheelchair accessible seats at the Float. Our staff are trained to assist you to your seats once they identify you.
