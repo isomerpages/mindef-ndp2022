@@ -16,6 +16,7 @@ description: ""
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
 * SG Family Interactive Exhibitions and Games
 * Celebrative Stage Performances
+* PAssion Arts Village On-site workshops
 
 Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 

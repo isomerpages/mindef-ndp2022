@@ -17,10 +17,13 @@ description: ""
 * Activities such as Bubble Football, Archery Tag
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
 * SAF and Home Team Vehicles Static Display
+* “Faces of South East” Giant Bear Display
+* “Flavours of South East” Drinks
+
 
 Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
-<p><img style="width:80%!important;" src="/images/Wisma-Geylang-Serai.jpg" alt="" /></p>
+<p><img style="width:80%!important;" src="/images/wisma-geylang-serai.jpg" alt="" /></p>
 
 **Directions**<br>
 **By Bus**<br>

@@ -16,6 +16,9 @@ description: ""
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board, SportSG, and more
 * August Meet-and-Greet
 * SAF and Home Team Vehicles Static Display
+* Stargazing activities
+* Celebrative Stage Performances and Engagement Activities
+
 
 Click <a href="/ticketing/heartlands" target="_blank">here</a> for ticketing information.
 
