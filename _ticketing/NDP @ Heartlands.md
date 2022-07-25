@@ -64,10 +64,10 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * Each application will come with 2 e-tickets. E-tickets DO NOT come with event coupons nor coupons for the redemption of NDP packs. 
 * A confirmation email will be sent to the registered email address, which can be used to grant entry into the carnival site.
 * Tickets to the following sites have been fully redeemed: 
-<ol>
-	<li>Central Singapore (Bishan - Ang Mo Kio Park)</li>
-	<li>North West (Open Space next to Sembawang MRT)</li>
-	<li>South West (Open Space next to Buona Vista)</li>
-</ol>
+<br>
+1.  Central Singapore (Bishan - Ang Mo Kio Park)<br>
+2. North West (Open Space next to Sembawang MRT)<br>
+3. South West (Open Space next to Buona Vista)<br>
+
 
 #### Questions? Click [here](/faq/ndp-at-heartlands) for FAQs.
