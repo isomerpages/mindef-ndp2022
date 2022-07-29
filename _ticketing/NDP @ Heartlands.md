@@ -26,10 +26,6 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * A photo ID is required when applying for tickets (e.g. Singpass, NRIC, Driving license). No prior registration is required. 
 * Click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a> for the full list of CCs that will be distributing tickets.
 
-* Tickets to the following Heartland Celebration Carnivals have been fully redeemed:
-1. North West (Open Space next to Sembawang MRT Station)
-2. North East (Open Field beside Waterway Point)
-
 **Phase 2: Online Application for E-tickets**
 
 <div style="text-align:center;"><a href="https://www.booking.gov.sg/public/services/Bwl1A4lq/list?anonymous=true" target="_blank" style="margin:0 auto;
