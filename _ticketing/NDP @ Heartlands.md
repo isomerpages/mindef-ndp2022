@@ -27,10 +27,8 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * Click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a> for the full list of CCs that will be distributing tickets.
 
 * Tickets to the following Heartland Celebration Carnivals have been fully redeemed:
-<ul>
-<li>North West: Open Space next to Sembawang MRT Station (6 Aug 2022, 4pm– 9pm)
-<li> South West: Open Field next to Buona Vista MRT Station (6 Aug 2022, 4pm– 9pm)</li>
-</ul>
+1. North West: Open Space next to Sembawang MRT Station (6 Aug 2022, 4pm– 9pm)
+2. South West: Open Field next to Buona Vista MRT Station (6 Aug 2022, 4pm– 9pm)
 
 **Phase 2: Online Application for E-tickets**
 
