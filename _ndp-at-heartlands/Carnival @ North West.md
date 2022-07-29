@@ -39,4 +39,4 @@ NS11 Sembawang (~50m)
 Parking is available at nearby HDB carparks or at Sun Plaza
 
 **By Private Transport**<br>
-Visitors may opt to drop-off at Sun Plaza or at Taxi Stand H13 located near the MRT
+Visitors may opt to drop-off at Sun Plaza or at the pick-up/drop off point located near Sembawang NSL Station along Sembawang Way.
