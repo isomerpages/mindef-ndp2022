@@ -38,7 +38,7 @@ CC22/EW21 Buona Vista (~50m)
 Parking will be available at nearby HDB Carpark GM6A, Q85, Q80 or at Star Vista
 
 **By Private Transport**<br>
-Visitors may opt to drop-off at Star Vista Taxi Stand F60 or at Taxi Stand F46 located near the MRT
+Visitors may opt to drop-off at The Star Vista or at the pick-up/drop off point located outside Buona Vista CCL/EWL Interchange Station along North Buona Vista Rd.
 
 **By Shuttle Bus**<br>
 Contact Community Clubs in South West CDD for details
