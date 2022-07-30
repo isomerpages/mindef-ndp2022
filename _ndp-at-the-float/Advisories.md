@@ -5,7 +5,7 @@ description: ""
 ---
 #### Public Footpath Closure in the Vicinity of The Float @ Marina Bay
 
-For motorists and commuters who are intending to travel to the Marina Bay area, please note that there will be road closures in the vicinPedestrians who are intending to travel to the Marina Bay area, please note that there will be public footpath closures in the vicinity of the Float on 30 Jul 2022 and 9 Aug 2022. Click <a href="/files/NDP Public Footpath Closure Advisory.pdf" target="_blank">here</a> for details.
+Pedestrians who are intending to travel to the Marina Bay area, please note that there will be public footpath closures in the vicinity of the Float on 30 Jul 2022 and 9 Aug 2022. Click <a href="/files/NDP Public Footpath Closure Advisory.pdf" target="_blank">here</a> for details.
 
 #### Road Closures in the Vicinity of The Float @ Marina Bay
 
