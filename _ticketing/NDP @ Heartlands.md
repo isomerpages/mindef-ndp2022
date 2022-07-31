@@ -25,6 +25,8 @@ Application for tickets to the five National Day Heartland Celebration Carnivals
 * Each applicant may apply for up to 2 physical tickets. Physical tickets come with  coupons that allow for the redemption of items such as NDP packs at the carnival sites.
 * A photo ID is required when applying for tickets (e.g. Singpass, NRIC, Driving license). No prior registration is required. 
 * Click <a href="/files/Ticket Collection CCs.pdf" target="_blank">here</a> for the full list of CCs that will be distributing tickets.
+* Tickets to the following Heartland Celebration Carnivals have been fully redeemed:
+1. North East (Open Field beside Waterway Point)
 
 **Phase 2: Online Application for E-tickets**
 

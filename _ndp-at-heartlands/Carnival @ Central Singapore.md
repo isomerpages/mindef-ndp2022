@@ -11,7 +11,7 @@ description: ""
 
 **Highlights:**
 * Live Performances by Liu Ling Ling and SPOP WAVE! Finalists (Gao Meigui, Ridhwan Azman and Sherly Devonne Ng)
-* Activities such as Bubble Football, Archery Tag, Light Saver Activity, Square Stepping
+* Activities such as Bubble Football, Archery Tag, Light Saber Activity, Square Stepping
 * SAF and Home Team Vehicles Static Display
 * Interactive Exhibitions and Activities by Singapore Discovery Centre, National Heritage Board and more
 * SG Family Interactive Exhibitions and Games
